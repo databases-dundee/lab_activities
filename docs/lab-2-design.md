@@ -2,13 +2,16 @@
 
 This lab is to give you practice in designing a relational database, and drawing an entity-relationship (E-R) diagram to represent this design.
 
+![An ER diagram](erinnit.png)
 ## What you need to do
 
+![A car park](carpark.jpg)
 Create an E-R model to encompass the following situation:
 - A large organisation has several parking areas, which are used by staff
 - Each parking area has a unique name, location, capacity and number of floors
 - Each parking area has parking spaces, which are uniquely identified by a space number
 - Members of staff can request the use of a parking space; each member of staff has a unique staff number, name and phone extension number
+
 
 You'll need to think about the following:
 1. What are the **entities** in this scenario?
@@ -34,8 +37,9 @@ You're also free to use anything else such as PowerPoint or pen and paper!
 There's no mandatory submission here. I'll be coming around the lab to check how everyone is doing, but if you want additional feedback, feel free to email your diagram to me at drough001@dundee.ac.uk. 
 
 ## Anything else?
-
+![TowerBuilding](uni.jpg)
 If you're done with that and want some more practice (it's all helpful for your first assignment!), try the following:
+
 
 Create an E-R model to encompass the following situation:
 - A university requires a database to store information about its applicants, current students and graduates; this will be accessible to both staff and students

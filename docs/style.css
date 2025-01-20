@@ -5,3 +5,21 @@
 .sidebar ul li a{
     font-size: 18px;
 }
+
+.app-name-link{
+    font-size: 2.0rem;
+}
+
+img{
+    float:right;
+    width: 25%;
+    margin: 20px;
+}
+
+img.first-of-type {
+    display:block;
+    float: none;
+    width:40%;
+    margin-left: auto;
+    margin-right: auto;
+}
