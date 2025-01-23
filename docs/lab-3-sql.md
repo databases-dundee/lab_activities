@@ -1,7 +1,8 @@
 # Lab 2 - SQL Practice
 
-This lab aims to give you practice in connecting to a simple SQL database and running some simple SQL queries upon it
+This lab aims to give you practice in connecting to a sample SQL database and running some basic SQL queries upon it
 
+<img src="countriesdb.PNG" class="first-of-type">
 
 ## What you need to do
 
@@ -22,11 +23,13 @@ not all screens will look *exactly* the same as the examples in this document, b
 functional parts are the same.
 3. Set up the database on your RDS using MySQL WorkBench - by the end of Part 2 above, you
 should have connected successfully to the database server. Now download the file
-SQLTutorialCreateTables.SQL from MyDundee. Click File \ Open SQL Script and select the
-SQLTutorialCreateTables.SQL that you downloaded. Within the script text, on lines 10, 12
-and 14, replace the word YOUR-DATABASE-NAME-HERE with your actual database name.
+World.SQL from MyDundee. Click File \ Open SQL Script and select the
+World.SQL that you downloaded. This is a database populated with all the world's countries, their cities,
+and languages spoken.
+
+![SQL execute button](lightnin.png)
 4. Now run the script by clicking the lightning flash icon on the toolbar to populate your
-database (it'll take a bit of time - there are a lot of cities in the world!)
+database (it'll take a bit of time - there are a **lot** of cities in the world!)
 
 ## Let's look at the SQL!
 There are a few features to note:
@@ -39,4 +42,39 @@ integrity features that can be added e.g. `NOT NULL`, `PRIMARY KEY` and `FOREIGN
 these statements are executed, or **none** of them are - this is the concept of transactions that we'll
 cover in Week 4!
 
-## Anything else?
+## Try some queries
+The database design is shown in the above image - it's quite simple, consisting of only three tables, but
+there are plenty of interesting queries we can run on it!
+
+Click the leftmost icon in the toolbar (SQL+) to open a new query window (leave the previously
+loaded query where it is, as you will need it again).
+
+Let's start by finding out what languages are spoken in Switzerland. In this case, the country code for Switzerland
+is "CHE", so we need to do something like this:
+
+`SELECT * FROM countrylanguage WHERE CountryCode = "CHE";`
+
+'countrylanguage' is the table, and 'CountryCode' is the attribute we use to search for a specific value. 
+<img src="swiss.PNG" class="first-of-type">
+
+We can also do **aggregation** operations, like counting the number of particular records, or summing up different values.
+For example, to find out how many cities there are in the UK, we can use the `COUNT` operator like this:
+
+`SELECT COUNT(*) FROM city WHERE CountryCode = "GBR";`
+
+Rather than returning all the information about each of the cities, this simply spits out a number telling us how many cities
+have the country code "GBR" (in this case, it's 81, which is 5 more than what Wikipedia says it is, but that's another mystery for another day).
+
+<img src="ukcities.PNG" class="first-of-type">
+
+## Try it yourself
+I've written a quiz in MyDundee that I'd like you to try and answer using this dataset and appropriate SQL queries. It doesn't count towards your grade;
+it's just to practise your ability to work with SQL! The questions are as follows:
+
+1. How many countries have a life expectancy of higher than 80?
+
+2. Which country is the most recent in the Americas to achieve independence?
+
+3. How many countries have a capital city beginning with D?
+
+

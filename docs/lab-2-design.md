@@ -2,7 +2,8 @@
 
 This lab is to give you practice in designing a relational database, and drawing an entity-relationship (E-R) diagram to represent this design.
 
-![An ER diagram](erinnit.png)
+<img src="erinnit.png" class="first-of-type">
+
 ## What you need to do
 
 ![A car park](carpark.jpg)
