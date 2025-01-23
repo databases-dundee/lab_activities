@@ -35,7 +35,7 @@ You are not limited to any specific tool, but here are some that I like:
 You're also free to use anything else such as PowerPoint or pen and paper!
 
 ## Anything to submit?
-There's no mandatory submission here. I'll be coming around the lab to check how everyone is doing, but if you want additional feedback, feel free to email your diagram to me at drough001@dundee.ac.uk. 
+There's no mandatory submission here, but if you want additional feedback, feel free to email your diagram to me at drough001@dundee.ac.uk. 
 
 ## Anything else?
 ![TowerBuilding](uni.jpg)
