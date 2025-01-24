@@ -6,7 +6,7 @@ This lab is to give you practice in designing a relational database, and drawing
 
 ## What you need to do
 
-![A car park](carpark.jpg)
+<img src="carpark.jpg" class="floaters">
 Create an E-R model to encompass the following situation:
 - A large organisation has several parking areas, which are used by staff
 - Each parking area has a unique name, location, capacity and number of floors
@@ -35,10 +35,11 @@ You are not limited to any specific tool, but here are some that I like:
 You're also free to use anything else such as PowerPoint or pen and paper!
 
 ## Anything to submit?
-There's no mandatory submission here, but since we're not actually together for this lab today, please do email your diagram to me at drough001@dundee.ac.uk if you want some feedback!
+There's no mandatory submission here, but since we're not actually together for this lab today (:frowning_face:), please do email your diagram to me at drough001@dundee.ac.uk if you want some feedback!
 
 ## Anything else?
-![TowerBuilding](uni.jpg)
+<img src="uni.jpg" class="floaters">
+
 If you're done with that and want some more practice (it's all helpful for your first assignment!), try the following:
 
 
