@@ -26,7 +26,7 @@ World.SQL from MyDundee. Click File \ Open SQL Script and select the
 World.SQL that you downloaded. This is a database populated with all the world's countries, their cities,
 and languages spoken.
 
-![SQL execute button](lightnin.png)
+![SQL execute button](lightnin.PNG)
 4. Now run the script by clicking the lightning flash icon on the toolbar to populate your
 database (it might take a bit of time - there are a **lot** of cities in the world!)
 
