@@ -1,8 +1,7 @@
 # Lab 2 - SQL Practice
 
 This lab aims to give you practice in connecting to a sample SQL database and running some basic SQL queries upon it
-
-<img src="countriesdb.PNG" class="first-of-type">
+![The data model for the 'world database' from MySQL](countriesdb.PNG)
 
 ## What you need to do
 
@@ -29,7 +28,7 @@ and languages spoken.
 
 ![SQL execute button](lightnin.png)
 4. Now run the script by clicking the lightning flash icon on the toolbar to populate your
-database (it'll take a bit of time - there are a **lot** of cities in the world!)
+database (it might take a bit of time - there are a **lot** of cities in the world!)
 
 ## Let's look at the SQL!
 There are a few features to note:
@@ -73,8 +72,16 @@ it's just to practise your ability to work with SQL! The questions are as follow
 
 1. How many countries have a life expectancy of higher than 80?
 
-2. Which country is the most recent in the Americas to achieve independence?
+2. Rounding to the nearest 1,000, what is the **average** population of Scottish cities?
 
-3. How many countries have a capital city beginning with D?
+3. Which country is the most recent in the Americas to achieve independence? (YOu might want to use the **LIKE** and **ORDER BY** operators here.)
 
+4. How many countries have a capital city beginning with D? (Hint, you'll likely need a **JOIN** and the **LIKE** operator too).
 
+5. Which region of the world has the largest cumulative population? (Hint, a **GROUP BY** would be useful here.)
+
+6. Which country has the highest number of cities (and how many)?
+
+7. Name one of any two of the countries with the most official languages (according to the dataset, anyway). You'll likely need a very similar query to the previous question.
+
+8. What is the most populated city in a country with Arabic as an official language (this is a difficult one that requires all three tables and possibly a nested subquery!)
