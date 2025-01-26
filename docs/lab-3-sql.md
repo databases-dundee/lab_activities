@@ -15,11 +15,8 @@ Before we start using the database, we need to perform three steps:
 1. Initialise your AWS account - you should have recently received an e-mail from AWS asking
 you to set up an account - follow the instructions in this e-mail. If you don’t have an e-mail,
 check your spam folder, and if it's not in there either, please let us know!
-2. Set up a relational database server (RDS) on your AWS account by following the AWS
-Learner Lab Database Setup Instructions document on MyDundee. Make a note of the
-database host name and your password (you'll need these in the next step). Note that
-not all screens will look *exactly* the same as the examples in this document, but the
-functional parts are the same.
+2. Set up a relational database server (RDS) on your AWS account by following the [AWS
+Learner Lab Database Setup Instructions](lab-3-aws.md)
 3. Set up the database on your RDS using MySQL WorkBench - by the end of Part 2 above, you
 should have connected successfully to the database server. Now download the file
 World.SQL from MyDundee. Click File \ Open SQL Script and select the
