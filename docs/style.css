@@ -16,6 +16,24 @@ img.floaters{
     margin: 20px;
 }
 
+img.floaterswide{
+    float:right;
+    width: 40%;
+    margin: -40px 10px 10px auto;
+}
+
+.markdown-section code{
+    color:blue;
+}
+#images{
+    text-align:center;
+    margin:-50px auto 0px auto; 
+    float:right;
+    width: 20%;
+    margin-left: 20px;
+    clear: right;
+}
+
 img.first-of-type {
     display:block;
     float: none;

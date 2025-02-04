@@ -2,3 +2,6 @@
 These are the lab activities for the Database Systems module. More will be added as the weeks go on!
 
 [Week 2 Lab](lab-2-design.md) - Getting started with E-R diagrams
+
+[Week 3 Lab](lab-3-sql.md) - An introduction to SQL and the AWS Learner Lab
+
