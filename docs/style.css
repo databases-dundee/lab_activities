@@ -67,3 +67,11 @@ img.awssmallest {
 img.left{
     margin-left:10px;
 }
+
+.markdown-section code{
+    color: black;
+    font-weight: bold;
+}
+.markdown-section>:not(h1):not(h2):not(h3):not(h4):not(h5):not(h6) code{
+    font-size: 16px;
+}

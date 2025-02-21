@@ -25,7 +25,19 @@ When asked if you want to install MongoDB Compass, make sure the box is checked.
 
 <img src="mongo/mongo6.PNG" class="awssmallest">
 
-All being well, you can finish the installation and MongoDB Compass will probably open automatically. The next step is to download the Mongo Shell for interacting with your MongoDB instance from the command line.
+All being well, you can finish the installation and MongoDB Compass will probably open automatically. Before you carry on, you should create a new connection through Compass. First, click on "Add new connection"
+
+<img src="mongo/mong61.PNG" class="aws">
+
+Then, leave everything as it is, and click "Save & Connect".
+
+<img src="mongo/mongo62.PNG" class="aws">
+
+Then, in the 'Connections' sidebar, you should see a new connection **localhost:27017** with some pre-created databases, like in the image below.
+
+<img src="mongo/mongo63.PNG" class="aws">
+
+The next step is to download the Mongo Shell for interacting with your MongoDB instance from the command line.
 
 ## Step 2 - Installing Mongo Shell
 While MongoDB Compass is a very useful tool, it's good practice (and often more efficient) to work with MongoDB through the command line. 
