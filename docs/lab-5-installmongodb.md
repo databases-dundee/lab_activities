@@ -1,6 +1,6 @@
 # Lab 4 - Installing MongoDB
 
-Here is how you install MongoDB! The first set of instructions are for Windows, and the following set are for Mac.
+Here is how you install MongoDB! These instructions are for **Windows**. I don't have a Mac so I can't give you those instructions, but [here is a (hopefully) comprehensive walkthrough](https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-os-x/)!
 
 ## Step 1 - Installing MongoDB Community Edition
 First you need to go to www.mongodb.com, and click on 'Community Edition'.
