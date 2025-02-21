@@ -120,7 +120,7 @@ Based on all the stuff we've just covered, you should now be able to write queri
 
 One more thing - if you don't want to return a full list of students, but just get the number of students satisfying a query, you can replace **find** with **countDocuments**, e.g., `db.students.countDocuments({age:20})`
 
-1. What is the total number of Physics, Chemistry, and Medicine students? 196
+1. What is the total number of Physics, Chemistry, and Medicine students?
 
 2. What's the first name of the 50-year-old student who is studying English?
 
