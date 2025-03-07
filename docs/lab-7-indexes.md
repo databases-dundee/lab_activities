@@ -16,7 +16,7 @@ You can inspect the document in Compass, or use `db.movies.findOne()` to pull a 
 ## Simple indexes
 >Let's start with a simple query to find the movies released between 1922 and 1985 (these are arbitrary dates - no specific reason I chose them). You should be able to write this query yourself, but to get an idea of the stats, append `.explain("executionStats")` to the end of the query to see how it runs. 
 
-<img src="mongo/lab6/mongo2.png" class="aws left">
+<img src="mongo/lab6/mongo2.PNG" class="aws left">
 
 There are a few things to note here. We've inspected the full set of documents, which isn't great. Your execution time may vary, but mine was almost half a second. When you consider that a collection might have millions of documents, you can see that this would scale up badly.
 
@@ -24,11 +24,11 @@ Another thing to notice is the `stage: 'COLLSCAN'`. This stands for **Collection
 
 >Create an index on the year, sorted in ascending order (refer to this week's slides or to the MongoDB documentation on how to do this). Once you've done this, run the query again with the execution stats, and see what's changed.
 
-<img src="mongo/lab6/mongo3.png" class="awssmallest left">
+<img src="mongo/lab6/mongo3.PNG" class="awssmallest left">
 
 Again, your mileage may vary, but now it's a **lot** faster. Notice that it has only inspected the documents that meet the criteria - the rest have been filtered out. A bit further down, and you'll come across the 'inputStage' details:
 
-<img src="mongo/lab6/mongo4.png" class="awssmallest left">
+<img src="mongo/lab6/mongo4.PNG" class="awssmallest left">
 
 Notice the `stage: 'IXSCAN'` bit? This stands for **Index Scan** and is the strategy that MongoDB has decided to use to most efficiently return the results. You can also see the name of the index that's been used (year_1 in this case).
 
@@ -37,7 +37,7 @@ You can of course have more than one index on a collection.
 
 >Let's also create one for the runtime of the movies, this time in *descending* order (and again, you'll have to figure this one out for yourself!). To check that it's worked, run the command `db.movies.getIndexes()`:
 
-<img src="mongo/lab6/mongo5.png" class="awssmallest left">
+<img src="mongo/lab6/mongo5.PNG" class="awssmallest left">
 
 You should see the above three indexes - the two that you've created, and a default index on the _id field that is always present.
 
@@ -64,13 +64,13 @@ In our mflix dataset, each movie has an array of genres (e.g., [Biography, Drama
 
 >First, run a query to get all the movies that have the **Biography** genre, and use `.explain("executionStats")` to see what it's done.
 
-<img src="mongo/lab6/mongo12.png" class="awssmallest left">
+<img src="mongo/lab6/mongo12.PNG" class="awssmallest left">
 
 You can see that the 'winning plan' was a simple COLLSCAN, and that it took about 350ms.
 
 >We can fix that by creating an index on the `genres` field (this is done in the same way as creating any other index). Do that, and run the query again.
 
-<img src="mongo/lab6/mongo13.png" class="awssmallest left">
+<img src="mongo/lab6/mongo13.PNG" class="awssmallest left">
 
 Much better! You should also hopefully see that the new execution strategy used an IXSCAN, showing that MongoDB correctly used the index.
 
@@ -84,11 +84,11 @@ A compound index, as you might expect, is an index that makes use of multiple fi
 
 >Let's go back to our original example, where we were interested in both runtime and year. Create a compound index on these fields like so: `db.movies.createIndex({year:1,runtime:1})`. Run `db.movies.getIndexes()` and, if you've followed along so far, you'll have the following (note that I've indexed on award wins in descending order):
 
-<img src="mongo/lab6/mongo14.png" class="awssmallest left">
+<img src="mongo/lab6/mongo14.PNG" class="awssmallest left">
 
 >Now run the original query you had to find movies released between 1922 and 1985, with a runtime of over 100 minutes, and get the execution stats.
 
-<img src="mongo/lab6/mongo15.png" class="awssmallest left">
+<img src="mongo/lab6/mongo15.PNG" class="awssmallest left">
 
 You should hopefully see that the winning plan uses the new compound index, and the rejected plans are the other two options that we saw before.
 
