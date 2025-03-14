@@ -114,13 +114,3 @@ Finally, it's worth noting that both these newly created indexes are both **comp
 
 ## Quiz
 There's a short multiple-choice quiz On My Dundee to test your understanding of indexes based on the content of this lab. No need for running any queries (since we haven't introduced any new query syntax this week!) so it should hopefully be quite straightforward.
-
-
-
-
-
-
-
-
-
-
