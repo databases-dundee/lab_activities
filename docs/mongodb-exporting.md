@@ -30,7 +30,7 @@ If you're on Mac...I'm sure you can figure it out! (Let me know if you can't, or
 
 Now, if you've successfully got it installed, you can simply run `mongodump --db=(your database name)` and it'll automatically store all your collections as JSON files in an ungracefully named 'dump' folder in whatever directory you were in when you ran the command!
 
-<img src="export8.PNG" class="aws">
+<img src="export8.png" class="aws">
 
 ## Whichever way you choose...
 ...Make sure that the JSON files for each of your collections containing all your documents are included in your submission! If you don't, I won't be able to mark your assignment properly - and you don't want that :)
