@@ -1,0 +1,2472 @@
+[
+  {
+    "name": "Urban Edinburgh",
+    "address": "38 Howe St, Edinburgh EH3 6TH, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 261,
+    "place_id": "ChIJBa4bOpTHh0gRdCDAq2fP6ps",
+    "location": {
+      "lat": 55.9565773,
+      "lng": -3.2026845
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "MacGregor Hairdressing",
+    "address": "203 Morningside Rd, Edinburgh EH10 4QP, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 336,
+    "place_id": "ChIJLbkREgzHh0gRlBiPjbr_ias",
+    "location": {
+      "lat": 55.9284061,
+      "lng": -3.2092819
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "McGills Hairdressing",
+    "address": "5 Home St, Edinburgh EH3 9JR, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 234,
+    "place_id": "ChIJKXrvPp_Hh0gRrhnn3xgE_Ds",
+    "location": {
+      "lat": 55.9434418,
+      "lng": -3.2033744
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Muse Hair",
+    "address": "45 Ferry Rd., Edinburgh EH6 4AF, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 439,
+    "place_id": "ChIJqQHHefjHh0gRgq5zGy7gwJs",
+    "location": {
+      "lat": 55.9750479,
+      "lng": -3.1805547
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Rock n Rose Hairdressing",
+    "address": "23 Jeffrey St, Edinburgh EH1 1DR, United Kingdom",
+    "rating": 4.7,
+    "user_ratings_total": 118,
+    "place_id": "ChIJO_Q9jinHh0gRF_hBaZKCggM",
+    "location": {
+      "lat": 55.9510825,
+      "lng": -3.1847677
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Emma Wallace Hair Studio",
+    "address": "125 Corstorphine Rd, Edinburgh EH12 5PZ, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 291,
+    "place_id": "ChIJ-WGRbFrGh0gRCF5xdMKq7cc",
+    "location": {
+      "lat": 55.9447006,
+      "lng": -3.2507575
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Cheryl Irvine Hairdressing",
+    "address": "20 Argyle Pl, Edinburgh EH9 1JJ, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 139,
+    "place_id": "ChIJjwyH73fHh0gRRi5oXNLYZrA",
+    "location": {
+      "lat": 55.9384305,
+      "lng": -3.1916119
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "TONI&GUY Edinburgh",
+    "address": "52 Frederick St, Edinburgh EH2 1LN, United Kingdom",
+    "rating": 4.7,
+    "user_ratings_total": 336,
+    "place_id": "ChIJUR8w15fHh0gR_wWv1YQgbx8",
+    "location": {
+      "lat": 55.95374510000001,
+      "lng": -3.2010943
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Macintyre's Hair & Beauty",
+    "address": "66-68 Thistle St, Edinburgh EH2 1EN, United Kingdom",
+    "rating": 4.6,
+    "user_ratings_total": 178,
+    "place_id": "ChIJA1YwzJbHh0gRA6j0LbPPSfM",
+    "location": {
+      "lat": 55.9537738,
+      "lng": -3.2000049
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Hot Head",
+    "address": "17 W Nicolson St, Newington, Edinburgh EH8 9DB, United Kingdom",
+    "rating": 4.7,
+    "user_ratings_total": 161,
+    "place_id": "ChIJpRDo94PHh0gR-B-zoRJKdF4",
+    "location": {
+      "lat": 55.9449006,
+      "lng": -3.1849335
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Pout2Perfection (vegan cruelty free hair salon in bonnington leith)",
+    "address": "102 Newhaven Rd, Edinburgh EH6 4BS, United Kingdom",
+    "rating": 4.7,
+    "user_ratings_total": 69,
+    "place_id": "ChIJsfYFTvrHh0gRqZUtTIlvwzc",
+    "location": {
+      "lat": 55.9728133,
+      "lng": -3.1878168
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Paige Conner Hairdressing",
+    "address": "40 Broughton St, Edinburgh EH1 3SB, United Kingdom",
+    "rating": 4.7,
+    "user_ratings_total": 106,
+    "place_id": "ChIJmeVXro3Hh0gRlgBmGs1ZuOc",
+    "location": {
+      "lat": 55.9582019,
+      "lng": -3.1898479
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Indigo Hair & Beauty",
+    "address": "332 Leith Walk, Edinburgh EH6 5BR, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 237,
+    "place_id": "ChIJsxtj9Aq4h0gRI6ItuIvgsls",
+    "location": {
+      "lat": 55.9646203,
+      "lng": -3.1773145
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Cici Salon",
+    "address": "127 Gorgie Rd, Edinburgh EH11 1TE, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 648,
+    "place_id": "ChIJeyGaEB4T2UcRtx-M_1kZX_A",
+    "location": {
+      "lat": 55.93809899999999,
+      "lng": -3.2308001
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Trigg Hair Studio",
+    "address": "152 Dundas St, Edinburgh EH3 5DQ, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 63,
+    "place_id": "ChIJAyqfo5THh0gRfI6iPlnkHJU",
+    "location": {
+      "lat": 55.9602525,
+      "lng": -3.201135
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "RGS Hair and Beauty",
+    "address": "89 Easter Rd, Edinburgh EH7 5PW, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 103,
+    "place_id": "ChIJNZ6RLaO5h0gRkgNbzR4Ohrc",
+    "location": {
+      "lat": 55.9601054,
+      "lng": -3.1716309
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Home4myhair - hairsalon - OBO / Online Booking Only",
+    "address": "1 Wolseley Pl, Edinburgh EH8 7AD, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 154,
+    "place_id": "ChIJQcyIlXy5h0gREBucZYBvWTs",
+    "location": {
+      "lat": 55.954919,
+      "lng": -3.1502716
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Sonté Hair",
+    "address": "17 Roseneath St, Edinburgh EH9 1JH, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 69,
+    "place_id": "ChIJo0GAiGvHh0gRigiMfsraPmQ",
+    "location": {
+      "lat": 55.9382459,
+      "lng": -3.1930056
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Dean Jones Hairdressing",
+    "address": "3a Elm Row, Edinburgh EH7 4AA, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 94,
+    "place_id": "ChIJc3zSmYvHh0gRlQQp2Gyh2yU",
+    "location": {
+      "lat": 55.95817,
+      "lng": -3.1838944
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Indo Soul Hair",
+    "address": "289 Leith Walk, Edinburgh EH6 8PD, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 100,
+    "place_id": "ChIJR-Y35FEolwwR2fwd3mG9UdM",
+    "location": {
+      "lat": 55.9653128,
+      "lng": -3.1760435
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "MG Hairdressing Edinburgh",
+    "address": "Within Connolly Hairdressing, 16 Howe St, Edinburgh EH3 6TD, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 5,
+    "place_id": "ChIJ5S3DHTfHh0gRXgZg_rU99cw",
+    "location": {
+      "lat": 55.9559998,
+      "lng": -3.2024194
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Brass Hair Studio",
+    "address": "9 Dundas St, Edinburgh EH3 6QG, United Kingdom",
+    "rating": 4.6,
+    "user_ratings_total": 57,
+    "place_id": "ChIJQQn58ODHh0gRf5l3Gabk3hc",
+    "location": {
+      "lat": 55.9564399,
+      "lng": -3.1985938
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Emma Hall Hair",
+    "address": "31 Haddington Pl, Leith, Edinburgh EH7 4AG, United Kingdom",
+    "rating": 4.7,
+    "user_ratings_total": 111,
+    "place_id": "ChIJDTcZGYvHh0gRc2ReBI0zohU",
+    "location": {
+      "lat": 55.9605547,
+      "lng": -3.1821654
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "The Projects Hair Salon Edinburgh",
+    "address": "12-14 Lochrin Buildings, Edinburgh EH3 9NB, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 44,
+    "place_id": "ChIJu3jSrcLHh0gR6daMFGE2EvY",
+    "location": {
+      "lat": 55.941989,
+      "lng": -3.2040635
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Sobo Hair Boutique",
+    "address": "18 Craighall Rd, Edinburgh EH6 4SA, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 184,
+    "place_id": "ChIJw8udmeTHh0gR4766-h6x370",
+    "location": {
+      "lat": 55.9774872,
+      "lng": -3.1975121
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Medusa",
+    "address": "6-7 Teviot Pl, Edinburgh EH1 2QZ, United Kingdom",
+    "rating": 4.3,
+    "user_ratings_total": 140,
+    "place_id": "ChIJm-d8vITHh0gRt39Xs9jkGYc",
+    "location": {
+      "lat": 55.9456944,
+      "lng": -3.1899048
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Floxzee signature Salon Edinburgh",
+    "address": "352 Gorgie Rd, Edinburgh EH11 2RQ, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 175,
+    "place_id": "ChIJveuIjKPHh0gRUYeFvEh3W5E",
+    "location": {
+      "lat": 55.936613,
+      "lng": -3.239726
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Kalon Hair Studio",
+    "address": "4 Howard St, Edinburgh EH3 5JP, United Kingdom",
+    "rating": 4.7,
+    "user_ratings_total": 62,
+    "place_id": "ChIJ11-enuzHh0gR1X2pogDnhbw",
+    "location": {
+      "lat": 55.9630592,
+      "lng": -3.2003846
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Atelier 23",
+    "address": "23 Bruntsfield Pl, Edinburgh EH10 4HN, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 115,
+    "place_id": "ChIJA74u8Z_Hh0gRuRBKWnJUWho",
+    "location": {
+      "lat": 55.9397216,
+      "lng": -3.2046931
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Outline Hair",
+    "address": "27 Candlemaker Row, Edinburgh EH1 2QG, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 63,
+    "place_id": "ChIJQ2gMEBzHh0gRYmSqA9SdjD0",
+    "location": {
+      "lat": 55.94727469999999,
+      "lng": -3.1916785
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "SisCo Hair Salon",
+    "address": "225 Morningside Rd, Edinburgh EH10 4QT, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 102,
+    "place_id": "ChIJ1wKmjA3Hh0gROCiWbuzUMKs",
+    "location": {
+      "lat": 55.9279011,
+      "lng": -3.2092365
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Lee Mitchell Hairdressing",
+    "address": "4 Comely Bank Ave, Edinburgh EH4 1EL, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 135,
+    "place_id": "ChIJjTUmX7jHh0gRiZxuyV7Nlyc",
+    "location": {
+      "lat": 55.9594403,
+      "lng": -3.2187993
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Snip and Sip Hair Studio",
+    "address": "1 Summerhall Pl, Newington, Edinburgh EH9 1PL, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 80,
+    "place_id": "ChIJvRcfxITHh0gRlRBJyaTrLGE",
+    "location": {
+      "lat": 55.9404134,
+      "lng": -3.1814708
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Concrete Rose Hair",
+    "address": "69 Comely Bank Rd, Edinburgh EH4 1AW, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 90,
+    "place_id": "ChIJYxA8Z7jHh0gRvbg8EJP_jBI",
+    "location": {
+      "lat": 55.9594552,
+      "lng": -3.2190501
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Nevaeh Hair Lounge",
+    "address": "25 Leven St, Edinburgh EH3 9LH, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 72,
+    "place_id": "ChIJRyHaWZ3Hh0gR_wtyWpdXnTo",
+    "location": {
+      "lat": 55.94134829999999,
+      "lng": -3.2036485
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "House of Lilith Hair Design",
+    "address": "42 Easter Rd, Edinburgh EH7 5RG, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 54,
+    "place_id": "ChIJN5rZv2e5h0gR-zV6qB2c9bM",
+    "location": {
+      "lat": 55.9584365,
+      "lng": -3.1716849
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "folk",
+    "address": "46 Montrose Terrace, Edinburgh EH7 5DL, United Kingdom",
+    "rating": 4.7,
+    "user_ratings_total": 30,
+    "place_id": "ChIJMzmjQbi5h0gRldk4f-PvORs",
+    "location": {
+      "lat": 55.956916,
+      "lng": -3.1710362
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Bright Hair Edinburgh",
+    "address": "143-145 Slateford Rd, Edinburgh EH14 1NW, United Kingdom",
+    "rating": 4.3,
+    "user_ratings_total": 67,
+    "place_id": "ChIJt6O_1_3Gh0gRO3g-9QrfXFw",
+    "location": {
+      "lat": 55.93257,
+      "lng": -3.236145
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Angel Hairdressing",
+    "address": "45 Slateford Rd, Edinburgh EH11 1PR, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 58,
+    "place_id": "ChIJwZJBsgHHh0gRcPVZKB04TS8",
+    "location": {
+      "lat": 55.9350835,
+      "lng": -3.2311744
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Myles Hairdressing & Beauty Therapy",
+    "address": "5 Cadzow Pl, Edinburgh EH7 5SN, United Kingdom",
+    "rating": 4.6,
+    "user_ratings_total": 136,
+    "place_id": "ChIJ02zX2nO4h0gRR_QwY0gbLtY",
+    "location": {
+      "lat": 55.9572034,
+      "lng": -3.1686435
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Cascal Hair Studio",
+    "address": "54 Constitution St, Leith, Edinburgh EH6 6RS, United Kingdom",
+    "rating": 4.5,
+    "user_ratings_total": 102,
+    "place_id": "ChIJycP5PwW4h0gRHn-jQw2CLKU",
+    "location": {
+      "lat": 55.9745745,
+      "lng": -3.1674557
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "NOIRouge Hair & Beauty",
+    "address": "19 Torphichen Pl, Edinburgh EH3 8DY, United Kingdom",
+    "rating": 4.7,
+    "user_ratings_total": 70,
+    "place_id": "ChIJG8RjeqTHh0gRsfhjLbM5FAo",
+    "location": {
+      "lat": 55.94633899999999,
+      "lng": -3.2140945
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Cheynes",
+    "address": "39 Lothian Rd, Edinburgh EH1 2DJ, United Kingdom",
+    "rating": 4.5,
+    "user_ratings_total": 97,
+    "place_id": "ChIJEbOqhpjHh0gRiqNzlIiGd08",
+    "location": {
+      "lat": 55.9481216,
+      "lng": -3.2061294
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Craig Davidson Hair",
+    "address": "200 Bruntsfield Pl, Edinburgh EH10 4DF, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 145,
+    "place_id": "ChIJ8cZaSwrHh0gRlimamnyQPu4",
+    "location": {
+      "lat": 55.9359562,
+      "lng": -3.209792
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Mosko Hairdressing",
+    "address": "9 Dublin St, Edinburgh EH1 3PG, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 80,
+    "place_id": "ChIJqYyJwJrHh0gRuzMifmqEkLk",
+    "location": {
+      "lat": 55.95615,
+      "lng": -3.192774
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Salon Studios - Alex In Wonderland",
+    "address": "Salon Studios, 207 St John's Rd, Corstorphine, Edinburgh EH12 7UU, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 7,
+    "place_id": "ChIJQ6zGV9zHh0gR27jn1gq215I",
+    "location": {
+      "lat": 55.94297419999999,
+      "lng": -3.2863179
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Gruagaire Hair Salon and Barbers",
+    "address": "70 Morningside Rd, Edinburgh EH10 4BZ, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 154,
+    "place_id": "ChIJEfjA4m_Hh0gRaEHI00_8Zbg",
+    "location": {
+      "lat": 55.9323548,
+      "lng": -3.2103152
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "StudioE Salon & Training Academy",
+    "address": "52 Lochrin Buildings, Edinburgh EH3 9ND, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 35,
+    "place_id": "ChIJx9cVBoPHh0gRv_cOUfmp9gE",
+    "location": {
+      "lat": 55.9418046,
+      "lng": -3.20511
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Luxe Hair Lounge",
+    "address": "22 Abbey Ln, Edinburgh EH8 8JH, United Kingdom",
+    "rating": 4.3,
+    "user_ratings_total": 30,
+    "place_id": "ChIJg8rMRTzHh0gRZmnhonGeYCo",
+    "location": {
+      "lat": 55.9568427,
+      "lng": -3.1674557
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Medusa",
+    "address": "26 Bread St, Edinburgh EH3 9AF, United Kingdom",
+    "rating": 4.4,
+    "user_ratings_total": 119,
+    "place_id": "ChIJq7Zhz4HHh0gRjKWPKPDm_SA",
+    "location": {
+      "lat": 55.9457045,
+      "lng": -3.2043273
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Ginkgo Hair Design",
+    "address": "Based at Escape Hairdressing, 22 Montrose Terrace, Edinburgh EH7 5DL, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 51,
+    "place_id": "ChIJ21d2AYbHh0gRgZeD5VGbEt8",
+    "location": {
+      "lat": 55.9566555,
+      "lng": -3.1716249
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Valerio Hair & Beauty",
+    "address": "8 S Clerk St, Newington, Edinburgh EH8 9JB, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 10,
+    "place_id": "ChIJV1Gv2oHHh0gRlMsu2raqnmo",
+    "location": {
+      "lat": 55.9410947,
+      "lng": -3.1812933
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Bau Hair Design",
+    "address": "5 Brougham St, Edinburgh EH3 9JS, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 94,
+    "place_id": "ChIJr9mhPJ_Hh0gR_zCy_T4HEiY",
+    "location": {
+      "lat": 55.94345140000001,
+      "lng": -3.2030255
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Connolly Hair",
+    "address": "16 Howe St, Edinburgh EH3 6TD, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 58,
+    "place_id": "ChIJ8eQHJJTHh0gRi7QdiVoQnMo",
+    "location": {
+      "lat": 55.95600349999999,
+      "lng": -3.2023768
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Cheynes",
+    "address": "46 George St, Edinburgh EH2 2LE, United Kingdom",
+    "rating": 4.4,
+    "user_ratings_total": 101,
+    "place_id": "ChIJmz9KIZHHh0gR2pxbwFM7lv4",
+    "location": {
+      "lat": 55.9531714,
+      "lng": -3.1981581
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Jonas Wolf Hairdressing",
+    "address": "70 Dalry Rd, Edinburgh EH11 2AY, United Kingdom",
+    "rating": 4.6,
+    "user_ratings_total": 198,
+    "place_id": "ChIJSVst3KXHh0gRlU_BsRwkQNU",
+    "location": {
+      "lat": 55.9442684,
+      "lng": -3.2183084
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "ROKU Salon",
+    "address": "6 Lord Russell Pl, Newington, Edinburgh EH9 1NQ, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 76,
+    "place_id": "ChIJm0-LV3_Hh0gRj9oT0zgw2D4",
+    "location": {
+      "lat": 55.9390606,
+      "lng": -3.1821495
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "MARKDAVID",
+    "address": "83 Henderson Row, Edinburgh EH3 5BE, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 45,
+    "place_id": "ChIJo6gJf1rHh0gRUvQoOrWepDs",
+    "location": {
+      "lat": 55.9599633,
+      "lng": -3.2046436
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Mad Cut Hairdresser Salon",
+    "address": "218 Gorgie Rd, Edinburgh EH11 2PN, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 98,
+    "place_id": "ChIJ36JjAgDHh0gRerekE4CBMQM",
+    "location": {
+      "lat": 55.9375588,
+      "lng": -3.2340065
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Sesh Hairdressing",
+    "address": "50-52 Bernard St, Leith, Edinburgh EH6 6PR, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 137,
+    "place_id": "ChIJm_2Q_gS4h0gRv3rmO59bVsQ",
+    "location": {
+      "lat": 55.9761955,
+      "lng": -3.1690509
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "The ROYAL Barbers 💈 Turkish Barber💈",
+    "address": "28 South Bridge, Edinburgh EH1 1LL, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 75,
+    "place_id": "ChIJ9Z_tmujHh0gRdrt_kosQAfw",
+    "location": {
+      "lat": 55.9491124,
+      "lng": -3.1868576
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Sink And Anchor Barber Shop",
+    "address": "48 E Fountainbridge, Edinburgh EH3 9BH, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 401,
+    "place_id": "ChIJOUXk0JvHh0gRxYnVxTe-24s",
+    "location": {
+      "lat": 55.9450637,
+      "lng": -3.2048314
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Brazen Men's Hair | Leith Barbers",
+    "address": "88 Brunswick St, Edinburgh EH7 5HU, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 321,
+    "place_id": "ChIJSyOZ6l7Hh0gRqXgn5l0sqe4",
+    "location": {
+      "lat": 55.9606515,
+      "lng": -3.1809494
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Backstage Barbershop Edinburgh",
+    "address": "10 Lauriston St, Edinburgh EH3 9DJ, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 170,
+    "place_id": "ChIJeTM4IZnHh0gR9e3xe8ZBBrs",
+    "location": {
+      "lat": 55.94547,
+      "lng": -3.201638
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Fade Lounge",
+    "address": "142 Gorgie Rd, Edinburgh EH11 2NS, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 277,
+    "place_id": "ChIJTWTkdwDHh0gRu-7P8Ygp_L8",
+    "location": {
+      "lat": 55.93811669999999,
+      "lng": -3.2314586
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Half-Cut Barbershop",
+    "address": "23 Candlemaker Row, Edinburgh EH1 2QG, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 71,
+    "place_id": "ChIJHVNe-VPHh0gRww9JD328YJI",
+    "location": {
+      "lat": 55.9472548,
+      "lng": -3.1916179
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Tonsorium Edinburgh",
+    "address": "56 West Port, Edinburgh EH1 2LD, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 113,
+    "place_id": "ChIJWT0DwT_Hh0gRvMeEbbM87_I",
+    "location": {
+      "lat": 55.94634569999999,
+      "lng": -3.1996306
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Ruffians Edinburgh",
+    "address": "23 Queensferry St, Edinburgh EH2 4QS, United Kingdom",
+    "rating": 4.7,
+    "user_ratings_total": 375,
+    "place_id": "ChIJxYkf3rzHh0gRKizb3voo9SA",
+    "location": {
+      "lat": 55.951207,
+      "lng": -3.210196
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Closecut barbers",
+    "address": "115 Fountainbridge, Edinburgh EH3 9QG, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 15,
+    "place_id": "ChIJE8VwuAPHh0gRlr1mntmbH8w",
+    "location": {
+      "lat": 55.94377,
+      "lng": -3.2066538
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "blunted barbers",
+    "address": "1 York Pl, Edinburgh EH1 3EB, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 115,
+    "place_id": "ChIJc6fq_5HHh0gRekKnPmKJfYI",
+    "location": {
+      "lat": 55.955774,
+      "lng": -3.192645
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Veen Barbers",
+    "address": "64 Elm Row, Leith, Edinburgh EH7 4AQ, United Kingdom",
+    "rating": 4.6,
+    "user_ratings_total": 329,
+    "place_id": "ChIJIWuY3YrHh0gR1odvSkKnk-s",
+    "location": {
+      "lat": 55.9604174,
+      "lng": -3.1815759
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "The Changing Room Barbershop",
+    "address": "62 N Castle St, Edinburgh EH2 3LU, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 24,
+    "place_id": "ChIJravvQgDHh0gRjHiFzfKoewk",
+    "location": {
+      "lat": 55.9536153,
+      "lng": -3.2044957
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Show Barber",
+    "address": "9a Bread St, Edinburgh EH3 9AL, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 68,
+    "place_id": "ChIJfQt6nJjHh0gRR9Qf7UdgW6s",
+    "location": {
+      "lat": 55.9459041,
+      "lng": -3.2049759
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Barber Road",
+    "address": "17 Easter Rd, Edinburgh EH7 5PJ, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 546,
+    "place_id": "ChIJgfSuyx65h0gRdybQOZdV5mc",
+    "location": {
+      "lat": 55.95881199999999,
+      "lng": -3.1719049
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Cabezon Barbers",
+    "address": "10 Roseneath St, Edinburgh EH9 1JH, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 47,
+    "place_id": "ChIJ9-klKHzHh0gRwHuEcNYr00o",
+    "location": {
+      "lat": 55.9382461,
+      "lng": -3.1924152
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "VIP BARBERS EDINBURGH",
+    "address": "32 Haymarket Terrace, Edinburgh EH12 5JZ, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 66,
+    "place_id": "ChIJ9VVmlWXHh0gRXIi7VXrpFO4",
+    "location": {
+      "lat": 55.9460616,
+      "lng": -3.2202545
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Nisus Barbershop",
+    "address": "112 Gorgie Rd, Edinburgh EH11 2NP, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 148,
+    "place_id": "ChIJfTDuvT3Hh0gRmMHp3tMZiaY",
+    "location": {
+      "lat": 55.9383914,
+      "lng": -3.2306972
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Rag & Bone Barbershop",
+    "address": "6 Jeffrey St, Edinburgh EH1 1DT, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 284,
+    "place_id": "ChIJ_eKUrojHh0gR6mKPW0gwIsM",
+    "location": {
+      "lat": 55.95094899999999,
+      "lng": -3.1841687
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Barbers 1970",
+    "address": "128 Granton Rd, Edinburgh EH5 3RF, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 32,
+    "place_id": "ChIJrYjhemzHh0gR0gTw50wmh50",
+    "location": {
+      "lat": 55.9752068,
+      "lng": -3.2157248
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Revolution Barbershop",
+    "address": "55 Bread St, Edinburgh EH3 9AH, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 177,
+    "place_id": "ChIJkT4cM6S1h0gRwq5n8smHlYg",
+    "location": {
+      "lat": 55.945911,
+      "lng": -3.202593
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "LaBelle’s Barbershop",
+    "address": "35 Mertoun Pl, Edinburgh EH11 1JX, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 163,
+    "place_id": "ChIJ9xNH3MLHh0gRsGmQO_uWqms",
+    "location": {
+      "lat": 55.9377137,
+      "lng": -3.2191145
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Alfie's",
+    "address": "18 Fleshmarket Cl, Edinburgh EH1 1BX, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 294,
+    "place_id": "ChIJldN6foXHh0gRkXQaGhnYItM",
+    "location": {
+      "lat": 55.950927,
+      "lng": -3.188883
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "The Players Lounge Mens Hair and Grooming Salon",
+    "address": "161a Rose St, Edinburgh EH2 4LS, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 167,
+    "place_id": "ChIJ4y8AMJfHh0gReUCiy3Vp8tg",
+    "location": {
+      "lat": 55.9514754,
+      "lng": -3.2050338
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Outliers Barber Co",
+    "address": "28A Haddington Pl, Edinburgh EH7 4AF, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 134,
+    "place_id": "ChIJF0_SEynHh0gRDoIcpc2vBu0",
+    "location": {
+      "lat": 55.96053089999999,
+      "lng": -3.1823235
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Mac Modanero",
+    "address": "103 St. Leonard's St, Edinburgh EH8 9QY, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 233,
+    "place_id": "ChIJwbks2vXHh0gRZY-vVRoQPmI",
+    "location": {
+      "lat": 55.9418904,
+      "lng": -3.178925
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Khalid Barber",
+    "address": "13 Portland Pl, Leith, Edinburgh EH6 6LA, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 55,
+    "place_id": "ChIJR02fkfq5h0gRVKCZRHonRP0",
+    "location": {
+      "lat": 55.97799509999999,
+      "lng": -3.1804467
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "MO'S SHARP STYLE BARBER",
+    "address": "280 Leith Walk, Edinburgh EH6 5BX, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 125,
+    "place_id": "ChIJKzOwMFe5h0gRneeGiK5rhW8",
+    "location": {
+      "lat": 55.9655461,
+      "lng": -3.1762748
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Blaze Barber",
+    "address": "38 Queensferry St, Edinburgh EH2 4QY, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 101,
+    "place_id": "ChIJKUji8Q_Hh0gRX6RxYa_fqRE",
+    "location": {
+      "lat": 55.9508109,
+      "lng": -3.2094006
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "King Leo Barbers",
+    "address": "99 Easter Rd, Edinburgh EH7 5PP, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 438,
+    "place_id": "ChIJTRfVE025h0gR_5Fz4puDh14",
+    "location": {
+      "lat": 55.960271,
+      "lng": -3.1715759
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "The Barbershop Edinburgh",
+    "address": "40 Ashley Terrace, Edinburgh EH11 1RY, United Kingdom",
+    "rating": 4.7,
+    "user_ratings_total": 165,
+    "place_id": "ChIJZeo5dgHHh0gRkt4wPmbs1bI",
+    "location": {
+      "lat": 55.9335252,
+      "lng": -3.22983
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Platinum Barbers",
+    "address": "230A Oxgangs Rd N, Edinburgh EH13 9BQ, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 141,
+    "place_id": "ChIJL5S84__Hh0gRRHXwoesWR8M",
+    "location": {
+      "lat": 55.90870760000001,
+      "lng": -3.2284845
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Pro Cut Barbers",
+    "address": "171 Gorgie Rd, Edinburgh EH11 1TJ, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 95,
+    "place_id": "ChIJO8Tm3UUviIoRbVoJSUBZyyg",
+    "location": {
+      "lat": 55.9376803,
+      "lng": -3.2327368
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Lucian’s Barber Shop",
+    "address": "16 Great King St, Edinburgh EH3 6QL, United Kingdom",
+    "rating": 4.7,
+    "user_ratings_total": 7,
+    "place_id": "ChIJhQNNkLjHh0gR4HQMnXG5CaM",
+    "location": {
+      "lat": 55.9583229,
+      "lng": -3.1975799
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Substance Barbershop",
+    "address": "8 Home St, Edinburgh EH3 9LY, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 125,
+    "place_id": "ChIJOfee1ajHh0gRHLNARR4Ku68",
+    "location": {
+      "lat": 55.9435864,
+      "lng": -3.2039518
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Rag & Bone Barbershop",
+    "address": "103 Dundas St, Edinburgh EH3 6SD, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 300,
+    "place_id": "ChIJbeCTfJPHh0gR79V_4trOP0M",
+    "location": {
+      "lat": 55.95924369999999,
+      "lng": -3.2000222
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Gorgie Road Barbers",
+    "address": "2PP, 266 Gorgie Rd, Edinburgh EH11 2PP, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 309,
+    "place_id": "ChIJT3Ua7f_Gh0gRBkMM3jcIKHY",
+    "location": {
+      "lat": 55.937186,
+      "lng": -3.2357107
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Havoc Barbershop",
+    "address": "39 St. Leonard's St, Edinburgh EH8 9QN, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 150,
+    "place_id": "ChIJT3YBo1bHh0gR1ngOIKM9nsg",
+    "location": {
+      "lat": 55.9433155,
+      "lng": -3.1800133
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Tawergha barber",
+    "address": "189 Gorgie Rd, Edinburgh EH11 1TT, United Kingdom",
+    "rating": 4.6,
+    "user_ratings_total": 84,
+    "place_id": "ChIJQQoKJJrHh0gRpIfoywFwDyk",
+    "location": {
+      "lat": 55.9374954,
+      "lng": -3.233508
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "H&J Afro CARIBBEAN BARBERS",
+    "address": "43 Leven St, Edinburgh EH3 9LH, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 71,
+    "place_id": "ChIJl3O4ahTHh0gR7an1s85r-y0",
+    "location": {
+      "lat": 55.9410372,
+      "lng": -3.203693
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Bottitta's Barber",
+    "address": "253 Morningside Rd, Edinburgh EH10 4RD, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 116,
+    "place_id": "ChIJEbLClkLHh0gRHafcUd7--Sw",
+    "location": {
+      "lat": 55.927129,
+      "lng": -3.2091348
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "BAD BOY BARBERS",
+    "address": "43 Candlemaker Row, Edinburgh EH1 2QB, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 119,
+    "place_id": "ChIJU6PlpTDHh0gR_9uObeKAhoE",
+    "location": {
+      "lat": 55.9476695,
+      "lng": -3.1926289
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "First Class Turkish Barber",
+    "address": "65-67 Broughton St, Edinburgh EH1 3RJ, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 151,
+    "place_id": "ChIJ44XgDe7Hh0gR2Arv_P_cyAI",
+    "location": {
+      "lat": 55.9580631,
+      "lng": -3.188962
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "N&N Barbers",
+    "address": "145 Dundee St, Edinburgh EH11 1BP, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 189,
+    "place_id": "ChIJg2G13KfHh0gRRjsekHCdQ4Y",
+    "location": {
+      "lat": 55.9401006,
+      "lng": -3.2189
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Cutz Barber",
+    "address": "28 South Bridge, Edinburgh EH1 1LL, United Kingdom",
+    "rating": 4.6,
+    "user_ratings_total": 125,
+    "place_id": "ChIJKxR6S4THh0gRkO_Dfc3jfAQ",
+    "location": {
+      "lat": 55.9491379,
+      "lng": -3.1868666
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Old Town Barbers",
+    "address": "Nicolson St, Newington, Edinburgh EH8 9BZ, United Kingdom",
+    "rating": 4.5,
+    "user_ratings_total": 113,
+    "place_id": "ChIJS9PMX4vHh0gR_76mFLFICxY",
+    "location": {
+      "lat": 55.9454601,
+      "lng": -3.184731900000001
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Round our way : Edinburgh",
+    "address": "1 Customs Wharf, Leith, Edinburgh EH6 6AL, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 24,
+    "place_id": "ChIJN3JLSCG5h0gRtbENhMWv_Ok",
+    "location": {
+      "lat": 55.9768284,
+      "lng": -3.1706101
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Fallon & Mann Barbers",
+    "address": "52 Dublin St, Edinburgh EH3 6NP, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 48,
+    "place_id": "ChIJgXGghAXHh0gRKr1s4QOv6no",
+    "location": {
+      "lat": 55.9576527,
+      "lng": -3.1941029
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Castle Barber",
+    "address": "76 West Port, Edinburgh EH1 2LE, United Kingdom",
+    "rating": 4.7,
+    "user_ratings_total": 23,
+    "place_id": "ChIJUcg1HuzHh0gR6SM1P8izlzU",
+    "location": {
+      "lat": 55.9462932,
+      "lng": -3.2001475
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "First Class Barbers Hot Shave",
+    "address": "199 Morningside Rd, Edinburgh EH10 4QP, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 219,
+    "place_id": "ChIJtRPS7A3Hh0gRxjYT3GOvkTI",
+    "location": {
+      "lat": 55.9284668,
+      "lng": -3.2093011
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Creed Barbers",
+    "address": "Quality St, Davidson's Mains, Edinburgh EH4 5BX, United Kingdom",
+    "rating": 4.3,
+    "user_ratings_total": 58,
+    "place_id": "ChIJ2VjzVBHGh0gROpvu7I1mONM",
+    "location": {
+      "lat": 55.9651378,
+      "lng": -3.2741408
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "The 3 Stooges",
+    "address": "1 E Fountainbridge, Edinburgh EH3 9BH, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 145,
+    "place_id": "ChIJDVyM35jHh0gR8ULw6M-NWig",
+    "location": {
+      "lat": 55.9457105,
+      "lng": -3.2023268
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Dubai barber",
+    "address": "162 Dalry Rd, Edinburgh EH11 2EG, United Kingdom",
+    "rating": 4.7,
+    "user_ratings_total": 53,
+    "place_id": "ChIJQ7CcJhDHh0gR0ghzrTauYUQ",
+    "location": {
+      "lat": 55.941639,
+      "lng": -3.2230527
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Master Cut Barbers",
+    "address": "14, 15 Willowbrae Rd, Edinburgh EH8 7DB, United Kingdom",
+    "rating": 4.6,
+    "user_ratings_total": 200,
+    "place_id": "ChIJXepkf0K4h0gR3AT_EEnkbBY",
+    "location": {
+      "lat": 55.9544211,
+      "lng": -3.1486465
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "WH Barbers",
+    "address": "15A, Westside Plaza, Edinburgh EH14 2SW, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 131,
+    "place_id": "ChIJq6oaop_Gh0gRLg4K4_ErCrk",
+    "location": {
+      "lat": 55.9159152,
+      "lng": -3.2849634
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Mass Barber Shop",
+    "address": "182A Ferry Rd., Edinburgh EH6 4NW, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 56,
+    "place_id": "ChIJYZ8pcaHHh0gRgH_IUAPA5io",
+    "location": {
+      "lat": 55.9739403,
+      "lng": -3.1894954
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Lionz Barber (Meadowbank)",
+    "address": "4 Cadzow Pl, Edinburgh EH7 5SN, United Kingdom",
+    "rating": 4.5,
+    "user_ratings_total": 179,
+    "place_id": "ChIJ_dfMwnO4h0gRCh4knW4MzQc",
+    "location": {
+      "lat": 55.95723169999999,
+      "lng": -3.1687953
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "City Barbers West End Edinburgh",
+    "address": "24 Queensferry St, Edinburgh EH2 4QS, United Kingdom",
+    "rating": 4.7,
+    "user_ratings_total": 260,
+    "place_id": "ChIJtbWZLKPHh0gRalqVf0aCLOo",
+    "location": {
+      "lat": 55.95114659999999,
+      "lng": -3.2101418
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Elm row barber shop",
+    "address": "59 Elm Row, Edinburgh EH7 4AQ, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 132,
+    "place_id": "ChIJoxU73orHh0gRW04f-LIn3y0",
+    "location": {
+      "lat": 55.9603236,
+      "lng": -3.1816816
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "ISTANBUL TURKISH BARBER & HAIRDRESSER 2",
+    "address": "681 Ferry Rd., Edinburgh EH4 2TX, United Kingdom",
+    "rating": 4.5,
+    "user_ratings_total": 207,
+    "place_id": "ChIJD9q-bjHGh0gR1YXh1MEn9S8",
+    "location": {
+      "lat": 55.9672415,
+      "lng": -3.2462207
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Barber 4 you",
+    "address": "DBI, 34 Ferry Rd Dr, Edinburgh EH4 4BR, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 150,
+    "place_id": "ChIJ5_276K_Hh0gRFbQ52MDQE68",
+    "location": {
+      "lat": 55.9708376,
+      "lng": -3.2421366
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Connoisseurs Barbershop Leith",
+    "address": "106 Duke St, Edinburgh EH6 8HL, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 215,
+    "place_id": "ChIJu_-7sYjHh0gRoOPqrMlmpw0",
+    "location": {
+      "lat": 55.9695163,
+      "lng": -3.1690301
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barber shop"
+  },
+  {
+    "name": "Benjamin's Barber Shop",
+    "address": "68 Henderson Row, Edinburgh EH3 5BJ, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 113,
+    "place_id": "ChIJP3KBI5XHh0gRPR6ZouEiKag",
+    "location": {
+      "lat": 55.9599626,
+      "lng": -3.2060141
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barber shop"
+  },
+  {
+    "name": "Rag & Bone Barbershop",
+    "address": "208 Morrison St, Edinburgh EH3 8EA, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 130,
+    "place_id": "ChIJsx4MXqHHh0gRUbObFUQYoyM",
+    "location": {
+      "lat": 55.94624870000001,
+      "lng": -3.2129939
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barber shop"
+  },
+  {
+    "name": "Woods Barbers",
+    "address": "12 Drummond St, Edinburgh EH8 9TU, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 200,
+    "place_id": "ChIJk3MTMYTHh0gRDdcypjyZNx4",
+    "location": {
+      "lat": 55.947295,
+      "lng": -3.1854052
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barber shop"
+  },
+  {
+    "name": "Elvis Barbers",
+    "address": "8 Milton Rd W, Edinburgh EH15 1LF, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 301,
+    "place_id": "ChIJxaTUvR25h0gR5xClSrAQEFE",
+    "location": {
+      "lat": 55.9436061,
+      "lng": -3.1178822
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barber shop"
+  },
+  {
+    "name": "Richmond Barbers",
+    "address": "15 W Richmond St, Edinburgh EH8 9EF, United Kingdom",
+    "rating": 4.4,
+    "user_ratings_total": 118,
+    "place_id": "ChIJYSW0robHh0gR_5gPDc3wH8o",
+    "location": {
+      "lat": 55.9453496,
+      "lng": -3.1834751
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barber shop"
+  },
+  {
+    "name": "Pasa Barbers Edinburgh",
+    "address": "98 Raeburn Pl, Edinburgh EH4 1HH, United Kingdom",
+    "rating": 4.7,
+    "user_ratings_total": 64,
+    "place_id": "ChIJnyMf187Hh0gRGUcAJQiLD4E",
+    "location": {
+      "lat": 55.95927,
+      "lng": -3.2137107
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barber shop"
+  },
+  {
+    "name": "Eminent Barbershop",
+    "address": "30 W Annandale St, Edinburgh EH7 4JY, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 24,
+    "place_id": "ChIJqfyVzKfHh0gRsO_EQIA_bok",
+    "location": {
+      "lat": 55.9634316,
+      "lng": -3.1905192
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barber shop"
+  },
+  {
+    "name": "Istanbul VIP Barbers",
+    "address": "24 W Maitland St, Edinburgh EH12 5DX, United Kingdom",
+    "rating": 4.4,
+    "user_ratings_total": 240,
+    "place_id": "ChIJ5T0QWKTHh0gR3lbam-nIvj0",
+    "location": {
+      "lat": 55.9468195,
+      "lng": -3.2159804
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barber shop"
+  },
+  {
+    "name": "Links Barbers",
+    "address": "137 Bruntsfield Pl, Edinburgh EH10 4EB, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 148,
+    "place_id": "ChIJS3uy_grHh0gRwoiqQsG1TSs",
+    "location": {
+      "lat": 55.9364602,
+      "lng": -3.2078605
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barber shop"
+  },
+  {
+    "name": "BLANK. Barbershop",
+    "address": "4 Deanhaugh St, Edinburgh EH4 1LY, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 92,
+    "place_id": "ChIJ43c25b_Hh0gRx2wGKp3Vv6k",
+    "location": {
+      "lat": 55.958057,
+      "lng": -3.2093004
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barber shop"
+  },
+  {
+    "name": "Statement Barbers",
+    "address": "36 Home St, Edinburgh EH3 9LZ, United Kingdom",
+    "rating": 4.6,
+    "user_ratings_total": 151,
+    "place_id": "ChIJJ0fUap_Hh0gRK9-3Juuw7tw",
+    "location": {
+      "lat": 55.9428819,
+      "lng": -3.2038556
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barber shop"
+  },
+  {
+    "name": "Diamond Barbers",
+    "address": "226 Morrison St, Edinburgh EH3 8EA, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 79,
+    "place_id": "ChIJXa3ZeaTHh0gRBd-DsQ2OjME",
+    "location": {
+      "lat": 55.9462564,
+      "lng": -3.2135379
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barber shop"
+  },
+  {
+    "name": "Tatooine Planet Barbershop",
+    "address": "18 Earl Grey St, Edinburgh EH3 9BN, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 49,
+    "place_id": "ChIJaXx0UWvHh0gR8zJnaQ9yVk4",
+    "location": {
+      "lat": 55.94413549999999,
+      "lng": -3.2044763
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barber shop"
+  },
+  {
+    "name": "The Turkish Barber",
+    "address": "34 Easter Rd, Edinburgh EH7 5RG, United Kingdom",
+    "rating": 4.7,
+    "user_ratings_total": 118,
+    "place_id": "ChIJ5bi0cXS4h0gRq3qq-phNBvE",
+    "location": {
+      "lat": 55.9583069,
+      "lng": -3.1717157
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barber shop"
+  },
+  {
+    "name": "AG barber",
+    "address": "43 Ratcliffe Terrace, Edinburgh EH9 1SU, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 93,
+    "place_id": "ChIJe_BoDJrHh0gRnp7nyeaCmEk",
+    "location": {
+      "lat": 55.93405180000001,
+      "lng": -3.1781382
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barber shop"
+  },
+  {
+    "name": "The Golden Scissors Barber",
+    "address": "3 Forrest Rd, Edinburgh EH1 2QH, United Kingdom",
+    "rating": 4.7,
+    "user_ratings_total": 116,
+    "place_id": "ChIJGR-Hy4THh0gRAPzidQztdtY",
+    "location": {
+      "lat": 55.946445,
+      "lng": -3.1911629
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barber shop"
+  },
+  {
+    "name": "Romeo Juliet Hair Lounge",
+    "address": "2B W Telferton, Edinburgh EH7 6UL, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 33,
+    "place_id": "ChIJ1UlKcMq5h0gRYGM3wWlYqMQ",
+    "location": {
+      "lat": 55.9558672,
+      "lng": -3.126478
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair salon"
+  },
+  {
+    "name": "Glamour Hair & Beauty",
+    "address": "125 Gilmore Pl, Edinburgh EH3 9PP, United Kingdom",
+    "rating": 4.7,
+    "user_ratings_total": 66,
+    "place_id": "ChIJISByt6DHh0gRloTXqvMPdwQ",
+    "location": {
+      "lat": 55.9398776,
+      "lng": -3.2115156
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair salon"
+  },
+  {
+    "name": "Caldow Salon",
+    "address": "64 Haymarket Terrace, Edinburgh EH12 5LA, United Kingdom",
+    "rating": 4.7,
+    "user_ratings_total": 37,
+    "place_id": "ChIJY-6vfK_Hh0gRn0Cvjl0koFw",
+    "location": {
+      "lat": 55.9460418,
+      "lng": -3.2218993
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair salon"
+  },
+  {
+    "name": "Wicked Hair & Beauty",
+    "address": "13 Wolseley Pl, Edinburgh EH8 7AD, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 19,
+    "place_id": "ChIJtdVvMmi4h0gRiMSrJbArioA",
+    "location": {
+      "lat": 55.9549601,
+      "lng": -3.1510502
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair salon"
+  },
+  {
+    "name": "Ishi Salon",
+    "address": "4 Roseneath St, Edinburgh EH9 1JH, United Kingdom",
+    "rating": 4.7,
+    "user_ratings_total": 72,
+    "place_id": "ChIJhQiNwnfHh0gRpZWK4ZeG3LQ",
+    "location": {
+      "lat": 55.9382467,
+      "lng": -3.1920926
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair salon"
+  },
+  {
+    "name": "Medusa",
+    "address": "113 Hanover St, Edinburgh EH2 1DJ, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 63,
+    "place_id": "ChIJ03p92w7Hh0gRHEkeIy3nRXI",
+    "location": {
+      "lat": 55.9547353,
+      "lng": -3.1976378
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair salon"
+  },
+  {
+    "name": "Jan Liu Hair",
+    "address": "20 Geissler Dr, Leith, Edinburgh EH6 6AP, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 271,
+    "place_id": "ChIJpXvgrPLHh0gR58COJmcD2LI",
+    "location": {
+      "lat": 55.979667,
+      "lng": -3.1772114
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair salon"
+  },
+  {
+    "name": "Austen Thomson Hair",
+    "address": "269 Great Jct St, Edinburgh EH6 5LP, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 72,
+    "place_id": "ChIJ_bjimge4h0gRMisCgpBMUKk",
+    "location": {
+      "lat": 55.975281,
+      "lng": -3.179082
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair salon"
+  },
+  {
+    "name": "Bijou Hair",
+    "address": "140 Ferry Rd., Edinburgh EH6 4PQ, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 34,
+    "place_id": "ChIJwcrLlfnHh0gRV3NbB55kfmg",
+    "location": {
+      "lat": 55.97443000000001,
+      "lng": -3.1858963
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair salon"
+  },
+  {
+    "name": "Dudes & Divas Hair Studio",
+    "address": "35 Dalry Rd, Edinburgh EH11 2BU, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 54,
+    "place_id": "ChIJU4bBz6XHh0gRTjOOJsMYL5Q",
+    "location": {
+      "lat": 55.9449297,
+      "lng": -3.2174873
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair salon"
+  },
+  {
+    "name": "Citrus Hair Bar",
+    "address": "7-9 Grove St, Edinburgh EH3 8AF, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 17,
+    "place_id": "ChIJvT8EhZnHh0gRhVgj1j2bphs",
+    "location": {
+      "lat": 55.9458614,
+      "lng": -3.2127338
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair salon"
+  },
+  {
+    "name": "Asian Hair Salon Edinburgh ( Alfred )",
+    "address": "13 Brougham St, Edinburgh EH3 9JS, United Kingdom",
+    "rating": 4.5,
+    "user_ratings_total": 122,
+    "place_id": "ChIJH7s8P_rHh0gRx6EYLx7D8aY",
+    "location": {
+      "lat": 55.9432998,
+      "lng": -3.2026317
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair salon"
+  },
+  {
+    "name": "Wave Hair Studio",
+    "address": "13 E Market St, Edinburgh EH8 8FS, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 7,
+    "place_id": "ChIJbRVoYfDHh0gRht-7xT9Akf4",
+    "location": {
+      "lat": 55.9514296,
+      "lng": -3.1858823
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair studio"
+  },
+  {
+    "name": "Nevada Hair studio",
+    "address": "20 Broomhall Rd, Corstorphine, Edinburgh EH12 7PB, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 29,
+    "place_id": "ChIJYYVurYDGh0gRqqH6bG5k-XE",
+    "location": {
+      "lat": 55.9360783,
+      "lng": -3.2851397
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair studio"
+  },
+  {
+    "name": "RAW hair studio",
+    "address": "322 Portobello High St, Edinburgh EH15 2DA, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 35,
+    "place_id": "ChIJH5gnI1S5h0gR7Xc0Ab8jMSk",
+    "location": {
+      "lat": 55.9512558,
+      "lng": -3.1077278
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair studio"
+  },
+  {
+    "name": "Coco Hair Studio",
+    "address": "81 Easter Rd, Edinburgh EH7 5PW, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 23,
+    "place_id": "ChIJLZ1om3S4h0gRBGzslTepSNU",
+    "location": {
+      "lat": 55.95998350000001,
+      "lng": -3.1716606
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair studio"
+  },
+  {
+    "name": "Studio 4 Hair boutique",
+    "address": "4 Albany St, Edinburgh EH1 3QB, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 9,
+    "place_id": "ChIJlSWJC5LHh0gRllYOnwY3Fq4",
+    "location": {
+      "lat": 55.9570269,
+      "lng": -3.193146
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair studio"
+  },
+  {
+    "name": "Kelly’s Hair Studio 爱城美发 理发",
+    "address": "15A W Richmond St, Edinburgh EH8 9EF, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 73,
+    "place_id": "ChIJtaKVrobHh0gRVIIs_CLgRRg",
+    "location": {
+      "lat": 55.9453708,
+      "lng": -3.1834198
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair studio"
+  },
+  {
+    "name": "Aderans A&A Studios",
+    "address": "Garden level, Orchard Brae House, 30 Queensferry Rd, Edinburgh EH4 2HS, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 59,
+    "place_id": "ChIJSefSeevHh0gR6k31He4YWR8",
+    "location": {
+      "lat": 55.9554578,
+      "lng": -3.2236656
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair studio"
+  },
+  {
+    "name": "Studio 10",
+    "address": "138 Slateford Rd, Edinburgh EH14 1LR, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 13,
+    "place_id": "ChIJe4YHaeXGh0gRrtVQ2O6dkXc",
+    "location": {
+      "lat": 55.92501439999999,
+      "lng": -3.2459808
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair studio"
+  },
+  {
+    "name": "Neil Maclean Hair Studio",
+    "address": "90-92 Bruntsfield Pl, Edinburgh EH10 4ES, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 200,
+    "place_id": "ChIJT5Da6grHh0gRW1sbVbkpq-s",
+    "location": {
+      "lat": 55.9373347,
+      "lng": -3.2068913
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair studio"
+  },
+  {
+    "name": "Unity Hair Studio",
+    "address": "211a Portobello High St, Edinburgh EH15 1EU, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 32,
+    "place_id": "ChIJaz-kAzO5h0gRXUoHF5NwteE",
+    "location": {
+      "lat": 55.9522661,
+      "lng": -3.1128047
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair studio"
+  },
+  {
+    "name": "Studio15",
+    "address": "The Gatehouse, 15 Boswall Rd, Edinburgh EH5 3RW, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 4,
+    "place_id": "ChIJ6ZpLzxTHh0gRT_g4SGjmKFM",
+    "location": {
+      "lat": 55.9800525,
+      "lng": -3.2126171
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair studio"
+  },
+  {
+    "name": "STUDIO•junction",
+    "address": "206 Great Jct St, Leith, Edinburgh EH6 5LW, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 46,
+    "place_id": "ChIJlz6_uwe4h0gRnex_n7qcE6A",
+    "location": {
+      "lat": 55.9747096,
+      "lng": -3.1781594
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair studio"
+  },
+  {
+    "name": "Heads Together",
+    "address": "9 Drum Brae Ave, Edinburgh EH12 8TE, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 39,
+    "place_id": "ChIJqxiGkNjFh0gRzIuinr_UaiY",
+    "location": {
+      "lat": 55.9512861,
+      "lng": -3.2951154
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair studio"
+  },
+  {
+    "name": "Salon 328",
+    "address": "32 Montrose Terrace, Edinburgh EH7 5DL, United Kingdom",
+    "rating": 4.6,
+    "user_ratings_total": 40,
+    "place_id": "ChIJ57pwBHS4h0gRnuu-LYInHgA",
+    "location": {
+      "lat": 55.9567614,
+      "lng": -3.1714194
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair studio"
+  },
+  {
+    "name": "Salon Studios",
+    "address": "207 St John's Rd, Corstorphine, Edinburgh EH12 7UU, United Kingdom",
+    "rating": 4.6,
+    "user_ratings_total": 11,
+    "place_id": "ChIJT_MYEgPHh0gRO71dXeT7ed8",
+    "location": {
+      "lat": 55.9429605,
+      "lng": -3.2863212
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair studio"
+  },
+  {
+    "name": "McLaren Ross Hair Studio",
+    "address": "218 Morrison St, Edinburgh EH3 8EA, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 28,
+    "place_id": "ChIJEy30iKPHh0gRExwjTEUIzdQ",
+    "location": {
+      "lat": 55.9462504,
+      "lng": -3.2132821
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair studio"
+  },
+  {
+    "name": "ASH Studios",
+    "address": "62 N Castle St, Edinburgh EH2 3LU, United Kingdom",
+    "rating": 2.5,
+    "user_ratings_total": 4,
+    "place_id": "ChIJdd-eBSvHh0gR-BOrQmjAN-I",
+    "location": {
+      "lat": 55.9536847,
+      "lng": -3.2044582
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair studio"
+  },
+  {
+    "name": "Studio 40 Canonmills",
+    "address": "40 Rodney St, Edinburgh EH7 4DX, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 12,
+    "place_id": "ChIJQag8UY_Hh0gR6OQI1lHQeSI",
+    "location": {
+      "lat": 55.9619969,
+      "lng": -3.1954503
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair studio"
+  },
+  {
+    "name": "Sher Hair & Beauty",
+    "address": "7 Clermiston Rd, Corstorphine, Edinburgh EH12 6XG, United Kingdom",
+    "rating": 4.6,
+    "user_ratings_total": 83,
+    "place_id": "ChIJ03dkZnvGh0gRepxNfMEtxec",
+    "location": {
+      "lat": 55.9429175,
+      "lng": -3.2807603
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair studio"
+  },
+  {
+    "name": "Luiz Nascimento, Brazilian Hairstylist",
+    "address": "212 Easter Rd, Edinburgh EH7 5QH, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 51,
+    "place_id": "ChIJG33HVHO4h0gRwMOsjF4zYj4",
+    "location": {
+      "lat": 55.9622171,
+      "lng": -3.1708381
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair studio"
+  },
+  {
+    "name": "Ikina Hair Studio",
+    "address": "35 Roseburn Terrace, Edinburgh EH12 5NQ, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 13,
+    "place_id": "ChIJuQIW0qzHh0gRzApnAt_GDqw",
+    "location": {
+      "lat": 55.9455126,
+      "lng": -3.2347911
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair studio"
+  },
+  {
+    "name": "Estate Salon - African Hair Style Edinburgh",
+    "address": "267b Leith Walk, Edinburgh EH6 8PD, United Kingdom",
+    "rating": 4.1,
+    "user_ratings_total": 64,
+    "place_id": "ChIJ6et2mwi4h0gRPMAn0YfjgNM",
+    "location": {
+      "lat": 55.9656635,
+      "lng": -3.1757132
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair studio"
+  },
+  {
+    "name": "S Galbraith Hair Studio",
+    "address": "11 Kingsknowe Park, Edinburgh EH14 2JQ, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 16,
+    "place_id": "ChIJ8RjXRxTHh0gRWv4S_nxLJwk",
+    "location": {
+      "lat": 55.9162895,
+      "lng": -3.2608438
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair studio"
+  },
+  {
+    "name": "Fundamental salon",
+    "address": "EH6, 4 Anderson Pl, Edinburgh EH6 5NP, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 28,
+    "place_id": "ChIJr2URCq3Hh0gRpnCTK8_rgYc",
+    "location": {
+      "lat": 55.97089459999999,
+      "lng": -3.1814858
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair studio"
+  },
+  {
+    "name": "The Salon On Glanville",
+    "address": "3 Glanville Place, Edinburgh EH3 6SZ, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 49,
+    "place_id": "ChIJRTGc29vHh0gRPx1zxBxbrtc",
+    "location": {
+      "lat": 55.9578401,
+      "lng": -3.2082007
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair studio"
+  },
+  {
+    "name": "Rhoda HQ",
+    "address": "2 Wardlaw Pl, Edinburgh EH11 1UB, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 40,
+    "place_id": "ChIJ45TD1f51iEgRiRnSs1ncY6E",
+    "location": {
+      "lat": 55.9373869,
+      "lng": -3.2339596
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair studio"
+  },
+  {
+    "name": "LAMAFI HAIR STUDIO",
+    "address": "144a Glasgow Rd, Edinburgh EH12 8LS, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 7,
+    "place_id": "ChIJEQJTv-LHh0gRMVAFs3ktbnI",
+    "location": {
+      "lat": 55.9410894,
+      "lng": -3.3095062
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair studio"
+  },
+  {
+    "name": "Technik hairdressing",
+    "address": "102 Morningside Rd, Edinburgh EH10 4BY, United Kingdom",
+    "rating": 4.4,
+    "user_ratings_total": 103,
+    "place_id": "ChIJoxe_FQzHh0gRT-O7OM8HWPc",
+    "location": {
+      "lat": 55.93181930000001,
+      "lng": -3.210162
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair studio"
+  },
+  {
+    "name": "Hair by Brown @ Bona",
+    "address": "80 Colinton Mains Dr, Edinburgh EH13 9BJ, United Kingdom",
+    "rating": 4.5,
+    "user_ratings_total": 37,
+    "place_id": "ChIJRUNgUyvHh0gRwgxwX37QAgQ",
+    "location": {
+      "lat": 55.90948359999999,
+      "lng": -3.2331186
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair studio"
+  },
+  {
+    "name": "York Barbers",
+    "address": "4b York Pl, Edinburgh EH1 3EP, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 12,
+    "place_id": "ChIJjz9TuHbHh0gRc-0pMQxsmfA",
+    "location": {
+      "lat": 55.9560992,
+      "lng": -3.1926076
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barber"
+  },
+  {
+    "name": "By The Blade",
+    "address": "135 Dalry Rd, Edinburgh EH11 2EA, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 48,
+    "place_id": "ChIJByyEo6jHh0gRhZaZS6TeVW0",
+    "location": {
+      "lat": 55.9429184,
+      "lng": -3.2207955
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barber"
+  },
+  {
+    "name": "Dukes Barbers Of Tollcross",
+    "address": "16a Home St, W Tollcross, Edinburgh EH3 9LY, United Kingdom",
+    "rating": 4.5,
+    "user_ratings_total": 148,
+    "place_id": "ChIJkRpMR5_Hh0gRwOJlinFbHyo",
+    "location": {
+      "lat": 55.9433577,
+      "lng": -3.2038991
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barber"
+  },
+  {
+    "name": "Signature Barber",
+    "address": "7 S Clerk St, Newington, Edinburgh EH8 9JD, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 82,
+    "place_id": "ChIJOe5kj1rHh0gRy8frsQxTkLI",
+    "location": {
+      "lat": 55.94155379999999,
+      "lng": -3.1812937
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barber"
+  },
+  {
+    "name": "Kings Barbers",
+    "address": "25B Leven St, Edinburgh EH3 9LH, United Kingdom",
+    "rating": 4.6,
+    "user_ratings_total": 39,
+    "place_id": "ChIJn_39oZ_Hh0gRwcXKpRhA_bo",
+    "location": {
+      "lat": 55.9413136,
+      "lng": -3.2036669
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barber"
+  },
+  {
+    "name": "Dr Hair",
+    "address": "28 Bruntsfield Pl, Edinburgh EH10 4HJ, United Kingdom",
+    "rating": 4.6,
+    "user_ratings_total": 26,
+    "place_id": "ChIJS5HCIpHHh0gRc99teLECkIQ",
+    "location": {
+      "lat": 55.939758,
+      "lng": -3.20476
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair"
+  },
+  {
+    "name": "Hair By Boom",
+    "address": "136 Bruntsfield Pl, Edinburgh EH10 4ER, United Kingdom",
+    "rating": 4.7,
+    "user_ratings_total": 43,
+    "place_id": "ChIJSyIM-ArHh0gRw9QvDww90Cg",
+    "location": {
+      "lat": 55.9367096,
+      "lng": -3.2080102
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair"
+  },
+  {
+    "name": "LV HAIR 86",
+    "address": "86 Comiston Rd, Edinburgh EH10 5QJ, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 28,
+    "place_id": "ChIJpYJzWxHHh0gRPxZdEXRlKv8",
+    "location": {
+      "lat": 55.92263670000001,
+      "lng": -3.2111476
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair"
+  },
+  {
+    "name": "L S Hair",
+    "address": "290 Gorgie Rd, Edinburgh EH11 2PP, United Kingdom",
+    "rating": 4.6,
+    "user_ratings_total": 58,
+    "place_id": "ChIJX2gD7fnGh0gRi6SWcDsPDDA",
+    "location": {
+      "lat": 55.9370901,
+      "lng": -3.2362585
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair"
+  },
+  {
+    "name": "MissionHair Hairdressing",
+    "address": "MissionHair, 65 Bread St, Edinburgh EH3 9AH, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 10,
+    "place_id": "ChIJ8VbV35jHh0gRh3852rbmqwo",
+    "location": {
+      "lat": 55.9459621,
+      "lng": -3.202407
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair"
+  },
+  {
+    "name": "Bona hair",
+    "address": "80 Colinton Mains Dr, Edinburgh EH13 9BJ, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 48,
+    "place_id": "ChIJheQekejHh0gR1T8N7bndHoQ",
+    "location": {
+      "lat": 55.9094686,
+      "lng": -3.2331196
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair"
+  },
+  {
+    "name": "Poppy Hair Professional Hairdresser Edinburgh",
+    "address": "25a Dundas St, Edinburgh EH3 6QQ, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 13,
+    "place_id": "ChIJqyl19D3Hh0gRyUQC85PARDQ",
+    "location": {
+      "lat": 55.9572162,
+      "lng": -3.1988778
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair"
+  }
+]

@@ -1,0 +1,2355 @@
+[
+  {
+    "name": "281 Hair - Hairdressers Glasgow",
+    "address": "First Floor, 1/2, 281 Sauchiehall St, Glasgow G2 3HQ, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 1263,
+    "place_id": "ChIJIeZoUSZEiEgRCwjjyM22lTE",
+    "location": {
+      "lat": 55.865309,
+      "lng": -4.2638038
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Hair In The City",
+    "address": "14 High St, Glasgow G1 1NL, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 496,
+    "place_id": "ChIJFdq6qaZGiEgR_6iXeJty8Ks",
+    "location": {
+      "lat": 55.8569768,
+      "lng": -4.2431695
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Emma Loen City Centre",
+    "address": "136 Ingram St, Glasgow G1 1EJ, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 105,
+    "place_id": "ChIJOb7z9ZdHiEgRiB2ROwzIeQE",
+    "location": {
+      "lat": 55.859821,
+      "lng": -4.2467046
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Paul Allan Hair & Beauty",
+    "address": "459 Dumbarton Rd, Glasgow G11 6EJ, United Kingdom",
+    "rating": 4.5,
+    "user_ratings_total": 136,
+    "place_id": "ChIJ8xMXWd1FiEgR4xvKuplbV0A",
+    "location": {
+      "lat": 55.8706359,
+      "lng": -4.3112945
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "TONI&GUY Glasgow",
+    "address": "103 St Vincent St, Glasgow G2 5EA, United Kingdom",
+    "rating": 4.7,
+    "user_ratings_total": 438,
+    "place_id": "ChIJL7QhDp5GiEgRiP5yq2CIeDs",
+    "location": {
+      "lat": 55.8613788,
+      "lng": -4.257192799999999
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Linden Hair",
+    "address": "40 Osborne St, Glasgow G1 5QN, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 28,
+    "place_id": "ChIJBazIfEBHiEgRzNmxfa79cdM",
+    "location": {
+      "lat": 55.8559444,
+      "lng": -4.2464105
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Bloom Salon",
+    "address": "Unit 29, First Floor, Princes Square, 48 Buchanan St, Glasgow G1 3JN, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 241,
+    "place_id": "ChIJ_bgf8aBGiEgRdUpe_F4_APs",
+    "location": {
+      "lat": 55.85917329999999,
+      "lng": -4.2537892
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Stephen Doran Hair",
+    "address": "Stephen Doran Hair, 196 Bath St, Glasgow G2 4HG, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 186,
+    "place_id": "ChIJK_FgoZRFiEgR5uPmbqTLMpU",
+    "location": {
+      "lat": 55.8647679,
+      "lng": -4.2628541
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Revive Hair, Beauty & Aesthetics",
+    "address": "2314 Dumbarton Rd, Glasgow G14 0JS, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 49,
+    "place_id": "ChIJAQAMExNPiEgRy888cNlO-1U",
+    "location": {
+      "lat": 55.8875731,
+      "lng": -4.376888399999999
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Pele Hairdressing",
+    "address": "217 Hope St, Glasgow G2 2UW, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 173,
+    "place_id": "ChIJTS9BvyBEiEgRg8ENI3sFKPU",
+    "location": {
+      "lat": 55.86373400000001,
+      "lng": -4.257731
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Ensõ Hair, Hair Replacement & SMP",
+    "address": "310 Clyde St, Glasgow G1 4NP, United Kingdom",
+    "rating": 4.5,
+    "user_ratings_total": 62,
+    "place_id": "ChIJC4RDTplGiEgRkZVa6Mj3y-E",
+    "location": {
+      "lat": 55.8564227,
+      "lng": -4.257079
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Degenesis Hair Salon Glasgow",
+    "address": "150 Gallowgate, Glasgow G1 5DR, United Kingdom",
+    "rating": 4.5,
+    "user_ratings_total": 216,
+    "place_id": "ChIJp9v54SBEiEgRNbjtDoQw3vY",
+    "location": {
+      "lat": 55.85574159999999,
+      "lng": -4.239787
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "The BB Hair Collective",
+    "address": "172 Hope St, Glasgow G2 2TU, United Kingdom",
+    "rating": 4.6,
+    "user_ratings_total": 219,
+    "place_id": "ChIJDyJ8viBEiEgRj0L1773UX9I",
+    "location": {
+      "lat": 55.8635119,
+      "lng": -4.257507599999999
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Salon @ no.1",
+    "address": "1 Airth Pl, Bellahouston, Glasgow G52 1JT, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 136,
+    "place_id": "ChIJ9eoDyrtHiEgRYfrIYNXMIFU",
+    "location": {
+      "lat": 55.83927749999999,
+      "lng": -4.3201216
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Westend Hair",
+    "address": "487 Great Western Rd, Glasgow G12 8HL, United Kingdom",
+    "rating": 4.5,
+    "user_ratings_total": 173,
+    "place_id": "ChIJGxKf3zJEiEgR5nePonzwVe8",
+    "location": {
+      "lat": 55.8753121,
+      "lng": -4.281921
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "The Lunatic Fringe",
+    "address": "49 Bank St, Glasgow G12 8NF, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 133,
+    "place_id": "ChIJYe-eWs1FiEgRYgOsLF49mcI",
+    "location": {
+      "lat": 55.87389839999999,
+      "lng": -4.2833678
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Sculptur Salon",
+    "address": "326 Woodlands Rd, Glasgow G3 6NQ, United Kingdom",
+    "rating": 4.7,
+    "user_ratings_total": 95,
+    "place_id": "ChIJq2Y0eTJEiEgRf9nkUOvs-_0",
+    "location": {
+      "lat": 55.8729288,
+      "lng": -4.2788797
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Harper Hair Salon",
+    "address": "122 Battlefield Rd, Langside, Glasgow G42 9JT, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 197,
+    "place_id": "ChIJEdTnINtHiEgRB69q3NqXr78",
+    "location": {
+      "lat": 55.8266025,
+      "lng": -4.2656736
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Emma Loen West End",
+    "address": "23 Old Dumbarton Rd, Finnieston, Glasgow G3 8QY, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 194,
+    "place_id": "ChIJoWL4cNBFiEgRm46Adm5F2Lg",
+    "location": {
+      "lat": 55.8669158,
+      "lng": -4.2916092
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Complete Hair & Beauty Ltd",
+    "address": "433 Tantallon Rd, Shawlands, Glasgow G41 3HT, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 110,
+    "place_id": "ChIJZwPmhVZGiEgRFtQJJldrWTE",
+    "location": {
+      "lat": 55.8232732,
+      "lng": -4.279762499999999
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Kennedy + Co Hairdressing",
+    "address": "436 Dumbarton Rd, Glasgow G11 6SB, United Kingdom",
+    "rating": 4.7,
+    "user_ratings_total": 318,
+    "place_id": "ChIJDYnLJt1FiEgRr5lVukk_SX8",
+    "location": {
+      "lat": 55.87086009999999,
+      "lng": -4.3111042
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "VIP Hair salon Duke street",
+    "address": "336a Duke St, Glasgow G31 1QZ, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 458,
+    "place_id": "ChIJHdZRsaVGiEgRjmMHs3xapaM",
+    "location": {
+      "lat": 55.8582122,
+      "lng": -4.2216667
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Rainbow Room International",
+    "address": "125 Buchanan St, Glasgow G1 2JA, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 508,
+    "place_id": "ChIJf8PukJ9GiEgRBDCLCWVoeKE",
+    "location": {
+      "lat": 55.860713,
+      "lng": -4.2542622
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Cùrlach",
+    "address": "537 Victoria Rd, Glasgow G42 8BH, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 60,
+    "place_id": "ChIJ2xw_n29HiEgRXh1gjP6ANUk",
+    "location": {
+      "lat": 55.8340201,
+      "lng": -4.265397
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Papillon Hair Boutique",
+    "address": "208 W George St, Glasgow G2 2PQ, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 50,
+    "place_id": "ChIJVXxIUCdEiEgRZ2ypWQwjMbo",
+    "location": {
+      "lat": 55.86286339999999,
+      "lng": -4.2600255
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Encore Glasgow Hair Salon",
+    "address": "589 Mosspark Blvd, Glasgow G52 1SB, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 22,
+    "place_id": "ChIJC3vH_xxGiEgR6p7Zq4ofeaQ",
+    "location": {
+      "lat": 55.8457166,
+      "lng": -4.3340591
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Mauge Style",
+    "address": "43a Virginia Ct, Glasgow G1 1TS, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 31,
+    "place_id": "ChIJqUKBxKFGiEgRbgC0PaFueYQ",
+    "location": {
+      "lat": 55.85875420000001,
+      "lng": -4.2502254
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Kallys Hair, Glasgow",
+    "address": "146 Crail St, Glasgow G31 5RA, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 119,
+    "place_id": "ChIJp-QnEdRBiEgRlHgrXOu8TbE",
+    "location": {
+      "lat": 55.8494146,
+      "lng": -4.1911006
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Chesne Hair & Barbershop",
+    "address": "111 Ingram St, Glasgow G1 1DX, United Kingdom",
+    "rating": 4.7,
+    "user_ratings_total": 237,
+    "place_id": "ChIJ0YiTIqFGiEgRe4CfKdJal4U",
+    "location": {
+      "lat": 55.8593231,
+      "lng": -4.2456651
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Tangible Hairdressing",
+    "address": "1.4, 111 Union St, Glasgow G1 3TA, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 43,
+    "place_id": "ChIJ7WaB28RHiEgRUATU47BI5gw",
+    "location": {
+      "lat": 55.8602504,
+      "lng": -4.2572632
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Hair We Go GLASGOW",
+    "address": "168 Hope St, Glasgow G2 2TU, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 35,
+    "place_id": "ChIJF7v6DudFiEgRwqXxwA14aSk",
+    "location": {
+      "lat": 55.8633711,
+      "lng": -4.2575167
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Hair By Hanlon",
+    "address": "691 Great Western Rd, Glasgow G12 8RA, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 84,
+    "place_id": "ChIJrQyNccxFiEgRxckDCK0txd4",
+    "location": {
+      "lat": 55.8771264,
+      "lng": -4.2879621
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Ashley Bitters Hairdressing",
+    "address": "909 Dumbarton Rd, Glasgow G11 6NB, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 65,
+    "place_id": "ChIJ5X2YG_BFiEgR_Nhb0zXHXrI",
+    "location": {
+      "lat": 55.8720502,
+      "lng": -4.3277017
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Tokyo Hair",
+    "address": "40a High St, Glasgow G1 1NL, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 18,
+    "place_id": "ChIJ4fmakqFGiEgRE-GsZl1gYQw",
+    "location": {
+      "lat": 55.8578105,
+      "lng": -4.2423232
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "James Margey Hair",
+    "address": "115 Candleriggs, Glasgow G1 1NP, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 194,
+    "place_id": "ChIJ5T1auiBEiEgR7XQO9LIrERU",
+    "location": {
+      "lat": 55.859134,
+      "lng": -4.245443
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Taylor Ferguson",
+    "address": "106 Bath St, Glasgow G2 2EN, United Kingdom",
+    "rating": 3.9,
+    "user_ratings_total": 95,
+    "place_id": "ChIJg5PMxSBEiEgRtt0p5W0nPpU",
+    "location": {
+      "lat": 55.8641659,
+      "lng": -4.2582862
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "MIU HAIR",
+    "address": "1072 Argyle St, Finnieston, Glasgow G3 8LY, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 129,
+    "place_id": "ChIJIXii3dRFiEgR7ecL0mA1VEs",
+    "location": {
+      "lat": 55.86466069999999,
+      "lng": -4.283453
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Amethyst Hair Studio",
+    "address": "264 Stevenson St, Glasgow G40 2RU, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 130,
+    "place_id": "ChIJXb47Ga5GiEgRM7VyfJ_3z48",
+    "location": {
+      "lat": 55.8524955,
+      "lng": -4.2295285
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Alan Edwards Salon",
+    "address": "56-58 Wilson St, Glasgow G1 1HD, United Kingdom",
+    "rating": 4.6,
+    "user_ratings_total": 152,
+    "place_id": "ChIJZftSo6FGiEgRBm1DJjclQjY",
+    "location": {
+      "lat": 55.8588288,
+      "lng": -4.248345
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Hair House Glasgow",
+    "address": "126 Norfolk St, Glasgow G5 9EQ, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 25,
+    "place_id": "ChIJU6AVbq1HiEgRfJG9nhkk0IM",
+    "location": {
+      "lat": 55.8527228,
+      "lng": -4.2580127
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Rock'n Rollers Hairdressing",
+    "address": "749 Pollokshaws Rd, Glasgow G41 2AA, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 106,
+    "place_id": "ChIJlRo2QPRGiEgR9g0tEe_hZ5A",
+    "location": {
+      "lat": 55.83553209999999,
+      "lng": -4.271556599999999
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "kroma hair and beauty",
+    "address": "david lloyd, kroma, 238 Netherton Rd, Glasgow G13 1BJ, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 87,
+    "place_id": "ChIJHe3qZ9RFiEgRjqi4oKik8_E",
+    "location": {
+      "lat": 55.8981924,
+      "lng": -4.325081
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Willow - Hair Salon",
+    "address": "Suite 2:2, 111 Union St, Glasgow G1 3TA, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 26,
+    "place_id": "ChIJOUKgmz1HiEgRqIQq-EZx4ME",
+    "location": {
+      "lat": 55.8602504,
+      "lng": -4.2572632
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "NINE ZERO Salon",
+    "address": "2B Fernleigh Rd, Glasgow G43 2UE, United Kingdom",
+    "rating": 4.7,
+    "user_ratings_total": 38,
+    "place_id": "ChIJx_gsg59HiEgRUN-MkatA-Zs",
+    "location": {
+      "lat": 55.8130957,
+      "lng": -4.2910925
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Roar Hair & Beauty",
+    "address": "735 Pollokshaws Rd, Glasgow G41 2AA, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 61,
+    "place_id": "ChIJq0M09HVHiEgRxEBTR6QnDg8",
+    "location": {
+      "lat": 55.8357901,
+      "lng": -4.271110999999999
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Sean Marshall Hair",
+    "address": "60 Bell St, Glasgow G1 1LQ, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 147,
+    "place_id": "ChIJj0VHp9BHiEgRVxeZEyvV17s",
+    "location": {
+      "lat": 55.8577488,
+      "lng": -4.2438566
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "@66 Hair and Lifestyle",
+    "address": "66 Nithsdale Rd, Glasgow G41 2AN, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 82,
+    "place_id": "ChIJg8W8iSNHiEgR8c629QdIAaw",
+    "location": {
+      "lat": 55.8372404,
+      "lng": -4.2718133
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Kelvin Hair",
+    "address": "116 Queen Margaret Dr, Glasgow G20 8NZ, United Kingdom",
+    "rating": 4.4,
+    "user_ratings_total": 114,
+    "place_id": "ChIJ6bJp0zREiEgRp_q8wKpcmb0",
+    "location": {
+      "lat": 55.8807093,
+      "lng": -4.283992
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "The 145 collective",
+    "address": "145 Bath St, Glasgow G2 4SQ, United Kingdom",
+    "rating": 4.4,
+    "user_ratings_total": 29,
+    "place_id": "ChIJR16DPCdEiEgRH7QxsmccOFs",
+    "location": {
+      "lat": 55.864193,
+      "lng": -4.2608637
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "1920",
+    "address": "7 Garth St, Glasgow G1 1UT, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 174,
+    "place_id": "ChIJk3_vqh9HiEgRG96M3qeL0Rk",
+    "location": {
+      "lat": 55.85916599999999,
+      "lng": -4.248327
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Luxe hair beauty aesthetics",
+    "address": "451 Gallowgate, Glasgow G40 2DX, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 23,
+    "place_id": "ChIJcxCpwP5HiEgR0cYmfOcQcME",
+    "location": {
+      "lat": 55.855642,
+      "lng": -4.2273418
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Regis Salon St. Enoch",
+    "address": "Unit 21 St Enoch Sq, Glasgow G1 4BW, United Kingdom",
+    "rating": 4.4,
+    "user_ratings_total": 83,
+    "place_id": "ChIJF_78R59GiEgRgxBwLXBoGV0",
+    "location": {
+      "lat": 55.857063,
+      "lng": -4.2539967
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "K Hair Co",
+    "address": "998 Pollokshaws Rd, Glasgow G41 2HG, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 35,
+    "place_id": "ChIJj8hdlFhGiEgRIMUdZQCvntQ",
+    "location": {
+      "lat": 55.8321445,
+      "lng": -4.2780816
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Salon Héro",
+    "address": "1072 Cathcart Rd, Glasgow G42 9XW, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 30,
+    "place_id": "ChIJkzx0G-VGiEgRDOL-mHe0Lig",
+    "location": {
+      "lat": 55.82652040000001,
+      "lng": -4.258242500000001
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Russell Cowie Hairdressing",
+    "address": "593 Dumbarton Rd, Glasgow G11 6HY, United Kingdom",
+    "rating": 4.5,
+    "user_ratings_total": 48,
+    "place_id": "ChIJQYlUF-ZFiEgRo6xbGX7x7s0",
+    "location": {
+      "lat": 55.87058829999999,
+      "lng": -4.3171605
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "POMOhair",
+    "address": "39 Chancellor St, Glasgow G11 5QN, United Kingdom",
+    "rating": 4.7,
+    "user_ratings_total": 130,
+    "place_id": "ChIJyxld1MRFiEgRlVu_oi61q5s",
+    "location": {
+      "lat": 55.8719834,
+      "lng": -4.3011612
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Crazy Hair Lady",
+    "address": "5 McLennan St, Glasgow G42 9DH, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 41,
+    "place_id": "ChIJFTiyPaVHiEgR2TuXCvd2UJE",
+    "location": {
+      "lat": 55.8272659,
+      "lng": -4.2595084
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Seven Sins West End",
+    "address": "164 Queen Margaret Dr, Glasgow G20 8NX, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 76,
+    "place_id": "ChIJ8yQxAWBFiEgR5Nn2yfWv8e4",
+    "location": {
+      "lat": 55.8815904,
+      "lng": -4.2827804
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "#BLOW Finnieston",
+    "address": "1060 Argyle St, Finnieston, Glasgow G3 8LY, United Kingdom",
+    "rating": 4.6,
+    "user_ratings_total": 355,
+    "place_id": "ChIJm83oAYJGiEgR_zG6im9Ex5U",
+    "location": {
+      "lat": 55.864535,
+      "lng": -4.2832341
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Rainbow Room International Howard Street",
+    "address": "64 Howard St, Glasgow G1 4EE, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 365,
+    "place_id": "ChIJHUHNK5lGiEgRrlGjIqFyquY",
+    "location": {
+      "lat": 55.8565309,
+      "lng": -4.2545256
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Sauchiehall Barbers Glasgow",
+    "address": "279 Sauchiehall St, Glasgow G2 3HQ, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 2223,
+    "place_id": "ChIJkxc1USZEiEgR3lLJy-FLCJk",
+    "location": {
+      "lat": 55.8653505,
+      "lng": -4.263782
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Beardy Beardy ‘Glasgow City Centre’",
+    "address": "21 Renfield St, Glasgow G2 5AH, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 280,
+    "place_id": "ChIJ-xxDJo5HiEgRY6jwNVJZ_iU",
+    "location": {
+      "lat": 55.8612137,
+      "lng": -4.256963
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Central barber shop",
+    "address": "85 Union St, Glasgow G1 3TA, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 263,
+    "place_id": "ChIJRS8cYZ5GiEgRg4MFr6un5KA",
+    "location": {
+      "lat": 55.85984269999999,
+      "lng": -4.2572852
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "House Martin",
+    "address": "94 Bath St, Glasgow G2 2EN, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 230,
+    "place_id": "ChIJQa2JxCBEiEgR_X-Yrz8CuCk",
+    "location": {
+      "lat": 55.86410799999999,
+      "lng": -4.2578568
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Mr Blonde",
+    "address": "20 Wilson St, Glasgow G1 1SS, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 155,
+    "place_id": "ChIJiajObKFGiEgR7qqD0O5_zFk",
+    "location": {
+      "lat": 55.8585417,
+      "lng": -4.246322399999999
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Clean Fades Barber",
+    "address": "280 Gallowgate, Glasgow G4 0TU, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 344,
+    "place_id": "ChIJsZA_bNdHiEgR_6koqEl2bkY",
+    "location": {
+      "lat": 55.8551991,
+      "lng": -4.235735500000001
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "PARAGON - Modern Barbering",
+    "address": "117 W George St, Glasgow G2 1QR, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 537,
+    "place_id": "ChIJIXQeKZ5GiEgROyqvugh6mZ0",
+    "location": {
+      "lat": 55.8621826,
+      "lng": -4.2559703
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Brother Barbers Glasgow West End",
+    "address": "121 Byres Rd, Glasgow G12 8TT, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 507,
+    "place_id": "ChIJEVFJ6c9FiEgRfTwKPw92Grw",
+    "location": {
+      "lat": 55.8729678,
+      "lng": -4.296511199999999
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Caledonian Barbers Est 2003 (Thursday, Friday and Saturday open till late)",
+    "address": "40 Dundas St, Glasgow G1 2AQ, United Kingdom",
+    "rating": 4.7,
+    "user_ratings_total": 371,
+    "place_id": "ChIJFwbFASBEiEgRwK_ia0SfgOc",
+    "location": {
+      "lat": 55.862815,
+      "lng": -4.251828
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "The Glasgow Grooming Company",
+    "address": "48 Battlefield Rd, Glasgow G42 9QH, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 373,
+    "place_id": "ChIJHdEhk4tHiEgR1OeqkgMogxU",
+    "location": {
+      "lat": 55.8272549,
+      "lng": -4.2685363
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "The G barbers",
+    "address": "113 Cambridge St, Glasgow G3 6RU, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 287,
+    "place_id": "ChIJP2tuTSFEiEgR8OOjoiQbnoo",
+    "location": {
+      "lat": 55.8670792,
+      "lng": -4.2597136
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Safe Hands Barbers",
+    "address": "61 Parnie St, Glasgow G1 5LU, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 273,
+    "place_id": "ChIJp0G7z6NGiEgRA8X5KKEsccw",
+    "location": {
+      "lat": 55.85635070000001,
+      "lng": -4.2463188
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Nile Barbers",
+    "address": "103 W Nile St, Glasgow G1 2SD, United Kingdom",
+    "rating": 4.7,
+    "user_ratings_total": 128,
+    "place_id": "ChIJo4d5byBEiEgROvo7tXYa-Wc",
+    "location": {
+      "lat": 55.8633944,
+      "lng": -4.254635299999999
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "The Barbers Under The Bridge",
+    "address": "236 Argyle St, Glasgow G2 8HA, United Kingdom",
+    "rating": 4.7,
+    "user_ratings_total": 84,
+    "place_id": "ChIJrTp8np5GiEgRokfT9fv_RN8",
+    "location": {
+      "lat": 55.8586123,
+      "lng": -4.2590102
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Sharp Scissors Barbers",
+    "address": "718 Dumbarton Rd, Glasgow G11 6RB, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 282,
+    "place_id": "ChIJ90JP8eVFiEgRPxuTv7j0g6o",
+    "location": {
+      "lat": 55.8710501,
+      "lng": -4.3213598
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Fratelli barbers",
+    "address": "6 Dowanhill St, Glasgow G11 5QS, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 64,
+    "place_id": "ChIJMxv2gxZFiEgRGniB_aolS2Q",
+    "location": {
+      "lat": 55.8709954,
+      "lng": -4.3005438
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Fade N Flow",
+    "address": "178 Hope St, Glasgow G2 2TU, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 224,
+    "place_id": "ChIJza7SpUNFiEgRhnyk4ZZgrr0",
+    "location": {
+      "lat": 55.86366289999999,
+      "lng": -4.2573384
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "City Barbers",
+    "address": "99 W Nile St, Glasgow G1 2SD, United Kingdom",
+    "rating": 4.2,
+    "user_ratings_total": 229,
+    "place_id": "ChIJRxSIbyBEiEgRnAVfaMFvtNQ",
+    "location": {
+      "lat": 55.86331029999999,
+      "lng": -4.2546627
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Brush Barbers",
+    "address": "23 Sinclair Dr, Langside, Glasgow G42 9PR, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 251,
+    "place_id": "ChIJ495LOvpGiEgRlJ5PUul12Cg",
+    "location": {
+      "lat": 55.8266487,
+      "lng": -4.2669518
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Rain Dogs Society Bespoke Barbers",
+    "address": "9 Park Rd, Glasgow G4 9JD, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 143,
+    "place_id": "ChIJ0zVuaTJEiEgRJe_qe5LSHfk",
+    "location": {
+      "lat": 55.873955,
+      "lng": -4.2780806
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Dapperwolf Barber Club",
+    "address": "280 High St, Glasgow G4 0QT, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 80,
+    "place_id": "ChIJ0wPZ2qdGiEgRzD21NyQ4agk",
+    "location": {
+      "lat": 55.8606395,
+      "lng": -4.238507
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Treehaus Barbers",
+    "address": "517A Great Western Rd, Glasgow G12 8HN, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 44,
+    "place_id": "ChIJVWJ2gOBFiEgRhQ97Q9qJVqg",
+    "location": {
+      "lat": 55.8755226,
+      "lng": -4.2828118
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Malik's Barbers",
+    "address": "134 W Nile St, Glasgow G1 2RQ, United Kingdom",
+    "rating": 4.2,
+    "user_ratings_total": 84,
+    "place_id": "ChIJr99qaiBEiEgRerL4CY6RvIk",
+    "location": {
+      "lat": 55.8638251,
+      "lng": -4.2541404
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "MAX Men’s Grooming",
+    "address": "163 Great Western Rd, Glasgow G4 9AW, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 317,
+    "place_id": "ChIJt2j4LS5EiEgRNTuJLMZgZ8Q",
+    "location": {
+      "lat": 55.8721895,
+      "lng": -4.272239
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Rum Barber",
+    "address": "4 Kersland St, Glasgow G12 8BL, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 110,
+    "place_id": "ChIJocMQbsxFiEgRzlyTHlAl9TU",
+    "location": {
+      "lat": 55.87721080000001,
+      "lng": -4.2887541
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Herondale's Barbershop",
+    "address": "2nd Floor, 121 Bath St, Glasgow G2 2SZ, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 54,
+    "place_id": "ChIJ0R10C0VFiEgR5KQM3RuVNSI",
+    "location": {
+      "lat": 55.8641651,
+      "lng": -4.259537799999999
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "The Briar Grove Barbers",
+    "address": "1373 Argyle St, Glasgow G3 8AF, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 165,
+    "place_id": "ChIJVdo9R9FFiEgRHD7HRz4ki1o",
+    "location": {
+      "lat": 55.8677395,
+      "lng": -4.2915388
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "MARMARIS BARBERS",
+    "address": "288 Dumbarton Rd, Glasgow G11 6TD, United Kingdom",
+    "rating": 4.5,
+    "user_ratings_total": 172,
+    "place_id": "ChIJFbNop9xFiEgRFO0sHKp4-OI",
+    "location": {
+      "lat": 55.8709172,
+      "lng": -4.305022699999999
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "West Barber Glasgow",
+    "address": "53 Hyndland St, Glasgow G11 5QF, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 207,
+    "place_id": "ChIJ3WQSzcRFiEgRG-Sa94vc2Eg",
+    "location": {
+      "lat": 55.8720673,
+      "lng": -4.302449699999999
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Merchant City Barbers",
+    "address": "8 Wilson St, Glasgow G1 1SS, United Kingdom",
+    "rating": 4.3,
+    "user_ratings_total": 166,
+    "place_id": "ChIJ_xA6o6FGiEgRGKxorjBh_IY",
+    "location": {
+      "lat": 55.8585052,
+      "lng": -4.246030699999999
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Future Studios Modern Barbers",
+    "address": "111 Union Street Studio 1.13 / Buzzer 113, Glasgow G1 3TA, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 38,
+    "place_id": "ChIJrcMXdeJHiEgRbBL1RJWezoI",
+    "location": {
+      "lat": 55.8602504,
+      "lng": -4.2572632
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Avenue Barbers",
+    "address": "9 Lochburn Rd, Glasgow G20 9AE, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 65,
+    "place_id": "ChIJ0XvLl01EiEgRnLO-3R5hNjc",
+    "location": {
+      "lat": 55.8910705,
+      "lng": -4.2901595
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Battlefield Barbers",
+    "address": "56 Battlefield Rd, Glasgow G42 9QF, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 129,
+    "place_id": "ChIJoXp1H_pGiEgR3C1KGN9-834",
+    "location": {
+      "lat": 55.8271835,
+      "lng": -4.268129099999999
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Rain Dogs Society Bespoke Barbers City Centre",
+    "address": "49 Bath St, Glasgow G2 2DL, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 116,
+    "place_id": "ChIJf-Ap-59GiEgRvtlH5gYKxsM",
+    "location": {
+      "lat": 55.8636383,
+      "lng": -4.2562131
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Style City Barber",
+    "address": "1148 Argyle St, Finnieston, Glasgow G3 8TE, United Kingdom",
+    "rating": 4.3,
+    "user_ratings_total": 131,
+    "place_id": "ChIJFdrUXtRFiEgRVJICLU42Qr4",
+    "location": {
+      "lat": 55.86535689999999,
+      "lng": -4.2859091
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Mane Barbers",
+    "address": "2085 Paisley Rd W, Cardonald, Glasgow G52 3JH, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 244,
+    "place_id": "ChIJG-BqEJlJiEgRlAeq2tEbDFU",
+    "location": {
+      "lat": 55.8457253,
+      "lng": -4.3534563
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "The Bespoke Barber",
+    "address": "76 London Rd, Glasgow G1 5NP, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 60,
+    "place_id": "ChIJdSLzA1NHiEgR67O5NHBTopA",
+    "location": {
+      "lat": 55.8555472,
+      "lng": -4.2423138
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Westend Barbers",
+    "address": "389 Great Western Rd, Glasgow G4 9HY, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 42,
+    "place_id": "ChIJgYNwOfJFiEgRO8vN4_IwrPo",
+    "location": {
+      "lat": 55.87389750000001,
+      "lng": -4.277631
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Inci Lounge",
+    "address": "310 Argyle St, Glasgow G2 8LY, United Kingdom",
+    "rating": 4.6,
+    "user_ratings_total": 116,
+    "place_id": "ChIJe1AGJm9HiEgRL9oBKxUQQW4",
+    "location": {
+      "lat": 55.8588965,
+      "lng": -4.2613772
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "G11 barbers",
+    "address": "588 Dumbarton Rd, Glasgow G11 6RH, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 101,
+    "place_id": "ChIJn4fvPopFiEgR6mwDUSyMpHQ",
+    "location": {
+      "lat": 55.8707885,
+      "lng": -4.316190499999999
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Badguy Barber Shop & Salon",
+    "address": "288 Duke St, Glasgow G31 1RZ, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 124,
+    "place_id": "ChIJi0I80elDiEgRxPckDHwt2yU",
+    "location": {
+      "lat": 55.8581503,
+      "lng": -4.224029499999999
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Mojo Barbers",
+    "address": "3YR, 81 Kilmarnock Rd, Shawlands, Glasgow G41 3YR, United Kingdom",
+    "rating": 4.7,
+    "user_ratings_total": 135,
+    "place_id": "ChIJbcTw-FlGiEgRgTXt5M-s1fA",
+    "location": {
+      "lat": 55.82851789999999,
+      "lng": -4.2831055
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "The Fading Ape",
+    "address": "941 Tollcross Rd, Glasgow G32 8UR, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 267,
+    "place_id": "ChIJUX2erAdBiEgRIPZY-97x0Jc",
+    "location": {
+      "lat": 55.8442022,
+      "lng": -4.1755822
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "The World Cut",
+    "address": "1585 Great Western Rd, Anniesland, Glasgow G13 1LS, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 122,
+    "place_id": "ChIJdRhnyGJFiEgRCH6TuN4pdnc",
+    "location": {
+      "lat": 55.8893658,
+      "lng": -4.3236686
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Fade Zone",
+    "address": "32b St Andrews Rd, Glasgow G41 1PF, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 79,
+    "place_id": "ChIJXx4umJlHiEgRotpuQ9evluw",
+    "location": {
+      "lat": 55.8445685,
+      "lng": -4.2687194
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "THiiiRD SPACE Barbers",
+    "address": "Unit 31, De Courcy's Arcade, 5/21 Cresswell Ln, Glasgow G12 8AA, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 59,
+    "place_id": "ChIJM9Iw1pZFiEgRBj_cBfVlzsg",
+    "location": {
+      "lat": 55.8759072,
+      "lng": -4.2917838
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Safe Hands SMP",
+    "address": "5 Miller St, Glasgow G1 1EA, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 362,
+    "place_id": "ChIJWcbgXp9GiEgR2wtQIYx82A4",
+    "location": {
+      "lat": 55.85801900000001,
+      "lng": -4.2514843
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Guy & Beard Barbers Glasgow Fort",
+    "address": "Glasgow Fort Shopping Park, The Cabin, 171-173 Provan Walk, Glasgow G34 9DY, United Kingdom",
+    "rating": 4,
+    "user_ratings_total": 276,
+    "place_id": "ChIJAQBAoiFCiEgRAQp-D8RolwM",
+    "location": {
+      "lat": 55.8724139,
+      "lng": -4.1374485
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "St. Enoch Barbers",
+    "address": "64 St Enoch Sq, Glasgow G1 4AG, United Kingdom",
+    "rating": 3.4,
+    "user_ratings_total": 35,
+    "place_id": "ChIJMYtmzJ5GiEgRVD0GmM1Lw50",
+    "location": {
+      "lat": 55.8569951,
+      "lng": -4.255957599999999
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Amo Barber Co.",
+    "address": "344 Duke St, Glasgow G31 1QZ, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 56,
+    "place_id": "ChIJo2DfCnVBiEgRUQwBwZHo6es",
+    "location": {
+      "lat": 55.8582394,
+      "lng": -4.2212149
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Rednecks Barber Shop",
+    "address": "137 High St, Glasgow G1 1PH, United Kingdom",
+    "rating": 4.5,
+    "user_ratings_total": 126,
+    "place_id": "ChIJe2g8laZGiEgRtAwDzHDcejU",
+    "location": {
+      "lat": 55.8586707,
+      "lng": -4.241872799999999
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Ramskull Barbers",
+    "address": "367 Dumbarton Rd, Glasgow G11 6BA, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 99,
+    "place_id": "ChIJo2rSBRtFiEgRixg4sKI2ByU",
+    "location": {
+      "lat": 55.87071280000001,
+      "lng": -4.3075218
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Curley's Urbane Barbers",
+    "address": "15 Minard Rd, Shawlands, Glasgow G41 2HR, United Kingdom",
+    "rating": 4.7,
+    "user_ratings_total": 151,
+    "place_id": "ChIJy_TN5FhGiEgREdSw3u9vDFY",
+    "location": {
+      "lat": 55.8317346,
+      "lng": -4.2794031
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Rogan Barber",
+    "address": "259 Bilsland Dr, Glasgow G20 9RE, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 38,
+    "place_id": "ChIJv4DRWfJFiEgR7wF-a-uDpg8",
+    "location": {
+      "lat": 55.8873238,
+      "lng": -4.274930299999999
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Kemo Barber",
+    "address": "885 Govan Rd, Glasgow G51 3DN, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 371,
+    "place_id": "ChIJ_XptEuFFiEgRHxWZ9N7GbUY",
+    "location": {
+      "lat": 55.86386820000001,
+      "lng": -4.3164256
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Legacy Gents Stylists",
+    "address": "647 Duke St, Glasgow G31 1QA, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 164,
+    "place_id": "ChIJ64LDrFZBiEgR6PFeO38GmVA",
+    "location": {
+      "lat": 55.8585858,
+      "lng": -4.2134678
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Badlands Barber",
+    "address": "518 Great Western Rd, Glasgow G12 8EL, United Kingdom",
+    "rating": 4.7,
+    "user_ratings_total": 137,
+    "place_id": "ChIJuXpeLzNEiEgR4E-X4RBcDqc",
+    "location": {
+      "lat": 55.87581789999999,
+      "lng": -4.2826892
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "The Gentlemans Barber",
+    "address": "95A Byres Rd, Glasgow G11 5HW, United Kingdom",
+    "rating": 4.7,
+    "user_ratings_total": 185,
+    "place_id": "ChIJIa8S_M9FiEgR8O2yGzoMSYM",
+    "location": {
+      "lat": 55.8723796,
+      "lng": -4.2972164
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Azteca Modern Barbering",
+    "address": "Suite 12-14, 204 Bath St, Glasgow G2 4HW, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 34,
+    "place_id": "ChIJTZPxbElFiEgRPoXRoTq-RAY",
+    "location": {
+      "lat": 55.8648178,
+      "lng": -4.2638112
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Mercia barber shop Turkish style modern",
+    "address": "21 Clarkston Rd, Cathcart, Glasgow G44 4EF, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 457,
+    "place_id": "ChIJK3gCnQJHiEgRXgN-IDrKhow",
+    "location": {
+      "lat": 55.8174454,
+      "lng": -4.2619292
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barber shop"
+  },
+  {
+    "name": "EXSTUDIO",
+    "address": "490 Great Western Rd, Glasgow G12 8EW, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 46,
+    "place_id": "ChIJmVt4E35HiEgRcxoclkP-iRE",
+    "location": {
+      "lat": 55.87558019999999,
+      "lng": -4.281941
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barber shop"
+  },
+  {
+    "name": "Vintage barbershop 💈",
+    "address": "158 Abercromby St, Glasgow G40 2SA, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 48,
+    "place_id": "ChIJp5_fo6ZHiEgRFpnoBGSEKEE",
+    "location": {
+      "lat": 55.8531171,
+      "lng": -4.2282489
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barber shop"
+  },
+  {
+    "name": "Rebel Rebel 'Finnieston'",
+    "address": "Studio 1 1st Floor, The Hive, 1061 Argyle St, Finnieston, Glasgow G3 8LZ, United Kingdom",
+    "rating": 4.7,
+    "user_ratings_total": 160,
+    "place_id": "ChIJvamE-tRFiEgRvPp-U76-13o",
+    "location": {
+      "lat": 55.8635277,
+      "lng": -4.2827741
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barber shop"
+  },
+  {
+    "name": "Prime barbershop",
+    "address": "1272 Paisley Rd W, Glasgow G52 1DP, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 121,
+    "place_id": "ChIJrTFvTmlHiEgR3_snL4W0aK0",
+    "location": {
+      "lat": 55.84787439999999,
+      "lng": -4.3230502
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barber shop"
+  },
+  {
+    "name": "Martin Jones Barbers",
+    "address": "3 Merkland St, Glasgow G11 6BU, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 84,
+    "place_id": "ChIJU3AfId1FiEgRzpMJIlJzptE",
+    "location": {
+      "lat": 55.87057979999999,
+      "lng": -4.3088465
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barber shop"
+  },
+  {
+    "name": "St duke barbershop",
+    "address": "462 Duke St, Glasgow G31 1QN, United Kingdom",
+    "rating": 4.1,
+    "user_ratings_total": 38,
+    "place_id": "ChIJB7KWCVRBiEgRyrtJm7fEhpk",
+    "location": {
+      "lat": 55.8583247,
+      "lng": -4.2154491
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barber shop"
+  },
+  {
+    "name": "chop chop barber shop",
+    "address": "430 Paisley Rd W, Glasgow G51 1BE, United Kingdom",
+    "rating": 4.7,
+    "user_ratings_total": 103,
+    "place_id": "ChIJBeBESdVHiEgR8y2gKv56OLU",
+    "location": {
+      "lat": 55.8516449,
+      "lng": -4.2977744
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barber shop"
+  },
+  {
+    "name": "The Wee Barbers",
+    "address": "1634 Great Western Rd, Anniesland, Glasgow G13 1HH, United Kingdom",
+    "rating": 4.5,
+    "user_ratings_total": 152,
+    "place_id": "ChIJkYddO5FFiEgRJCN4NMT73us",
+    "location": {
+      "lat": 55.8899106,
+      "lng": -4.324205399999999
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barber shop"
+  },
+  {
+    "name": "John's Barbershop",
+    "address": "146 Norfolk St, Glasgow G5 9EQ, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 102,
+    "place_id": "ChIJcb2KIppGiEgR67E0ZbM_ELg",
+    "location": {
+      "lat": 55.852752,
+      "lng": -4.2583685
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barber shop"
+  },
+  {
+    "name": "Jim's Barbers",
+    "address": "97 Calder St, Glasgow G42 7RA, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 131,
+    "place_id": "ChIJZ8eSkfJGiEgRc_IJtco_bhc",
+    "location": {
+      "lat": 55.83782799999999,
+      "lng": -4.2639089
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barber shop"
+  },
+  {
+    "name": "Kings barber shop",
+    "address": "265 Great Western Rd, Glasgow G4 9EG, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 23,
+    "place_id": "ChIJ_8YoX2dFiEgRjXtecRP4yQQ",
+    "location": {
+      "lat": 55.8728676,
+      "lng": -4.2744388
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barber shop"
+  },
+  {
+    "name": "Eleven8 Barber Studio",
+    "address": "118 Sauchiehall St, Glasgow G2 3DH, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 27,
+    "place_id": "ChIJE1PffRBFiEgRhSo2gUEy4LI",
+    "location": {
+      "lat": 55.8648311,
+      "lng": -4.2574166
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barber shop"
+  },
+  {
+    "name": "Mr Barber the original",
+    "address": "19 Leven St, Glasgow G41 2JB, United Kingdom",
+    "rating": 4.5,
+    "user_ratings_total": 63,
+    "place_id": "ChIJQXSpFuJHiEgR1km8fjKGQfk",
+    "location": {
+      "lat": 55.8394055,
+      "lng": -4.2735922
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barber shop"
+  },
+  {
+    "name": "Ray's Barber Shop",
+    "address": "69 Hector Rd, Shawlands, Glasgow G41 3QD, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 57,
+    "place_id": "ChIJ18O7b1BGiEgRyB1mTvNNXOU",
+    "location": {
+      "lat": 55.82716139999999,
+      "lng": -4.2878927
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barber shop"
+  },
+  {
+    "name": "The Trim House Barber Shop (Glasgow / City Centre/sauchihall street ) )",
+    "address": "340 Sauchiehall St, Glasgow G2 3JD, United Kingdom",
+    "rating": 4.2,
+    "user_ratings_total": 74,
+    "place_id": "ChIJQQRG5SFFiEgRdD909rVFnyQ",
+    "location": {
+      "lat": 55.8656987,
+      "lng": -4.2648871
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barber shop"
+  },
+  {
+    "name": "Super Hair Design / Barbers (African Ladies & Gents Hair Studio)",
+    "address": "181 Maryhill Rd, Glasgow G20 7XL, United Kingdom",
+    "rating": 4.5,
+    "user_ratings_total": 103,
+    "place_id": "ChIJo_bIIjBEiEgRvOmr9NiGZQQ",
+    "location": {
+      "lat": 55.8739603,
+      "lng": -4.2704577
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barber shop"
+  },
+  {
+    "name": "BLOND Salon",
+    "address": "101-103 Holmlea Rd, Glasgow G44 4AQ, United Kingdom",
+    "rating": 4.5,
+    "user_ratings_total": 94,
+    "place_id": "ChIJ2fPRqPxGiEgRKpIXf6gfgxo",
+    "location": {
+      "lat": 55.8228987,
+      "lng": -4.2609672
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair salon"
+  },
+  {
+    "name": "Boveda Hair and Beauty",
+    "address": "1944 Maryhill Rd, Glasgow G20 0EQ, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 173,
+    "place_id": "ChIJHQ6cpq9FiEgR5il2Xy1_bX8",
+    "location": {
+      "lat": 55.8967921,
+      "lng": -4.2993537
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair salon"
+  },
+  {
+    "name": "Pelo Hair Salon",
+    "address": "203 Great Western Rd, Glasgow G4 9EB, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 45,
+    "place_id": "ChIJSdgKJC5EiEgRN72MthqDlMA",
+    "location": {
+      "lat": 55.8725076,
+      "lng": -4.2732858
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair salon"
+  },
+  {
+    "name": "Hair and Beauty by Somi",
+    "address": "218 Woodlands Rd, Glasgow G3 6LN, United Kingdom",
+    "rating": 4.6,
+    "user_ratings_total": 26,
+    "place_id": "ChIJS4rhSA2OpioRGHbUn58e_Kk",
+    "location": {
+      "lat": 55.8707596,
+      "lng": -4.2765417
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair salon"
+  },
+  {
+    "name": "Rainbow Room International",
+    "address": "24 Royal Exchange Square, Glasgow G1 3AB, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 582,
+    "place_id": "ChIJf8PukJ9GiEgRKXMtFqRbeTk",
+    "location": {
+      "lat": 55.8604861,
+      "lng": -4.2528818
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair salon"
+  },
+  {
+    "name": "BLOW CITY",
+    "address": "55 Queen St, Glasgow G1 3EN, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 280,
+    "place_id": "ChIJQ_q48AdHiEgRn1eV6wqdIOA",
+    "location": {
+      "lat": 55.8590192,
+      "lng": -4.2523955
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair salon"
+  },
+  {
+    "name": "Eutopia - Beauty | Hair | Barbers",
+    "address": "109 - 111 Clarence Dr, Glasgow G12 9RW, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 90,
+    "place_id": "ChIJg_WJB-pFiEgRqbJ0htAF2BE",
+    "location": {
+      "lat": 55.87762009999999,
+      "lng": -4.3134828
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair salon"
+  },
+  {
+    "name": "Coe Hair",
+    "address": "155 Stockwell St, Glasgow G1 4LR, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 38,
+    "place_id": "ChIJwbY_-d9HiEgRjfxwyHBGD_w",
+    "location": {
+      "lat": 55.8547703,
+      "lng": -4.2499053
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair salon"
+  },
+  {
+    "name": "OHAIR hair and beauty",
+    "address": "276 Woodlands Rd, Glasgow G3 6NE, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 66,
+    "place_id": "ChIJ6Wfrky1EiEgR7vX2c4aNjdI",
+    "location": {
+      "lat": 55.8718972,
+      "lng": -4.277733
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair salon"
+  },
+  {
+    "name": "Kano Hair and Beauty",
+    "address": "260 Kilmarnock Rd, Shawlands, Glasgow G43 2XS, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 125,
+    "place_id": "ChIJG0YCAVFGiEgRHl-DxRBJZFY",
+    "location": {
+      "lat": 55.8249242,
+      "lng": -4.286270399999999
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair salon"
+  },
+  {
+    "name": "Cresswell studios",
+    "address": "8 Cresswell Ln, Glasgow G12 8AA, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 63,
+    "place_id": "ChIJNeaims5FiEgRaC7sPGAUooo",
+    "location": {
+      "lat": 55.87606539999999,
+      "lng": -4.2920505
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair studio"
+  },
+  {
+    "name": "HelyHairStudio",
+    "address": "25 Clarence Dr, Glasgow G12 9QN, United Kingdom",
+    "rating": 4.7,
+    "user_ratings_total": 26,
+    "place_id": "ChIJtd_TPCZEiEgRx5OfaaM3rfU",
+    "location": {
+      "lat": 55.8770537,
+      "lng": -4.308190499999999
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair studio"
+  },
+  {
+    "name": "Studio 301",
+    "address": "301 Shieldhall Rd, Glasgow G51 4HB, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 16,
+    "place_id": "ChIJJ1KuuQFGiEgRsXj4H4_laVQ",
+    "location": {
+      "lat": 55.8559767,
+      "lng": -4.337461999999999
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair studio"
+  },
+  {
+    "name": "Unique Hair Studio",
+    "address": "5 Allison St, Glasgow G42 8NP, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 10,
+    "place_id": "ChIJW88Ij2VHiEgRvhPFlGLW4bg",
+    "location": {
+      "lat": 55.83707889999999,
+      "lng": -4.2688137
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair studio"
+  },
+  {
+    "name": "G33 Hair Studio",
+    "address": "96 Smithycroft Rd, Glasgow G33 2RQ, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 11,
+    "place_id": "ChIJxc0V5d5DiEgRLGLG6HUaCsw",
+    "location": {
+      "lat": 55.8681201,
+      "lng": -4.1887219
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair studio"
+  },
+  {
+    "name": "The Curl Shop",
+    "address": "Unit 305, 111 Union St, Glasgow G1 3TA, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 27,
+    "place_id": "ChIJP6_gfAdHiEgRqNr8g2IWisQ",
+    "location": {
+      "lat": 55.8602504,
+      "lng": -4.2572632
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair studio"
+  },
+  {
+    "name": "Black Creative Studio",
+    "address": "Studio 110, First Floor, Axiom Building, 54 Washington St, Glasgow G3 8AZ, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 37,
+    "place_id": "ChIJt-Y_5ZZHiEgRdQlN06vbi4o",
+    "location": {
+      "lat": 55.85788909999999,
+      "lng": -4.268977899999999
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair studio"
+  },
+  {
+    "name": "Tiny House Salon Glasgow",
+    "address": "116 Shakespeare St, Glasgow G20 8LF, United Kingdom",
+    "rating": 4.7,
+    "user_ratings_total": 12,
+    "place_id": "ChIJXWKS9shFiEgRk_Qdgmjsfmk",
+    "location": {
+      "lat": 55.8848875,
+      "lng": -4.2872096
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair studio"
+  },
+  {
+    "name": "SOUTH",
+    "address": "994a Pollokshaws Rd, Glasgow G41 2HA, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 125,
+    "place_id": "ChIJDzSellhGiEgRPkXCI3lVcTY",
+    "location": {
+      "lat": 55.8322017,
+      "lng": -4.277979999999999
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair studio"
+  },
+  {
+    "name": "Mesart Hair Design",
+    "address": "234 Great Western Rd, Glasgow G4 9EJ, United Kingdom",
+    "rating": 4.7,
+    "user_ratings_total": 67,
+    "place_id": "ChIJO8ISNdFFiEgRpm_nu125CV4",
+    "location": {
+      "lat": 55.8727493,
+      "lng": -4.2729549
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair studio"
+  },
+  {
+    "name": "Liam's Hair Studio",
+    "address": "39 Fulton St, Glasgow G13 1DJ, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 57,
+    "place_id": "ChIJoSkxBJpFiEgRCqj8nc8CVi4",
+    "location": {
+      "lat": 55.8940128,
+      "lng": -4.3243081
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair studio"
+  },
+  {
+    "name": "Davinas hair salon",
+    "address": "Unit 44e, huntershill village, 102 Crowhill Rd, Bishopbriggs, Glasgow G64 1RP, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 283,
+    "place_id": "ChIJS10T6odDiEgRiGOFPOXE6z0",
+    "location": {
+      "lat": 55.897935,
+      "lng": -4.2286931
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair studio"
+  },
+  {
+    "name": "Ellen Conlin Hair & Beauty",
+    "address": "183-185 Hyndland Rd, Glasgow G12 9HT, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 200,
+    "place_id": "ChIJy2EbdcRFiEgR2CwR7rEk2yE",
+    "location": {
+      "lat": 55.87589,
+      "lng": -4.305554
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair studio"
+  },
+  {
+    "name": "Gosh! Hair Design",
+    "address": "435 Great Western Rd, Glasgow G4 9JA, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 39,
+    "place_id": "ChIJe7nfQjJEiEgRaQxC5QytqRs",
+    "location": {
+      "lat": 55.8743981,
+      "lng": -4.2789774
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair studio"
+  },
+  {
+    "name": "No1 Style Studio",
+    "address": "168-170 Archerhill Rd, Glasgow G13 3JG, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 25,
+    "place_id": "ChIJ1-zL9u9PiEgRxzucR0f8Ebg",
+    "location": {
+      "lat": 55.8967643,
+      "lng": -4.357651
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair studio"
+  },
+  {
+    "name": "Lakez Hair Studio",
+    "address": "37 Westmuir St, Glasgow G31 5EL, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 13,
+    "place_id": "ChIJ48CU4z9BiEgRdwRkSdg1lhY",
+    "location": {
+      "lat": 55.8514518,
+      "lng": -4.1961002
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair studio"
+  },
+  {
+    "name": "Gratitude Hair Studio",
+    "address": "Metropolitan Area, 1135 Pollokshaws Rd, Shawlands, Glasgow G41 3YH, United Kingdom",
+    "rating": 4.7,
+    "user_ratings_total": 71,
+    "place_id": "ChIJx2KEpVlGiEgRvxRJdLCNfyU",
+    "location": {
+      "lat": 55.83038149999999,
+      "lng": -4.2807737
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair studio"
+  },
+  {
+    "name": "1036 Hair Design",
+    "address": "1036 Argyle St, Finnieston, Glasgow G3 8LX, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 14,
+    "place_id": "ChIJtzYUKNVFiEgRlAKv7MbBH8Y",
+    "location": {
+      "lat": 55.864247,
+      "lng": -4.282380499999999
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair studio"
+  },
+  {
+    "name": "Image hairdresser and Makeup",
+    "address": "43 Main St, Bridgeton, Glasgow G40 1QB, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 18,
+    "place_id": "ChIJI5185LNGiEgRFCwu6QsOxM4",
+    "location": {
+      "lat": 55.8472231,
+      "lng": -4.2268378
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair studio"
+  },
+  {
+    "name": "Blondes Hair Studio",
+    "address": "1072 Shettleston Rd, Glasgow G32 7PW, United Kingdom",
+    "rating": 4.4,
+    "user_ratings_total": 17,
+    "place_id": "ChIJq2y32XBBiEgRZbVE615CZX8",
+    "location": {
+      "lat": 55.8516126,
+      "lng": -4.1698236
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair studio"
+  },
+  {
+    "name": "Advanced Hair Studio",
+    "address": "29 Park Circus, Glasgow G3 6AP, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 9,
+    "place_id": "ChIJTfu-zytEiEgRQ6t7UJkO0BA",
+    "location": {
+      "lat": 55.8689172,
+      "lng": -4.2781657
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair studio"
+  },
+  {
+    "name": "Studio 4 hair",
+    "address": "5 Bilsland Dr, Maryhill, Glasgow G20 9TQ, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 16,
+    "place_id": "ChIJT4fLekpEiEgRIuppDOLn6As",
+    "location": {
+      "lat": 55.884499,
+      "lng": -4.2800422
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair studio"
+  },
+  {
+    "name": "Mitchells Hair Studio",
+    "address": "404B Duke St, Glasgow G31 1PX, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 17,
+    "place_id": "ChIJwYIZeVRBiEgRu7U0lUPj42A",
+    "location": {
+      "lat": 55.85834639999999,
+      "lng": -4.2172107
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair studio"
+  },
+  {
+    "name": "Studio 988",
+    "address": "988 Crow Rd, Anniesland, Glasgow G13 1JF, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 19,
+    "place_id": "ChIJg2-3DelFiEgRuBJN13n_av8",
+    "location": {
+      "lat": 55.8933608,
+      "lng": -4.3219575
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair studio"
+  },
+  {
+    "name": "The Hair Studio Bishopbriggs",
+    "address": "30 Wellington Rd, Bishopbriggs, Glasgow G64 2SA, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 11,
+    "place_id": "ChIJVQbq-nFDiEgR0F6tyjWucUA",
+    "location": {
+      "lat": 55.9190305,
+      "lng": -4.2095095
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair studio"
+  },
+  {
+    "name": "The Iconic Studios",
+    "address": "57 Main St, Bridgeton, Glasgow G40 1QB, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 51,
+    "place_id": "ChIJY6mLkrVHiEgRYLs-QGj5hUE",
+    "location": {
+      "lat": 55.8474094,
+      "lng": -4.2265293
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair studio"
+  },
+  {
+    "name": "# Trend Hair & Make Up Studio",
+    "address": "318 Westmuir St, Glasgow G31 5BY, United Kingdom",
+    "rating": 4.6,
+    "user_ratings_total": 29,
+    "place_id": "ChIJlbSCtQxBiEgR2oXt6LFYhV4",
+    "location": {
+      "lat": 55.85217069999999,
+      "lng": -4.1881564
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair studio"
+  },
+  {
+    "name": "Infinite Gents Grooming",
+    "address": "231 Berkeley St., Finnieston, Glasgow G3 7HH, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 60,
+    "place_id": "ChIJNR4PCJRBiEgRrRFqqXkNMOM",
+    "location": {
+      "lat": 55.8644662,
+      "lng": -4.282411
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barber"
+  },
+  {
+    "name": "Bee 🐝barber",
+    "address": "1022 Argyle St, Finnieston, Glasgow G3 8LX, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 112,
+    "place_id": "ChIJm5Ga3G1FiEgR8KLa4WhnO5o",
+    "location": {
+      "lat": 55.86416860000001,
+      "lng": -4.2820554
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barber"
+  },
+  {
+    "name": "Mohair",
+    "address": "87 Saltmarket, Glasgow G1 5LE, United Kingdom",
+    "rating": 4.6,
+    "user_ratings_total": 301,
+    "place_id": "ChIJD_tDzKNGiEgR_LnNMXrHN5g",
+    "location": {
+      "lat": 55.8553691,
+      "lng": -4.2449161
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barber"
+  },
+  {
+    "name": "Yorkhill Barbers",
+    "address": "37 Old Dumbarton Rd, Glasgow G3 8RD, United Kingdom",
+    "rating": 4.7,
+    "user_ratings_total": 148,
+    "place_id": "ChIJzyItMtFFiEgR_j2Lc-2rcDc",
+    "location": {
+      "lat": 55.866997,
+      "lng": -4.2920526
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barber"
+  },
+  {
+    "name": "Hairs & Graces Glasgow Ltd",
+    "address": "283 St George's Rd, Glasgow G3 6JQ, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 36,
+    "place_id": "ChIJaYXCYyVEiEgRWa_jWeVk41Y",
+    "location": {
+      "lat": 55.87137079999999,
+      "lng": -4.267654300000001
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair"
+  },
+  {
+    "name": "Nt Hair",
+    "address": "Glasgow G32 9EE, United Kingdom",
+    "rating": 4.7,
+    "user_ratings_total": 66,
+    "place_id": "ChIJgeRRUplBiEgRUVDnUZqqyxg",
+    "location": {
+      "lat": 55.8486771,
+      "lng": -4.1532189
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair"
+  },
+  {
+    "name": "Rainbow Room International",
+    "address": "30 George Square, Glasgow G2 1EG, United Kingdom",
+    "rating": 4.5,
+    "user_ratings_total": 116,
+    "place_id": "ChIJf8PukJ9GiEgRkuoM0I-A2zg",
+    "location": {
+      "lat": 55.8615204,
+      "lng": -4.251698
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair"
+  },
+  {
+    "name": "Mary Hair and Beauty",
+    "address": "37 Byres Rd, Glasgow G11 5RG, United Kingdom",
+    "rating": 3.8,
+    "user_ratings_total": 95,
+    "place_id": "ChIJayODQ3NFiEgR5BsC8coWx4c",
+    "location": {
+      "lat": 55.8711964,
+      "lng": -4.2987195
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair"
+  }
+]

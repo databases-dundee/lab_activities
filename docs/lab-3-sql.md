@@ -25,7 +25,6 @@ and languages spoken.
 4. Now run the script by clicking the lightning flash icon on the toolbar to populate your
 database (it might take a bit of time - there are a **lot** of cities in the world!)
 
-
 ## Let's look at the SQL!
 There are a few features to note:
 - The SQL is a simple (but quite big) text file

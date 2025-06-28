@@ -1,0 +1,1536 @@
+[
+  {
+    "name": "The Barrelman",
+    "address": "100-108 Commercial St, Dundee DD1 2AJ, United Kingdom",
+    "rating": 4.4,
+    "user_ratings_total": 444,
+    "place_id": "ChIJUdpIXOpchkgRyQX7yOY3Jpo",
+    "location": {
+      "lat": 56.4621588,
+      "lng": -2.9701145
+    },
+    "business_status": "OPERATIONAL",
+    "type": "pubs"
+  },
+  {
+    "name": "O'Marleys - Irish Pub",
+    "address": "8 Roseangle, Dundee DD1 4LR, United Kingdom",
+    "rating": 4.1,
+    "user_ratings_total": 50,
+    "place_id": "ChIJ-ReeetddhkgRmh4rK1YTLKY",
+    "location": {
+      "lat": 56.455955,
+      "lng": -2.9819845
+    },
+    "business_status": "OPERATIONAL",
+    "type": "pubs"
+  },
+  {
+    "name": "Old Bank Bar",
+    "address": "34 Reform St, Dundee DD1 1RH, United Kingdom",
+    "rating": 4.2,
+    "user_ratings_total": 1300,
+    "place_id": "ChIJf-Ilj-pchkgR22wxgNLReSM",
+    "location": {
+      "lat": 56.4612944,
+      "lng": -2.9713201
+    },
+    "business_status": "OPERATIONAL",
+    "type": "pubs"
+  },
+  {
+    "name": "Trades House",
+    "address": "40 Nethergate, Dundee DD1 4ET, United Kingdom",
+    "rating": 4.3,
+    "user_ratings_total": 1886,
+    "place_id": "ChIJacTkrupchkgR2_yDUe7g3cc",
+    "location": {
+      "lat": 56.4594181,
+      "lng": -2.9713426
+    },
+    "business_status": "OPERATIONAL",
+    "type": "pubs"
+  },
+  {
+    "name": "Nether Inn",
+    "address": "134 Nethergate, Dundee DD1 4ED, United Kingdom",
+    "rating": 4.3,
+    "user_ratings_total": 1083,
+    "place_id": "ChIJKeVhkr9chkgRDcwTU-3_vWM",
+    "location": {
+      "lat": 56.45804889999999,
+      "lng": -2.9740236
+    },
+    "business_status": "OPERATIONAL",
+    "type": "pubs"
+  },
+  {
+    "name": "Abandon Ship",
+    "address": "2b Whitehall Cres, Dundee DD1 4AU, United Kingdom",
+    "rating": 4.6,
+    "user_ratings_total": 249,
+    "place_id": "ChIJifx44C5dhkgRd1tK_sqLko4",
+    "location": {
+      "lat": 56.45916279999999,
+      "lng": -2.9688821
+    },
+    "business_status": "OPERATIONAL",
+    "type": "pubs"
+  },
+  {
+    "name": "Duke's Corner",
+    "address": "13 Brown St, Dundee DD1 5EG, United Kingdom",
+    "rating": 4.3,
+    "user_ratings_total": 1088,
+    "place_id": "ChIJgy8ptMBchkgRJdXdjJtpavo",
+    "location": {
+      "lat": 56.46,
+      "lng": -2.9788889
+    },
+    "business_status": "OPERATIONAL",
+    "type": "pubs"
+  },
+  {
+    "name": "Smugglers Bar",
+    "address": "173 Princes St, Dundee DD4 6EJ, United Kingdom",
+    "rating": 4.5,
+    "user_ratings_total": 62,
+    "place_id": "ChIJ729Oa-JdhkgRUEGxhAO5Xok",
+    "location": {
+      "lat": 56.4674912,
+      "lng": -2.9579805
+    },
+    "business_status": "OPERATIONAL",
+    "type": "pubs"
+  },
+  {
+    "name": "Tickety Boo's",
+    "address": "51 Commercial St, Dundee DD1 2AA, United Kingdom",
+    "rating": 4.4,
+    "user_ratings_total": 1270,
+    "place_id": "ChIJI1YtAetchkgRf6Yl5x34kt8",
+    "location": {
+      "lat": 56.4615916,
+      "lng": -2.9681379
+    },
+    "business_status": "OPERATIONAL",
+    "type": "pubs"
+  },
+  {
+    "name": "The Glass Bucket",
+    "address": "22 St Andrew's St, Dundee DD1 2EX, United Kingdom",
+    "rating": 4.7,
+    "user_ratings_total": 19,
+    "place_id": "ChIJUZSE-x5dhkgRYhX1XrnGbUw",
+    "location": {
+      "lat": 56.4636854,
+      "lng": -2.9669394
+    },
+    "business_status": "OPERATIONAL",
+    "type": "pubs"
+  },
+  {
+    "name": "The Park bar",
+    "address": "Old Muirton Rd, Dundee DD2 3TY, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 8,
+    "place_id": "ChIJi42zu5JDhkgR1YyWxudFDXc",
+    "location": {
+      "lat": 56.4697719,
+      "lng": -3.0061877
+    },
+    "business_status": "OPERATIONAL",
+    "type": "pubs"
+  },
+  {
+    "name": "Bird & Bear",
+    "address": "2 Whitehall Cres, Dundee DD1 4AU, United Kingdom",
+    "rating": 4.3,
+    "user_ratings_total": 1117,
+    "place_id": "ChIJDzQX1OpchkgROG-dkokwwC4",
+    "location": {
+      "lat": 56.4592973,
+      "lng": -2.9687447
+    },
+    "business_status": "OPERATIONAL",
+    "type": "pubs"
+  },
+  {
+    "name": "The Pillars Bar & Lounge",
+    "address": "7G Crichton St, Dundee DD1 3AR, United Kingdom",
+    "rating": 4.3,
+    "user_ratings_total": 162,
+    "place_id": "ChIJy50-x-pchkgRm0Vwk4FkWo4",
+    "location": {
+      "lat": 56.459915,
+      "lng": -2.9701965
+    },
+    "business_status": "OPERATIONAL",
+    "type": "pubs"
+  },
+  {
+    "name": "Molly Malones",
+    "address": "53-57 West Port, Dundee DD1 5ER, United Kingdom",
+    "rating": 4.1,
+    "user_ratings_total": 643,
+    "place_id": "ChIJXd90TcdchkgRC4-hzw_0jeo",
+    "location": {
+      "lat": 56.45957560000001,
+      "lng": -2.9796976
+    },
+    "business_status": "OPERATIONAL",
+    "type": "pubs"
+  },
+  {
+    "name": "The Phoenix",
+    "address": "103 Nethergate, Dundee DD1 4DH, United Kingdom",
+    "rating": 4.5,
+    "user_ratings_total": 1103,
+    "place_id": "ChIJ2_SbkL9chkgRfT7Mob1jOhc",
+    "location": {
+      "lat": 56.4579227,
+      "lng": -2.9747357
+    },
+    "business_status": "OPERATIONAL",
+    "type": "pubs"
+  },
+  {
+    "name": "Balmore Bar",
+    "address": "47 Dura St, Dundee DD4 6SW, United Kingdom",
+    "rating": 4.2,
+    "user_ratings_total": 119,
+    "place_id": "ChIJC9bvTOVchkgRYrnlnW815pI",
+    "location": {
+      "lat": 56.47148379999999,
+      "lng": -2.9584133
+    },
+    "business_status": "OPERATIONAL",
+    "type": "pubs"
+  },
+  {
+    "name": "Ladywell Tavern",
+    "address": "16 Victoria Rd, Dundee DD1 1JN, United Kingdom",
+    "rating": 4.4,
+    "user_ratings_total": 133,
+    "place_id": "ChIJKc-YHepchkgRLbQj20ce3FU",
+    "location": {
+      "lat": 56.464693,
+      "lng": -2.9711876
+    },
+    "business_status": "OPERATIONAL",
+    "type": "pubs"
+  },
+  {
+    "name": "Ferraris",
+    "address": "1 Ogilvie St, Dundee DD4 6SB, United Kingdom",
+    "rating": 4.1,
+    "user_ratings_total": 106,
+    "place_id": "ChIJPzcid-VchkgRrbVQXxL39bM",
+    "location": {
+      "lat": 56.4704627,
+      "lng": -2.961716
+    },
+    "business_status": "OPERATIONAL",
+    "type": "pubs"
+  },
+  {
+    "name": "The Speedwell Bar",
+    "address": "165-167 Perth Rd, Dundee DD2 1AS, United Kingdom",
+    "rating": 4.7,
+    "user_ratings_total": 433,
+    "place_id": "ChIJfxGWerZchkgRogqKl_RNCvQ",
+    "location": {
+      "lat": 56.4562239,
+      "lng": -2.9930612
+    },
+    "business_status": "OPERATIONAL",
+    "type": "pubs"
+  },
+  {
+    "name": "The Anchor Bar",
+    "address": "48 Gray St, Broughty Ferry, Dundee DD5 2BJ, United Kingdom",
+    "rating": 4.5,
+    "user_ratings_total": 808,
+    "place_id": "ChIJ7Xi3eZlehkgRfhUtOjZqcaE",
+    "location": {
+      "lat": 56.4661997,
+      "lng": -2.8733755
+    },
+    "business_status": "OPERATIONAL",
+    "type": "pubs"
+  },
+  {
+    "name": "The Barrels",
+    "address": "45 Strathmartine Rd, Dundee DD3 7RW, United Kingdom",
+    "rating": 4.2,
+    "user_ratings_total": 444,
+    "place_id": "ChIJS57AA91chkgRccgMxJvrDJs",
+    "location": {
+      "lat": 56.4724865,
+      "lng": -2.9772714
+    },
+    "business_status": "OPERATIONAL",
+    "type": "pubs"
+  },
+  {
+    "name": "The Troll Inn",
+    "address": "17 Arklay St, Dundee DD3 7NJ, United Kingdom",
+    "rating": 4.1,
+    "user_ratings_total": 79,
+    "place_id": "ChIJSRu7HuRchkgRlR86Nu-IoaM",
+    "location": {
+      "lat": 56.4748368,
+      "lng": -2.9659515
+    },
+    "business_status": "OPERATIONAL",
+    "type": "pubs"
+  },
+  {
+    "name": "The Bank Bar Dundee",
+    "address": "7/9 Union St, Dundee DD1 4BN, United Kingdom",
+    "rating": 4.3,
+    "user_ratings_total": 748,
+    "place_id": "ChIJ72ZHrOpchkgRxwog7Afnwxk",
+    "location": {
+      "lat": 56.4591569,
+      "lng": -2.9714931
+    },
+    "business_status": "OPERATIONAL",
+    "type": "pubs"
+  },
+  {
+    "name": "Market Bar",
+    "address": "9 Seagate, Dundee DD1 2EG, United Kingdom",
+    "rating": 4,
+    "user_ratings_total": 1151,
+    "place_id": "ChIJY5gMCOtchkgR_SZi0IYY7sg",
+    "location": {
+      "lat": 56.4618601,
+      "lng": -2.9676276
+    },
+    "business_status": "OPERATIONAL",
+    "type": "pubs"
+  },
+  {
+    "name": "Bertie Mooney's",
+    "address": "85 Commercial St, Dundee DD1 2AB, United Kingdom",
+    "rating": 4.2,
+    "user_ratings_total": 321,
+    "place_id": "ChIJlTNN0hJdhkgRC542s5HcmwU",
+    "location": {
+      "lat": 56.4620984,
+      "lng": -2.9695045
+    },
+    "business_status": "OPERATIONAL",
+    "type": "pubs"
+  },
+  {
+    "name": "The Tinsmith",
+    "address": "11-13 Old Hawkhill, Dundee DD1 5EU, United Kingdom",
+    "rating": 4.3,
+    "user_ratings_total": 570,
+    "place_id": "ChIJi242TsdchkgRxMqg_kzt2hM",
+    "location": {
+      "lat": 56.4594581,
+      "lng": -2.9801912
+    },
+    "business_status": "OPERATIONAL",
+    "type": "pubs"
+  },
+  {
+    "name": "Draffens",
+    "address": "Couttie's Wynd, Dundee DD1 4ET, United Kingdom",
+    "rating": 4.6,
+    "user_ratings_total": 468,
+    "place_id": "ChIJi8UqsOpchkgR--ZW5iRFC9s",
+    "location": {
+      "lat": 56.45944300000001,
+      "lng": -2.9711987
+    },
+    "business_status": "OPERATIONAL",
+    "type": "pubs"
+  },
+  {
+    "name": "The George Orwell",
+    "address": "168 Perth Rd, Dundee DD1 4JS, United Kingdom",
+    "rating": 4.5,
+    "user_ratings_total": 373,
+    "place_id": "ChIJkf5ULrhchkgRuHfOvDaoBVI",
+    "location": {
+      "lat": 56.4561376,
+      "lng": -2.9860388
+    },
+    "business_status": "OPERATIONAL",
+    "type": "pubs"
+  },
+  {
+    "name": "The Counting House - JD Wetherspoon",
+    "address": "67 Reform St, Dundee DD1 1SP, United Kingdom",
+    "rating": 3.9,
+    "user_ratings_total": 3083,
+    "place_id": "ChIJTyLoe-pchkgRnc6XDvt5d4I",
+    "location": {
+      "lat": 56.4620238,
+      "lng": -2.9717672
+    },
+    "business_status": "OPERATIONAL",
+    "type": "pubs"
+  },
+  {
+    "name": "The Boars Rock",
+    "address": "166 Arbroath Rd, Dundee DD4 7PY, United Kingdom",
+    "rating": 4.4,
+    "user_ratings_total": 365,
+    "place_id": "ChIJyxLFs09chkgRp0IlPDEyUeM",
+    "location": {
+      "lat": 56.4735883,
+      "lng": -2.9268933
+    },
+    "business_status": "OPERATIONAL",
+    "type": "pubs"
+  },
+  {
+    "name": "The Braes",
+    "address": "14/18 Perth Rd, Dundee DD1 4LN, United Kingdom",
+    "rating": 4.2,
+    "user_ratings_total": 1298,
+    "place_id": "ChIJ4asEMr9chkgR0-wO9dTP2-c",
+    "location": {
+      "lat": 56.45659569999999,
+      "lng": -2.9787849
+    },
+    "business_status": "OPERATIONAL",
+    "type": "pubs"
+  },
+  {
+    "name": "Caw's Bar",
+    "address": "25 Panmure St, Dundee DD1 2BE, United Kingdom",
+    "rating": 4.1,
+    "user_ratings_total": 111,
+    "place_id": "ChIJjwGhNepchkgREpYSTB29buI",
+    "location": {
+      "lat": 56.4632531,
+      "lng": -2.9690577
+    },
+    "business_status": "OPERATIONAL",
+    "type": "pubs"
+  },
+  {
+    "name": "The Clep Bar",
+    "address": "96-98 Clepington Rd, Dundee DD3 7SW, United Kingdom",
+    "rating": 4.4,
+    "user_ratings_total": 110,
+    "place_id": "ChIJcxE9FeFchkgR52R9_jyBq6Q",
+    "location": {
+      "lat": 56.4773401,
+      "lng": -2.9686976
+    },
+    "business_status": "OPERATIONAL",
+    "type": "pubs"
+  },
+  {
+    "name": "Fisherman's Tavern",
+    "address": "10-16 Fort St, Broughty Ferry, Dundee DD5 2AD, United Kingdom",
+    "rating": 4.5,
+    "user_ratings_total": 771,
+    "place_id": "ChIJew6foptehkgR6lCxCezmbqA",
+    "location": {
+      "lat": 56.4653271,
+      "lng": -2.8768878
+    },
+    "business_status": "OPERATIONAL",
+    "type": "pubs"
+  },
+  {
+    "name": "BrewDog Dundee",
+    "address": "Ground Floor, Chamber Building, Panmure St, Dundee DD1 1ED, United Kingdom",
+    "rating": 4.5,
+    "user_ratings_total": 918,
+    "place_id": "ChIJfcZHFepchkgRsdmaMN4lr_k",
+    "location": {
+      "lat": 56.4631795,
+      "lng": -2.9708167
+    },
+    "business_status": "OPERATIONAL",
+    "type": "pubs"
+  },
+  {
+    "name": "The Queen Anne Bar",
+    "address": "38 City Rd, Dundee DD2 2BJ, United Kingdom",
+    "rating": 4.2,
+    "user_ratings_total": 81,
+    "place_id": "ChIJsRqEkctchkgRDj2DpWrnfyQ",
+    "location": {
+      "lat": 56.4630573,
+      "lng": -2.997092
+    },
+    "business_status": "OPERATIONAL",
+    "type": "pubs"
+  },
+  {
+    "name": "Whites Bar",
+    "address": "62 Provost Rd, Dundee DD3 8AH, United Kingdom",
+    "rating": 4,
+    "user_ratings_total": 148,
+    "place_id": "ChIJB8D0ON5chkgRWh15-frVHzY",
+    "location": {
+      "lat": 56.4775208,
+      "lng": -2.975862
+    },
+    "business_status": "OPERATIONAL",
+    "type": "pubs"
+  },
+  {
+    "name": "Craigie Bar",
+    "address": "137 Kingsway E, Dundee DD4 8BX, United Kingdom",
+    "rating": 4.4,
+    "user_ratings_total": 67,
+    "place_id": "ChIJ0a8PplVchkgR2zpPvBQP3Qo",
+    "location": {
+      "lat": 56.4790539,
+      "lng": -2.9425156
+    },
+    "business_status": "OPERATIONAL",
+    "type": "pubs"
+  },
+  {
+    "name": "Post Office Bar",
+    "address": "218 Queen St, Broughty Ferry, Dundee DD5 2HG, United Kingdom",
+    "rating": 4.2,
+    "user_ratings_total": 629,
+    "place_id": "ChIJaUBMk5tehkgRHJzV25bAY18",
+    "location": {
+      "lat": 56.468224,
+      "lng": -2.8758476
+    },
+    "business_status": "OPERATIONAL",
+    "type": "pubs"
+  },
+  {
+    "name": "Kingsway Farm - Dining & Carvery",
+    "address": "50-52 King's Cross Rd, Dundee DD2 3UQ, United Kingdom",
+    "rating": 4.1,
+    "user_ratings_total": 3958,
+    "place_id": "ChIJhYlXbNVchkgRRgGmWd3TfIs",
+    "location": {
+      "lat": 56.4796597,
+      "lng": -3.0021445
+    },
+    "business_status": "OPERATIONAL",
+    "type": "pubs"
+  },
+  {
+    "name": "Frews Bar",
+    "address": "Strathmartine Rd, Dundee DD3 7SE, United Kingdom",
+    "rating": 4.4,
+    "user_ratings_total": 253,
+    "place_id": "ChIJqVjcGtxchkgREkWb_KVUZKI",
+    "location": {
+      "lat": 56.4749984,
+      "lng": -2.980162
+    },
+    "business_status": "OPERATIONAL",
+    "type": "pubs"
+  },
+  {
+    "name": "KANDY BAR & NIGHTCLUB",
+    "address": "73-75 Seagate, Dundee DD1 2EH, United Kingdom",
+    "rating": 4.4,
+    "user_ratings_total": 220,
+    "place_id": "ChIJKTo7pOtchkgRsa7n-lm_llg",
+    "location": {
+      "lat": 56.4621891,
+      "lng": -2.9674579
+    },
+    "business_status": "OPERATIONAL",
+    "type": "pubs"
+  },
+  {
+    "name": "Nine Maidens",
+    "address": "Laird St, Dundee DD3 9QU, United Kingdom",
+    "rating": 4,
+    "user_ratings_total": 350,
+    "place_id": "ChIJywvaXcxChkgRN02h_6QCTbA",
+    "location": {
+      "lat": 56.4959791,
+      "lng": -3.0103563
+    },
+    "business_status": "OPERATIONAL",
+    "type": "pubs"
+  },
+  {
+    "name": "Airlie Arms",
+    "address": "10 Dundonald St, Dundee DD3 7PY, United Kingdom",
+    "rating": 4.3,
+    "user_ratings_total": 27,
+    "place_id": "ChIJ74QYOBFdhkgR4rnfmiHm9gM",
+    "location": {
+      "lat": 56.4720578,
+      "lng": -2.9649852
+    },
+    "business_status": "OPERATIONAL",
+    "type": "pubs"
+  },
+  {
+    "name": "Tay Bridge Bar",
+    "address": "129 Perth Rd, Dundee DD1 4JD, United Kingdom",
+    "rating": 4.2,
+    "user_ratings_total": 201,
+    "place_id": "ChIJwWgoWrZchkgRE0U4a4HeYb4",
+    "location": {
+      "lat": 56.4560232,
+      "lng": -2.9912765
+    },
+    "business_status": "OPERATIONAL",
+    "type": "pubs"
+  },
+  {
+    "name": "The Bush Bar",
+    "address": "30 Seagate, Dundee DD1 2EQ, United Kingdom",
+    "rating": 4,
+    "user_ratings_total": 156,
+    "place_id": "ChIJMR_Ho-tchkgRXgJ5uPYavaM",
+    "location": {
+      "lat": 56.4618389,
+      "lng": -2.9679859
+    },
+    "business_status": "OPERATIONAL",
+    "type": "pubs"
+  },
+  {
+    "name": "The Ellenbank Bar",
+    "address": "128 Alexander St, Dundee DD3 7DE, United Kingdom",
+    "rating": 4.3,
+    "user_ratings_total": 82,
+    "place_id": "ChIJI0TCm-hchkgRBm_-q_hJi4M",
+    "location": {
+      "lat": 56.4697879,
+      "lng": -2.9683952
+    },
+    "business_status": "OPERATIONAL",
+    "type": "pubs"
+  },
+  {
+    "name": "Doc Ferry’s Bar",
+    "address": "66 Union St, Broughty Ferry, Dundee DD5 2AU, United Kingdom",
+    "rating": 4.5,
+    "user_ratings_total": 383,
+    "place_id": "ChIJFUTu4JtehkgRD5Zv3nvr0eY",
+    "location": {
+      "lat": 56.466948,
+      "lng": -2.8753009
+    },
+    "business_status": "OPERATIONAL",
+    "type": "pubs"
+  },
+  {
+    "name": "HILL BAR Hilltown Dundee",
+    "address": "271 Hilltown, Dundee DD3 7AP, United Kingdom",
+    "rating": 4,
+    "user_ratings_total": 62,
+    "place_id": "ChIJQ9hoy8JchkgRm81mmJfgwh8",
+    "location": {
+      "lat": 56.4697682,
+      "lng": -2.9752341
+    },
+    "business_status": "OPERATIONAL",
+    "type": "pubs"
+  },
+  {
+    "name": "Bergies",
+    "address": "66 Bell St, Dundee DD1 1HF, United Kingdom",
+    "rating": 4.6,
+    "user_ratings_total": 123,
+    "place_id": "ChIJ1UCOPKBdhkgR7knk4IW4f48",
+    "location": {
+      "lat": 56.4634936,
+      "lng": -2.9725993
+    },
+    "business_status": "OPERATIONAL",
+    "type": "pubs"
+  },
+  {
+    "name": "Bowbridge Bar",
+    "address": "1-5 Mains Rd, Dundee DD£ 7EZ, United Kingdom",
+    "rating": 4,
+    "user_ratings_total": 91,
+    "place_id": "ChIJc9zCO91chkgRF6yGA0L9Xp4",
+    "location": {
+      "lat": 56.4709022,
+      "lng": -2.975774
+    },
+    "business_status": "OPERATIONAL",
+    "type": "pubs"
+  },
+  {
+    "name": "The Strath Bar",
+    "address": "184 Strathmartine Rd, Dundee DD3 8DQ, United Kingdom",
+    "rating": 4.5,
+    "user_ratings_total": 114,
+    "place_id": "ChIJL8VrUdlchkgReHYPGSelK3Y",
+    "location": {
+      "lat": 56.4758681,
+      "lng": -2.9818968
+    },
+    "business_status": "OPERATIONAL",
+    "type": "pubs"
+  },
+  {
+    "name": "Ross's Bar",
+    "address": "Glebelands Schoolhouse, 1 Baffin St, Dundee DD4 6EZ, United Kingdom",
+    "rating": 4.4,
+    "user_ratings_total": 109,
+    "place_id": "ChIJDWhCw_BchkgR_gI2QtoulYs",
+    "location": {
+      "lat": 56.4685461,
+      "lng": -2.9523958
+    },
+    "business_status": "OPERATIONAL",
+    "type": "pubs"
+  },
+  {
+    "name": "Star & Garter",
+    "address": "42 Union St, Dundee DD1 4BE, United Kingdom",
+    "rating": 4.5,
+    "user_ratings_total": 406,
+    "place_id": "ChIJhe8mAR1dhkgRGYytjOYq5Dg",
+    "location": {
+      "lat": 56.4589096,
+      "lng": -2.9705539
+    },
+    "business_status": "OPERATIONAL",
+    "type": "pubs"
+  },
+  {
+    "name": "Halley's Bar",
+    "address": "22 Strathmartine Rd, Dundee DD3 7RJ, United Kingdom",
+    "rating": 4.4,
+    "user_ratings_total": 98,
+    "place_id": "ChIJD49qO91chkgRxMhipPRgyqU",
+    "location": {
+      "lat": 56.4709937,
+      "lng": -2.9760805
+    },
+    "business_status": "OPERATIONAL",
+    "type": "pubs"
+  },
+  {
+    "name": "Arctic Bar",
+    "address": "5 New Inn Entry, Dundee DD1 1SB, United Kingdom",
+    "rating": 3.8,
+    "user_ratings_total": 148,
+    "place_id": "ChIJcQPu7epchkgRiycmJDcPRIk",
+    "location": {
+      "lat": 56.46109449999999,
+      "lng": -2.9700855
+    },
+    "business_status": "OPERATIONAL",
+    "type": "pubs"
+  },
+  {
+    "name": "The Snug Bar",
+    "address": "75 Church St, Dundee DD3 7HP, United Kingdom",
+    "rating": 4.2,
+    "user_ratings_total": 96,
+    "place_id": "ChIJu4V49OdchkgREQ073rkpe4w",
+    "location": {
+      "lat": 56.471252,
+      "lng": -2.9729337
+    },
+    "business_status": "OPERATIONAL",
+    "type": "pubs"
+  },
+  {
+    "name": "Sandy's Bar & Bistro",
+    "address": "16c Liff Rd, Dundee DD2 3DQ, United Kingdom",
+    "rating": 4.3,
+    "user_ratings_total": 94,
+    "place_id": "ChIJGUzmzy5DhkgRkIrtphGdy_4",
+    "location": {
+      "lat": 56.4740058,
+      "lng": -3.0135054
+    },
+    "business_status": "OPERATIONAL",
+    "type": "pubs"
+  },
+  {
+    "name": "Number 57 Pub Company",
+    "address": "57-58 W Victoria Dock Rd, Dundee DD1 3DU, United Kingdom",
+    "rating": 4.4,
+    "user_ratings_total": 249,
+    "place_id": "ChIJ07fHhuxchkgR7JXWcvnnLVY",
+    "location": {
+      "lat": 56.4615049,
+      "lng": -2.9646679
+    },
+    "business_status": "OPERATIONAL",
+    "type": "pubs"
+  },
+  {
+    "name": "Dolphin Bar",
+    "address": "92 Fintry Rd, Dundee DD4 9EZ, United Kingdom",
+    "rating": 4.3,
+    "user_ratings_total": 106,
+    "place_id": "ChIJv8yQaqldhkgROJSAwC0Y2yQ",
+    "location": {
+      "lat": 56.4889775,
+      "lng": -2.9403402
+    },
+    "business_status": "OPERATIONAL",
+    "type": "pubs"
+  },
+  {
+    "name": "art bar",
+    "address": "140 Perth Rd, Dundee DD1 4JW, United Kingdom",
+    "rating": 4.3,
+    "user_ratings_total": 238,
+    "place_id": "ChIJlVdlVrhchkgRWxm906V3MZA",
+    "location": {
+      "lat": 56.456235,
+      "lng": -2.9830322
+    },
+    "business_status": "OPERATIONAL",
+    "type": "bars"
+  },
+  {
+    "name": "The Salty Dog",
+    "address": "9 Crichton St, Dundee DD1 3AP, United Kingdom",
+    "rating": 4.3,
+    "user_ratings_total": 204,
+    "place_id": "ChIJa0wjx-pchkgRNf2YkOCzFJw",
+    "location": {
+      "lat": 56.4598923,
+      "lng": -2.9702313
+    },
+    "business_status": "OPERATIONAL",
+    "type": "bars"
+  },
+  {
+    "name": "Athletic Bar",
+    "address": "93 Strathmartine Rd, Dundee DD3 7SG, United Kingdom",
+    "rating": 4.2,
+    "user_ratings_total": 131,
+    "place_id": "ChIJr60_RdxchkgRiTkzyfW0DxQ",
+    "location": {
+      "lat": 56.4735321,
+      "lng": -2.9785002
+    },
+    "business_status": "OPERATIONAL",
+    "type": "bars"
+  },
+  {
+    "name": "Temple Lane Dundee",
+    "address": "1 Temple Ln, Dundee DD1 4HA, United Kingdom",
+    "rating": 4.4,
+    "user_ratings_total": 55,
+    "place_id": "ChIJeekxrsBchkgR9GWTKc9_muo",
+    "location": {
+      "lat": 56.4593887,
+      "lng": -2.9788721
+    },
+    "business_status": "OPERATIONAL",
+    "type": "bars"
+  },
+  {
+    "name": "Top Dog Sports Bar",
+    "address": "142 W Marketgait, Dundee DD1 1NJ, United Kingdom",
+    "rating": 2.9,
+    "user_ratings_total": 7,
+    "place_id": "ChIJPzCVy1FdhkgRnQr_KPWHV1Y",
+    "location": {
+      "lat": 56.46018220000001,
+      "lng": -2.9779715
+    },
+    "business_status": "OPERATIONAL",
+    "type": "bars"
+  },
+  {
+    "name": "Grouchos",
+    "address": "132 Nethergate, Dundee DD1 4ED, United Kingdom",
+    "rating": 4.5,
+    "user_ratings_total": 20,
+    "place_id": "ChIJe55MT-pdhkgRqLOwuoR9b1E",
+    "location": {
+      "lat": 56.4580595,
+      "lng": -2.9740049
+    },
+    "business_status": "OPERATIONAL",
+    "type": "bars"
+  },
+  {
+    "name": "Club Bar",
+    "address": "47 Union St, Dundee DD1 4BS, United Kingdom",
+    "rating": 4.2,
+    "user_ratings_total": 286,
+    "place_id": "ChIJYUu-S5VchkgR6vJubEIO1fw",
+    "location": {
+      "lat": 56.4586846,
+      "lng": -2.9706204
+    },
+    "business_status": "OPERATIONAL",
+    "type": "bars"
+  },
+  {
+    "name": "Nola Bar",
+    "address": "39 Union St, Dundee DD1 4BS, United Kingdom",
+    "rating": 4.7,
+    "user_ratings_total": 27,
+    "place_id": "ChIJ8QySSRFdhkgRsJmV6qXCTMM",
+    "location": {
+      "lat": 56.4587374,
+      "lng": -2.9707551
+    },
+    "business_status": "OPERATIONAL",
+    "type": "bars"
+  },
+  {
+    "name": "Clarks on Lindsay Street",
+    "address": "80 N Lindsay St, Dundee DD1 1PS, United Kingdom",
+    "rating": 4.4,
+    "user_ratings_total": 435,
+    "place_id": "ChIJJ3_4-sBchkgRKZ-WzRMyaB4",
+    "location": {
+      "lat": 56.4610833,
+      "lng": -2.97658
+    },
+    "business_status": "OPERATIONAL",
+    "type": "bars"
+  },
+  {
+    "name": "The King of Islington",
+    "address": "39 Union St, Dundee DD1 4BS, United Kingdom",
+    "rating": 4.7,
+    "user_ratings_total": 149,
+    "place_id": "ChIJ_5fT7C9dhkgRJFsVo4wgWfU",
+    "location": {
+      "lat": 56.4587374,
+      "lng": -2.9707551
+    },
+    "business_status": "OPERATIONAL",
+    "type": "bars"
+  },
+  {
+    "name": "The Wine Press",
+    "address": "16 Shore Terrace, Dundee DD1 3DN, United Kingdom",
+    "rating": 4.6,
+    "user_ratings_total": 480,
+    "place_id": "ChIJHVFtPOtchkgRD7y-ZMtPucY",
+    "location": {
+      "lat": 56.4600838,
+      "lng": -2.9672517
+    },
+    "business_status": "OPERATIONAL",
+    "type": "bars"
+  },
+  {
+    "name": "Duck Slatterys",
+    "address": "31 S Ward Rd, Dundee DD1 1PU, United Kingdom",
+    "rating": 4.1,
+    "user_ratings_total": 52,
+    "place_id": "ChIJ6Yv_dHBdhkgRKyb2cGWGR0A",
+    "location": {
+      "lat": 56.46060989999999,
+      "lng": -2.9770281
+    },
+    "business_status": "OPERATIONAL",
+    "type": "bars"
+  },
+  {
+    "name": "The Gunners Bar",
+    "address": "The Gunners Bar, King St, Broughty Ferry, Dundee DD5 1EY, United Kingdom",
+    "rating": 4.5,
+    "user_ratings_total": 121,
+    "place_id": "ChIJaSZIs7RfhkgR30QsqIsx3pA",
+    "location": {
+      "lat": 56.4664498,
+      "lng": -2.8789656
+    },
+    "business_status": "OPERATIONAL",
+    "type": "bars"
+  },
+  {
+    "name": "The Town House",
+    "address": "1 King St, Dundee DD1 2JD, United Kingdom",
+    "rating": 4,
+    "user_ratings_total": 122,
+    "place_id": "ChIJNYDT3etchkgR9OZfnse-1gs",
+    "location": {
+      "lat": 56.4642211,
+      "lng": -2.967394
+    },
+    "business_status": "OPERATIONAL",
+    "type": "bars"
+  },
+  {
+    "name": "Windsor Bar",
+    "address": "28 Albert St, Dundee DD4 6NS, United Kingdom",
+    "rating": 4.1,
+    "user_ratings_total": 52,
+    "place_id": "ChIJN9i_JfBchkgRT2m0AvJpH8w",
+    "location": {
+      "lat": 56.4686294,
+      "lng": -2.9579206
+    },
+    "business_status": "OPERATIONAL",
+    "type": "bars"
+  },
+  {
+    "name": "Victoria Bar",
+    "address": "136 Victoria Rd, Dundee DD1 2QW, United Kingdom",
+    "rating": 4.1,
+    "user_ratings_total": 74,
+    "place_id": "ChIJ-22w4e5chkgR8LkrrqyephY",
+    "location": {
+      "lat": 56.4673634,
+      "lng": -2.9634932
+    },
+    "business_status": "OPERATIONAL",
+    "type": "bars"
+  },
+  {
+    "name": "Balcony Bar",
+    "address": "Ward Rd, Dundee DD1, UK, United Kingdom",
+    "rating": 2.7,
+    "user_ratings_total": 94,
+    "place_id": "ChIJg4_j6pBdhkgR1ZoiqJfwFVg",
+    "location": {
+      "lat": 56.4618809,
+      "lng": -2.9748192
+    },
+    "business_status": "OPERATIONAL",
+    "type": "bars"
+  },
+  {
+    "name": "Balgay Hill Bar",
+    "address": "1 Rosefield St, Dundee DD1 5PW, United Kingdom",
+    "rating": 4.2,
+    "user_ratings_total": 73,
+    "place_id": "ChIJq3gChslchkgRswsZfszlH8I",
+    "location": {
+      "lat": 56.4604192,
+      "lng": -2.9940081
+    },
+    "business_status": "OPERATIONAL",
+    "type": "bars"
+  },
+  {
+    "name": "The Eagle Coaching Inn",
+    "address": "155-159 King St, Broughty Ferry, Dundee DD5 2AX, United Kingdom",
+    "rating": 4.2,
+    "user_ratings_total": 226,
+    "place_id": "ChIJPYaKQplehkgRqkF8fYNLjkg",
+    "location": {
+      "lat": 56.4661066,
+      "lng": -2.8765341
+    },
+    "business_status": "OPERATIONAL",
+    "type": "bars"
+  },
+  {
+    "name": "AURA Nightclub",
+    "address": "31 S Ward Rd, Dundee DD1 1PU, United Kingdom",
+    "rating": 3.2,
+    "user_ratings_total": 63,
+    "place_id": "ChIJV5O_KHJdhkgRDyGdsvoTbL0",
+    "location": {
+      "lat": 56.4606606,
+      "lng": -2.9772542
+    },
+    "business_status": "OPERATIONAL",
+    "type": "clubs"
+  },
+  {
+    "name": "Club Tropicana & Venga",
+    "address": "31 S Ward Rd, Dundee DD1 1PU, United Kingdom",
+    "rating": 3.3,
+    "user_ratings_total": 66,
+    "place_id": "ChIJe-YE98BchkgRtmimNsb6F3E",
+    "location": {
+      "lat": 56.460845,
+      "lng": -2.9769309
+    },
+    "business_status": "OPERATIONAL",
+    "type": "clubs"
+  },
+  {
+    "name": "Rewind dundee",
+    "address": "7 Seagate, Dundee DD1 2EG, United Kingdom",
+    "rating": 3.7,
+    "user_ratings_total": 221,
+    "place_id": "ChIJV7GICutchkgRXSv7gaB4xGk",
+    "location": {
+      "lat": 56.46174749999999,
+      "lng": -2.967734
+    },
+    "business_status": "OPERATIONAL",
+    "type": "clubs"
+  },
+  {
+    "name": "Reading Rooms Dundee",
+    "address": "57 Blackscroft, Dundee DD4 6AT, United Kingdom",
+    "rating": 4.4,
+    "user_ratings_total": 52,
+    "place_id": "ChIJL8oofu5chkgRovN-W3E-eFQ",
+    "location": {
+      "lat": 56.4649904,
+      "lng": -2.961735
+    },
+    "business_status": "OPERATIONAL",
+    "type": "clubs"
+  },
+  {
+    "name": "Fat Sams",
+    "address": "31 S Ward Rd, Dundee DD1 1PU, United Kingdom",
+    "rating": 3.8,
+    "user_ratings_total": 34,
+    "place_id": "ChIJKWXM88BchkgR8KXFRBQnr7k",
+    "location": {
+      "lat": 56.4606846,
+      "lng": -2.9769384
+    },
+    "business_status": "OPERATIONAL",
+    "type": "clubs"
+  },
+  {
+    "name": "Club 83",
+    "address": "5-7 St Salvador St, Dundee DD3 7EW, United Kingdom",
+    "rating": 4.5,
+    "user_ratings_total": 98,
+    "place_id": "ChIJj69x3-dchkgRLCc4cM4w7JQ",
+    "location": {
+      "lat": 56.4700734,
+      "lng": -2.9712646
+    },
+    "business_status": "OPERATIONAL",
+    "type": "clubs"
+  },
+  {
+    "name": "Firewater",
+    "address": "1-5 Seagate, Dundee DD1 2EG, United Kingdom",
+    "rating": 3.2,
+    "user_ratings_total": 24,
+    "place_id": "ChIJqY9mbwBdhkgRvfaU9jWv6CM",
+    "location": {
+      "lat": 56.4615358,
+      "lng": -2.9678512
+    },
+    "business_status": "OPERATIONAL",
+    "type": "clubs"
+  },
+  {
+    "name": "Afro Beats",
+    "address": "lower floor, 3 Session St, Dundee DD1 5DN, United Kingdom",
+    "rating": 3.9,
+    "user_ratings_total": 25,
+    "place_id": "ChIJp95SU2VdhkgRZ2HMlN6Kau8",
+    "location": {
+      "lat": 56.4604556,
+      "lng": -2.9801999
+    },
+    "business_status": "OPERATIONAL",
+    "type": "clubs"
+  },
+  {
+    "name": "Private Eyes",
+    "address": "1a Rattray St, Dundee DD1 1NA, United Kingdom",
+    "rating": 3.3,
+    "user_ratings_total": 18,
+    "place_id": "ChIJdaabrMFchkgRpr-p_TcwF6o",
+    "location": {
+      "lat": 56.461813,
+      "lng": -2.9754465
+    },
+    "business_status": "OPERATIONAL",
+    "type": "clubs"
+  },
+  {
+    "name": "Fairmuir Social Club",
+    "address": "17 Balgray St, Dundee DD3 8HL, United Kingdom",
+    "rating": 4.5,
+    "user_ratings_total": 259,
+    "place_id": "ChIJnYqrK95chkgRHKwQxBS5etg",
+    "location": {
+      "lat": 56.4783164,
+      "lng": -2.9748487
+    },
+    "business_status": "OPERATIONAL",
+    "type": "clubs"
+  },
+  {
+    "name": "OUT Nightclub",
+    "address": "124 Seagate, Dundee DD1 2HB, United Kingdom",
+    "rating": 3,
+    "user_ratings_total": 1,
+    "place_id": "ChIJpbjG8etchkgRjMkOunCVBiM",
+    "location": {
+      "lat": 56.4634417,
+      "lng": -2.9663334
+    },
+    "business_status": "OPERATIONAL",
+    "type": "clubs"
+  },
+  {
+    "name": "Dundee Social Club",
+    "address": "1 Thistle St, Dundee DD3 7RF, United Kingdom",
+    "rating": 4.3,
+    "user_ratings_total": 118,
+    "place_id": "ChIJq4vHa91chkgR5w9QVyK1QTQ",
+    "location": {
+      "lat": 56.4717538,
+      "lng": -2.9749301
+    },
+    "business_status": "OPERATIONAL",
+    "type": "clubs"
+  },
+  {
+    "name": "Dee Club",
+    "address": "18-24 Taylor St, Dundee DD2 3DU, United Kingdom",
+    "rating": 4.3,
+    "user_ratings_total": 110,
+    "place_id": "ChIJszzQLi9DhkgRNSVszxoSI2Q",
+    "location": {
+      "lat": 56.4737277,
+      "lng": -3.0151158
+    },
+    "business_status": "OPERATIONAL",
+    "type": "clubs"
+  },
+  {
+    "name": "Cosmopolitan Club",
+    "address": "7 Ward Rd, Dundee DD1 1LP, United Kingdom",
+    "rating": 4.4,
+    "user_ratings_total": 22,
+    "place_id": "ChIJAwigtsFchkgRPLc7LdZZFEw",
+    "location": {
+      "lat": 56.46194449999999,
+      "lng": -2.9745116
+    },
+    "business_status": "OPERATIONAL",
+    "type": "clubs"
+  },
+  {
+    "name": "Black Watch Club",
+    "address": "20 Arthurstone Terrace, Dundee DD4 6RS, United Kingdom",
+    "rating": 4.1,
+    "user_ratings_total": 66,
+    "place_id": "ChIJP8Zc4O9chkgRh9jSTDXENts",
+    "location": {
+      "lat": 56.4691002,
+      "lng": -2.9594571
+    },
+    "business_status": "OPERATIONAL",
+    "type": "clubs"
+  },
+  {
+    "name": "St David Social Club",
+    "address": "86 Nethergate, Dundee DD1 4EL, United Kingdom",
+    "rating": 4.5,
+    "user_ratings_total": 36,
+    "place_id": "ChIJ0-Na_79chkgRsUaB-Z9iDxE",
+    "location": {
+      "lat": 56.4587361,
+      "lng": -2.9722404
+    },
+    "business_status": "OPERATIONAL",
+    "type": "clubs"
+  },
+  {
+    "name": "Bacchus",
+    "address": "11 Princes St, Dundee DD4 6BY, United Kingdom",
+    "rating": 4.7,
+    "user_ratings_total": 7,
+    "place_id": "ChIJzW_O8Z9dhkgRqJlLZ3jrsZI",
+    "location": {
+      "lat": 56.4658846,
+      "lng": -2.9622371
+    },
+    "business_status": "OPERATIONAL",
+    "type": "clubs"
+  },
+  {
+    "name": "The Taxi Club",
+    "address": "80 Rosebank St, Dundee DD3 6PG, United Kingdom",
+    "rating": 4.3,
+    "user_ratings_total": 144,
+    "place_id": "ChIJe8He28JchkgR6jY9e1efvlE",
+    "location": {
+      "lat": 56.469068,
+      "lng": -2.9764679
+    },
+    "business_status": "OPERATIONAL",
+    "type": "clubs"
+  },
+  {
+    "name": "Church Dundee",
+    "address": "15 Ward Rd, Lower, Dundee DD1 1ND, United Kingdom",
+    "rating": 4.3,
+    "user_ratings_total": 353,
+    "place_id": "ChIJbfIcq8FchkgRid4qruZPdc0",
+    "location": {
+      "lat": 56.4617273,
+      "lng": -2.9758415
+    },
+    "business_status": "OPERATIONAL",
+    "type": "clubs"
+  },
+  {
+    "name": "Howff Secret Supper Club",
+    "address": "5b Bank St, Dundee DD1 1RL, United Kingdom",
+    "rating": 4.4,
+    "user_ratings_total": 28,
+    "place_id": "ChIJ6SdENcFdhkgR_EHQ-tkTLCo",
+    "location": {
+      "lat": 56.4613725,
+      "lng": -2.9718048
+    },
+    "business_status": "OPERATIONAL",
+    "type": "clubs"
+  },
+  {
+    "name": "Shotz Dundee Pool and Snooker Club",
+    "address": "1 Douglas St, Dundee DD1 5AJ, United Kingdom",
+    "rating": 4.2,
+    "user_ratings_total": 133,
+    "place_id": "ChIJv9OSIBNdhkgRhhvgE_Feu6I",
+    "location": {
+      "lat": 56.4632744,
+      "lng": -2.9802541
+    },
+    "business_status": "OPERATIONAL",
+    "type": "clubs"
+  },
+  {
+    "name": "The Old Mill Snooker Club",
+    "address": "21 Brown St, Dundee DD1 5EF, United Kingdom",
+    "rating": 4.2,
+    "user_ratings_total": 90,
+    "place_id": "ChIJ86GNLcFchkgRu_Ki2cDSGDM",
+    "location": {
+      "lat": 56.4614349,
+      "lng": -2.979182
+    },
+    "business_status": "OPERATIONAL",
+    "type": "clubs"
+  },
+  {
+    "name": "Logie Recreation Club",
+    "address": "Marybank Lane, Dundee DD2 3DY, United Kingdom",
+    "rating": 4.6,
+    "user_ratings_total": 227,
+    "place_id": "ChIJyV7_Ni9DhkgRiejdUSBNOXw",
+    "location": {
+      "lat": 56.4746276,
+      "lng": -3.0168086
+    },
+    "business_status": "OPERATIONAL",
+    "type": "clubs"
+  },
+  {
+    "name": "Dundee Burns Club",
+    "address": "37 Union St, Dundee DD1 4BS, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 2,
+    "place_id": "ChIJTcR5sp5dhkgRYOXs3_B9amY",
+    "location": {
+      "lat": 56.4588002,
+      "lng": -2.9708612
+    },
+    "business_status": "OPERATIONAL",
+    "type": "clubs"
+  },
+  {
+    "name": "Captain's Cabin",
+    "address": "80 N Lindsay St, Dundee DD1 1PS, United Kingdom",
+    "rating": 4.5,
+    "user_ratings_total": 156,
+    "place_id": "ChIJDzhAN8xdhkgR3TvOqmT44jQ",
+    "location": {
+      "lat": 56.4610833,
+      "lng": -2.97658
+    },
+    "business_status": "OPERATIONAL",
+    "type": "clubs"
+  },
+  {
+    "name": "Tivoli Snooker & Leisure Club",
+    "address": "20 Bonnybank Rd, Dundee DD1 2PJ, United Kingdom",
+    "rating": 4.7,
+    "user_ratings_total": 105,
+    "place_id": "ChIJV5yUBulchkgRma7yBorXWrg",
+    "location": {
+      "lat": 56.4674987,
+      "lng": -2.9696604
+    },
+    "business_status": "OPERATIONAL",
+    "type": "clubs"
+  },
+  {
+    "name": "Tenpin Dundee",
+    "address": "Kingsway West Retail Park, Clepington Rd, Dundee DD3 8RX, United Kingdom",
+    "rating": 4.2,
+    "user_ratings_total": 459,
+    "place_id": "ChIJwfDA7VVdhkgRdleCOZCpSwM",
+    "location": {
+      "lat": 56.4819752,
+      "lng": -2.9986695
+    },
+    "business_status": "OPERATIONAL",
+    "type": "clubs"
+  },
+  {
+    "name": "Dundee University Students' Association",
+    "address": "Airlie Pl, Dundee DD1 4HP, United Kingdom",
+    "rating": 4.3,
+    "user_ratings_total": 543,
+    "place_id": "ChIJf4Y-7LhchkgR28MGXdRcvEI",
+    "location": {
+      "lat": 56.4578132,
+      "lng": -2.9822136
+    },
+    "business_status": "OPERATIONAL",
+    "type": "clubs"
+  },
+  {
+    "name": "Decades Bar & Nightclub",
+    "address": "39 Union St, Dundee DD1 4BS, United Kingdom",
+    "rating": 0,
+    "user_ratings_total": 0,
+    "place_id": "ChIJ1QtmS5VchkgRqYWBwLuZfi4",
+    "location": {
+      "lat": 56.4587662,
+      "lng": -2.9707574
+    },
+    "business_status": "OPERATIONAL",
+    "type": "clubs"
+  },
+  {
+    "name": "Beat Generator",
+    "address": "70 N Lindsay St, Dundee DD1 1PS, United Kingdom",
+    "rating": 4.4,
+    "user_ratings_total": 174,
+    "place_id": "ChIJddSJ98BchkgR9JEcIflmoME",
+    "location": {
+      "lat": 56.4608333,
+      "lng": -2.9761111
+    },
+    "business_status": "OPERATIONAL",
+    "type": "clubs"
+  },
+  {
+    "name": "Dundemo",
+    "address": "15 Ward Rd, Lower, Dundee DD1 1ND, United Kingdom",
+    "rating": 0,
+    "user_ratings_total": 0,
+    "place_id": "ChIJ__9PqsFchkgRPi8rS2Uay9w",
+    "location": {
+      "lat": 56.4618212,
+      "lng": -2.9759302
+    },
+    "business_status": "OPERATIONAL",
+    "type": "clubs"
+  },
+  {
+    "name": "DISC: Dundee International Sports Centre",
+    "address": "Mains Loan, Dundee DD4 7AA, United Kingdom",
+    "rating": 4.3,
+    "user_ratings_total": 327,
+    "place_id": "ChIJRYIZaf1chkgRrPU3ONA_6XQ",
+    "location": {
+      "lat": 56.476267,
+      "lng": -2.958927
+    },
+    "business_status": "OPERATIONAL",
+    "type": "clubs"
+  },
+  {
+    "name": "The Ferry club",
+    "address": "217 Brook St, Broughty Ferry, Dundee DD5 2AG, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 9,
+    "place_id": "ChIJa9d83JtehkgRLF2DWTLkQek",
+    "location": {
+      "lat": 56.4673211,
+      "lng": -2.8749794
+    },
+    "business_status": "OPERATIONAL",
+    "type": "clubs"
+  },
+  {
+    "name": "The Dundee Bridge Club Ltd",
+    "address": "297 Perth Rd, Dundee DD2 1JS, United Kingdom",
+    "rating": 4.7,
+    "user_ratings_total": 6,
+    "place_id": "ChIJsxLJuEpDhkgR50BP3VLV6jk",
+    "location": {
+      "lat": 56.4566519,
+      "lng": -3.0039589
+    },
+    "business_status": "OPERATIONAL",
+    "type": "clubs"
+  },
+  {
+    "name": "Downfield Musical Society",
+    "address": "27-29 Guthrie St, Dundee DD1 5BR, United Kingdom",
+    "rating": 4.7,
+    "user_ratings_total": 17,
+    "place_id": "ChIJ-x4Yr8dchkgRRXLMtomM5JE",
+    "location": {
+      "lat": 56.4608344,
+      "lng": -2.9839527
+    },
+    "business_status": "OPERATIONAL",
+    "type": "clubs"
+  },
+  {
+    "name": "Going Back To Our Roots",
+    "address": "13 St Ninian Terrace, Dundee DD3 9LU, United Kingdom",
+    "rating": 3.5,
+    "user_ratings_total": 2,
+    "place_id": "ChIJ6aoNSc5ChkgRc9ipLaS54aU",
+    "location": {
+      "lat": 56.4930415,
+      "lng": -3.0160657
+    },
+    "business_status": "OPERATIONAL",
+    "type": "clubs"
+  },
+  {
+    "name": "Forthill Community Sports Club",
+    "address": "Fintry Pl, Broughty Ferry, Dundee DD5 3BL, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 13,
+    "place_id": "ChIJY--zmSpfhkgRcpT3p9zkfD4",
+    "location": {
+      "lat": 56.4755124,
+      "lng": -2.8716386
+    },
+    "business_status": "OPERATIONAL",
+    "type": "clubs"
+  },
+  {
+    "name": "Dundee United Community Trust",
+    "address": "Tannadice St, Dundee DD3 7JW, United Kingdom",
+    "rating": 0,
+    "user_ratings_total": 0,
+    "place_id": "ChIJl_KrcP1dhkgR-nm_Gib227s",
+    "location": {
+      "lat": 56.4742484,
+      "lng": -2.9691756
+    },
+    "business_status": "OPERATIONAL",
+    "type": "clubs"
+  },
+  {
+    "name": "Forfarshire Cricket Club",
+    "address": "Fintry Pl, Broughty Ferry, Dundee DD5 3HF, United Kingdom",
+    "rating": 4.2,
+    "user_ratings_total": 43,
+    "place_id": "ChIJwQG9eIVehkgRUIJSGROJt0A",
+    "location": {
+      "lat": 56.4752281,
+      "lng": -2.8709417
+    },
+    "business_status": "OPERATIONAL",
+    "type": "clubs"
+  }
+]

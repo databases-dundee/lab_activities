@@ -1,0 +1,1874 @@
+[
+  {
+    "name": "The Hair Lounge",
+    "address": "Merchants Hair Studios, 46 Murraygate, Dundee DD1 2AZ, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 110,
+    "place_id": "ChIJH44xs-tchkgR4krEmR4Yu84",
+    "location": {
+      "lat": 56.4627819,
+      "lng": -2.9687655
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "mcIntyres Hairdressers Dundee - Union Street Salon",
+    "address": "50 Union St, Dundee DD1 4BE, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 417,
+    "place_id": "ChIJxzTySpVchkgR-7Y8EmIQtXg",
+    "location": {
+      "lat": 56.4588125,
+      "lng": -2.9703269
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Salonori - Hairdressers in Dundee",
+    "address": "51 Reform St, Dundee DD1 1SL, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 110,
+    "place_id": "ChIJbyk6iOpchkgRBTNrP5J9zG8",
+    "location": {
+      "lat": 56.46165149999999,
+      "lng": -2.9712883
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Complete Hair and Beauty",
+    "address": "126 Victoria Rd, Dundee DD1 2QW, United Kingdom",
+    "rating": 4.7,
+    "user_ratings_total": 22,
+    "place_id": "ChIJv4xvriVdhkgRbBuVM4Ky1a8",
+    "location": {
+      "lat": 56.46724380000001,
+      "lng": -2.963608
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Charlie Taylor Hair & Beauty",
+    "address": "95-101 Nethergate, Dundee DD1 4DH, United Kingdom",
+    "rating": 4.6,
+    "user_ratings_total": 202,
+    "place_id": "ChIJz1bymr9chkgRe66NIDVtZZg",
+    "location": {
+      "lat": 56.4579531,
+      "lng": -2.9746451
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "The Haus Studio",
+    "address": "THEHAUSSTUDIO, 84 Commercial St, Dundee DD1 2AP, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 172,
+    "place_id": "ChIJ86J3djpdhkgR6nP3LQBtNXo",
+    "location": {
+      "lat": 56.4619441,
+      "lng": -2.9695043
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Sandra's Hair Studio",
+    "address": "84 Albert St, Dundee DD4 6QH, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 26,
+    "place_id": "ChIJQ3ybD_BchkgRQySUQyAyQcQ",
+    "location": {
+      "lat": 56.46979349999999,
+      "lng": -2.9576539
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Retro Hair Salon Dundee",
+    "address": "13 Cowgate, Dundee DD1 2HS, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 43,
+    "place_id": "ChIJE8Avz-tchkgRvH0Yx8C4jgc",
+    "location": {
+      "lat": 56.4635411,
+      "lng": -2.9680425
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Freedom Hairdressing",
+    "address": "17 Dock St, Dundee DD1 3DP, United Kingdom",
+    "rating": 4.4,
+    "user_ratings_total": 41,
+    "place_id": "ChIJNdOVPutchkgRb54vO6mIwaw",
+    "location": {
+      "lat": 56.4601637,
+      "lng": -2.9670458
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "S P S Hairdressing",
+    "address": "121 Albert St, Dundee DD4 6PR, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 12,
+    "place_id": "ChIJJXTOovpchkgRuaoyONsEAu8",
+    "location": {
+      "lat": 56.4710817,
+      "lng": -2.9569703
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Sharon Allan",
+    "address": "106 Albert St, Dundee DD4 6QN, United Kingdom",
+    "rating": 4.6,
+    "user_ratings_total": 21,
+    "place_id": "ChIJ2ZV4p_pchkgRirGkFtQ8xJ0",
+    "location": {
+      "lat": 56.47047939999999,
+      "lng": -2.9574542
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Tom Salon Ltd",
+    "address": "24 Union St, Dundee DD1 4BE, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 11,
+    "place_id": "ChIJoSmGgktdhkgRrbtaXCAF2Jc",
+    "location": {
+      "lat": 56.45867819999999,
+      "lng": -2.9705501
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Mood Hair",
+    "address": "19 Albert St, Dundee DD4 6NS, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 2,
+    "place_id": "ChIJXTKKANxdhkgRlAPL5B0hwbg",
+    "location": {
+      "lat": 56.4686325,
+      "lng": -2.9576561
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Oh So Gorgeous Hair & Beauty",
+    "address": "6/7, Queens Hotel Buildings, Nethergate, Dundee DD1 4DU, United Kingdom",
+    "rating": 3.3,
+    "user_ratings_total": 60,
+    "place_id": "ChIJvZ6i3cpchkgRQizBFduYwuo",
+    "location": {
+      "lat": 56.456875,
+      "lng": -2.9758995
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "The Hair Warehouse",
+    "address": "153 Perth Rd, Dundee DD2 1AR, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 32,
+    "place_id": "ChIJXxPhZbZchkgR51Dq4Nh-DZQ",
+    "location": {
+      "lat": 56.4560924,
+      "lng": -2.992269400000001
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Perrie & Quinn Hair Specialists",
+    "address": "18 Mains Loan, Dundee DD4 7AA, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 13,
+    "place_id": "ChIJs1pL4PpchkgRBEb-1Qy49kw",
+    "location": {
+      "lat": 56.473149,
+      "lng": -2.9568275
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Mimosa Hair",
+    "address": "56 West Port, Dundee DD1 5ER, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 14,
+    "place_id": "ChIJHZ-HUsdchkgRMkdTN5x85CA",
+    "location": {
+      "lat": 56.4593783,
+      "lng": -2.9797547
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "HQs Hairdressing",
+    "address": "37 Cowgate, Dundee DD1 2JF, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 32,
+    "place_id": "ChIJ88E54OtchkgRpzzCnT_qlt0",
+    "location": {
+      "lat": 56.46411149999999,
+      "lng": -2.9670172
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "The Hair Boutique",
+    "address": "148 Albert St, Dundee DD4 6QW, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 18,
+    "place_id": "ChIJ0xwUv_pchkgR9s4Lzm_PITE",
+    "location": {
+      "lat": 56.4715146,
+      "lng": -2.9571465
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Jackson Gray Hair & Beauty",
+    "address": "160 Strathmartine Rd, Dundee DD3 8DQ, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 53,
+    "place_id": "ChIJ50ESTtlchkgRgln7XEVNyV4",
+    "location": {
+      "lat": 56.4752899,
+      "lng": -2.9810041
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Gloss",
+    "address": "77 King St, Dundee DD1 2JY, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 13,
+    "place_id": "ChIJNZNuvO5chkgRTspTAxsJwa8",
+    "location": {
+      "lat": 56.4655509,
+      "lng": -2.9639002
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Atomic Hair",
+    "address": "The haus studio, 84 Commercial St, Dundee DD1 2AP, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 15,
+    "place_id": "ChIJfxL5PZxdhkgRFMcpcaxYKrM",
+    "location": {
+      "lat": 56.4619393,
+      "lng": -2.9697805
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Cameron’s Hair Salon",
+    "address": "15 Panmure St, Dundee DD1 2BE, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 31,
+    "place_id": "ChIJB0Ooe_VdhkgRf1ILxuIu5TQ",
+    "location": {
+      "lat": 56.4632125,
+      "lng": -2.9693276
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Dhair Salon",
+    "address": "4 St Andrew's St, Dundee DD1 2EX, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 13,
+    "place_id": "ChIJCdTVwutchkgRobOiGgfp4iE",
+    "location": {
+      "lat": 56.463884,
+      "lng": -2.9673171
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Shanna Hair and Beauty",
+    "address": "30 Park Ave, Dundee DD4 6NF, United Kingdom",
+    "rating": 4.7,
+    "user_ratings_total": 40,
+    "place_id": "ChIJax2VaPpchkgRt2vADZdIC7Q",
+    "location": {
+      "lat": 56.47148740000001,
+      "lng": -2.9538169
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Vk hair",
+    "address": "77 King St, Dundee DD2 2JY, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 7,
+    "place_id": "ChIJOZnR4VJdhkgRgxj0Mc1mX9o",
+    "location": {
+      "lat": 56.4655509,
+      "lng": -2.9639002
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Hair",
+    "address": "40 Castle St, Dundee DD1 3AQ, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 28,
+    "place_id": "ChIJheqdGOtchkgRdBWEl0ZwI9w",
+    "location": {
+      "lat": 56.4605,
+      "lng": -2.967793
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Hunter Hairdressing",
+    "address": "60 Dock St, Dundee DD1 3DU, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 10,
+    "place_id": "ChIJ__97gexchkgRckECeiB4yg8",
+    "location": {
+      "lat": 56.46152499999999,
+      "lng": -2.9646334
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Hair Beyond 2000",
+    "address": "8 Mains Loan, Dundee DD4 7AA, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 17,
+    "place_id": "ChIJc_hP4fpchkgRh-7BisP9Aiw",
+    "location": {
+      "lat": 56.4730376,
+      "lng": -2.9567769
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Elegance Hair and Beauty Salon",
+    "address": "Overgate, Unit 22 Upper mall, Dundee DD1 1UH, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 1145,
+    "place_id": "ChIJP7JlvOpchkgRYV2LcIP6APQ",
+    "location": {
+      "lat": 56.4605349,
+      "lng": -2.9716448
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "jack anderson hair design",
+    "address": "25 Bank St, Dundee DD1 1RL, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 23,
+    "place_id": "ChIJrSswJsBchkgRbdLzwqM5HSQ",
+    "location": {
+      "lat": 56.4609277,
+      "lng": -2.9726387
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Excellence Hair and Beauty",
+    "address": "55 Strathmartine Rd, Dundee DD3 7RX, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 10,
+    "place_id": "ChIJ71dFxq9dhkgRytGVcr6HN68",
+    "location": {
+      "lat": 56.4728422,
+      "lng": -2.9776929
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Shades Salon",
+    "address": "323 Hilltown, Dundee DD3 7AA, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 35,
+    "place_id": "ChIJ2yTlMN1chkgRWcWdufnn1X4",
+    "location": {
+      "lat": 56.4705893,
+      "lng": -2.9757409
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Gary Wightman Hairdressing Salon",
+    "address": "65-67 Constitution Rd, Dundee DD1 1LA, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 32,
+    "place_id": "ChIJXcl-9xhdhkgRURJo7I9J9Fs",
+    "location": {
+      "lat": 56.4643981,
+      "lng": -2.97654
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Coloured Soul Dundee",
+    "address": "22 Union St, Dundee DD1 4BH, United Kingdom",
+    "rating": 4.3,
+    "user_ratings_total": 58,
+    "place_id": "ChIJG72AsepchkgRQJyrJvIoNR8",
+    "location": {
+      "lat": 56.4591328,
+      "lng": -2.9709646
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Hair by Louise Watts",
+    "address": "84 Commercial St, Dundee DD1 2AP, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 5,
+    "place_id": "ChIJQTj3NtddhkgRStwbNKuew38",
+    "location": {
+      "lat": 56.4619393,
+      "lng": -2.9697805
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Hair Ups",
+    "address": "Pink Flamingo Hair Studio, 101 Broughty Ferry Rd, Dundee DD4 6JE, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 14,
+    "place_id": "ChIJYdRbwg9DhkgRQK27KxAARlY",
+    "location": {
+      "lat": 56.4668132,
+      "lng": -2.9466214
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "One Cut Above",
+    "address": "74 Albert St, Dundee DD4 6QH, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 3,
+    "place_id": "ChIJY0t1EPBchkgRdk35Dio-2rI",
+    "location": {
+      "lat": 56.4695424,
+      "lng": -2.9577004
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Emma Kettles Hair",
+    "address": "36 Baxter Park Terrace, Dundee DD4 6NR, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 5,
+    "place_id": "ChIJ986ru_BchkgRmvY2pVbB3RM",
+    "location": {
+      "lat": 56.4692887,
+      "lng": -2.9519803
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "NJM",
+    "address": "30 Arbroath Rd, Dundee DD4 6EP, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 20,
+    "place_id": "ChIJ52ERN_BchkgR_ctyUgqz7VY",
+    "location": {
+      "lat": 56.4682799,
+      "lng": -2.9567642
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Radiance Hair Studio",
+    "address": "10 St Andrew's St, Dundee DD1 2EX, United Kingdom",
+    "rating": 4.1,
+    "user_ratings_total": 25,
+    "place_id": "ChIJ9xm_wutchkgR1BstOFMN1TM",
+    "location": {
+      "lat": 56.4638278,
+      "lng": -2.9672101
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "mcIntyres Hairdressers Dundee - Perth Road Salon",
+    "address": "121 Perth Rd, Dundee DD1 4JB, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 168,
+    "place_id": "ChIJt-uzrLdchkgRoTPK2-N9Lhc",
+    "location": {
+      "lat": 56.4560013,
+      "lng": -2.9902598
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Kaye Hairdressing",
+    "address": "24 Craigie Ave, Dundee DD4 7NN, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 32,
+    "place_id": "ChIJRwicz0VchkgRID-s7oup2YM",
+    "location": {
+      "lat": 56.469098,
+      "lng": -2.9225201
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Karen James",
+    "address": "3 Haldane Ave, Dundee DD3 0JL, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 53,
+    "place_id": "ChIJ1YPAdCVdhkgRW1rn24wxKTU",
+    "location": {
+      "lat": 56.4895332,
+      "lng": -2.9886407
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Salon Fierce",
+    "address": "168 Arbroath Rd, Dundee DD4 7PY, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 31,
+    "place_id": "ChIJX0oD5MhchkgRo_O7qObpWB0",
+    "location": {
+      "lat": 56.47365139999999,
+      "lng": -2.9265269
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Mane Angels",
+    "address": "G2, 40 Perth Rd, Dundee DD1 4LN, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 23,
+    "place_id": "ChIJq6oW0rhchkgReDVfpmB2CRc",
+    "location": {
+      "lat": 56.45657569999999,
+      "lng": -2.9796581
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Fresh Vibes Hair & Beauty",
+    "address": "170 Blackness Rd, Dundee DD1 5PQ, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 29,
+    "place_id": "ChIJJwJO76tdhkgRs1oJqttcUdk",
+    "location": {
+      "lat": 56.4600758,
+      "lng": -2.993108
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "BLONDE HAIRDRESSING",
+    "address": "263 Clepington Rd, Dundee DD3 7UE, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 1,
+    "place_id": "ChIJC3VUL95chkgRkLSHH0Jpft0",
+    "location": {
+      "lat": 56.4777697,
+      "lng": -2.974687
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "The Salon Hair & Beauty",
+    "address": "The Crescent, Lothian Cres, Dundee DD4 0HU, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 33,
+    "place_id": "ChIJg5L3uFFdhkgRnfkESCCGCHc",
+    "location": {
+      "lat": 56.48970790000001,
+      "lng": -2.9164006
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Partners Broughty Ferry",
+    "address": "128 Gray St, Broughty Ferry, Dundee DD5 2DG, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 340,
+    "place_id": "ChIJ5cBKMJpehkgRRIpn1wEOsb8",
+    "location": {
+      "lat": 56.4676517,
+      "lng": -2.872674
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Sophisticut Hair Salon",
+    "address": "30 Fintry Dr, Dundee DD4 9PB, United Kingdom",
+    "rating": 4.7,
+    "user_ratings_total": 44,
+    "place_id": "ChIJw8eLjQddhkgRLxTza4uv6hg",
+    "location": {
+      "lat": 56.491581,
+      "lng": -2.9466428
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Electric Roots",
+    "address": "3 Bank St, Dundee DD1 1RL, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 9,
+    "place_id": "ChIJ_0S6Pk1dhkgRZQQEbYHF1AQ",
+    "location": {
+      "lat": 56.4613829,
+      "lng": -2.9716526
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Rehab Hair Parlour Dundee",
+    "address": "15 Balmoral Terrace, Dundee DD4 8SJ, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 112,
+    "place_id": "ChIJ7_TOnDRchkgRLQ0bLPReS34",
+    "location": {
+      "lat": 56.4807502,
+      "lng": -2.908298
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Mane Hairdressing",
+    "address": "6 Panmure St, Dundee DD1 2BW, United Kingdom",
+    "rating": 4.5,
+    "user_ratings_total": 10,
+    "place_id": "ChIJ-QreaMBchkgR7ujxkUC29pk",
+    "location": {
+      "lat": 56.4633823,
+      "lng": -2.9696644
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Lisa Gray Hair Design",
+    "address": "Fairmuir Park, Dundee DD3 8JE, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 4,
+    "place_id": "ChIJOf4w8u9chkgRMSS7vK7niAA",
+    "location": {
+      "lat": 56.4803564,
+      "lng": -2.9828248
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Wild Hairdressing",
+    "address": "278 Blackness Rd, Dundee DD2 1RZ, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 12,
+    "place_id": "ChIJlai6URZdhkgRmOnGUZzsho8",
+    "location": {
+      "lat": 56.4605222,
+      "lng": -3.0000703
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Jacobson Hair",
+    "address": "9 Commercial St, Dundee DD1 3DA, United Kingdom",
+    "rating": 4.6,
+    "user_ratings_total": 15,
+    "place_id": "ChIJC50KbutchkgRqPvuPaSD3VE",
+    "location": {
+      "lat": 56.46104800000001,
+      "lng": -2.9662861
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Smith's Hair & Beauty",
+    "address": "77 Macalpine Rd, Dundee DD3 8RE, United Kingdom",
+    "rating": 4.7,
+    "user_ratings_total": 55,
+    "place_id": "ChIJO6eUItNChkgRRXvot9cUwfY",
+    "location": {
+      "lat": 56.4883272,
+      "lng": -3.0064036
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "bola hair salon",
+    "address": "63 Hilltown, Dundee DD3 7AB, United Kingdom",
+    "rating": 4.4,
+    "user_ratings_total": 35,
+    "place_id": "ChIJZbuJ6-lchkgRcrzK_JzvjAY",
+    "location": {
+      "lat": 56.4659391,
+      "lng": -2.9715314
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Liam Duffy Hairdressing",
+    "address": "11 Teviotdale Ave, Dundee DD3 9AX, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 31,
+    "place_id": "ChIJPxLQny5DhkgRJv7G35-9XMc",
+    "location": {
+      "lat": 56.4901652,
+      "lng": -2.9977969
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Hard Grind Barber Shop Dundee, Scotland",
+    "address": "12 Exchange St, Dundee DD1 3DL, United Kingdom",
+    "rating": 4.7,
+    "user_ratings_total": 434,
+    "place_id": "ChIJqUl7a3pdhkgR_RPUqhaaEiM",
+    "location": {
+      "lat": 56.4604429,
+      "lng": -2.9674453
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Raf's Barber",
+    "address": "104 Albert St, Dundee DD4 6QN, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 152,
+    "place_id": "ChIJASYsCPBchkgRqXg5KQtIL2Q",
+    "location": {
+      "lat": 56.4704214,
+      "lng": -2.9574461
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Calum R. Mckenzie",
+    "address": "64 Albert St, Dundee DD4 6QH, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 25,
+    "place_id": "ChIJXzMuGvBchkgRgDx_iQcTuGk",
+    "location": {
+      "lat": 56.4694385,
+      "lng": -2.9577317
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Smartguys Barber Shop",
+    "address": "19 Princes St, Dundee DD4 6BY, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 60,
+    "place_id": "ChIJI7MT5-tchkgRI1_Jm9a9Ueo",
+    "location": {
+      "lat": 56.4658988,
+      "lng": -2.9619686
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Berties Barbers",
+    "address": "Albert St, Dundee DD4 9NQ, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 96,
+    "place_id": "ChIJc2tWvvpchkgRGTaztt45en4",
+    "location": {
+      "lat": 56.4716208,
+      "lng": -2.957097
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Magic Barbers",
+    "address": "42 Albert St, Dundee DD4 6QQ, United Kingdom",
+    "rating": 4.2,
+    "user_ratings_total": 57,
+    "place_id": "ChIJ__8zGfBchkgRGDaVelAzzDY",
+    "location": {
+      "lat": 56.4690915,
+      "lng": -2.9578743
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Yasper Barbers",
+    "address": "61 Hilltown, Dundee DD3 7AB, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 46,
+    "place_id": "ChIJvQi4SkldhkgRjN6L7eb9Drw",
+    "location": {
+      "lat": 56.4659481,
+      "lng": -2.971536
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Hair Force Barber",
+    "address": "28 Ogilvie St, Dundee DD4 6SE, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 52,
+    "place_id": "ChIJ5RgVuFBdhkgR18PqSTBoGcs",
+    "location": {
+      "lat": 56.4720398,
+      "lng": -2.9626536
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Kurdish Barber Dundee",
+    "address": "22 Reform St, Dundee DD1 1RH, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 76,
+    "place_id": "ChIJm7Pkh-9dhkgRHCO9YL0cxDA",
+    "location": {
+      "lat": 56.4611118,
+      "lng": -2.9711381
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "EDGE - Barbers",
+    "address": "153 Clepington Rd, Dundee DD3 7SN, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 159,
+    "place_id": "ChIJG3Ja1dhdhkgRmtnBlFH8-_w",
+    "location": {
+      "lat": 56.4775483,
+      "lng": -2.9666465
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "First class Dundee barber",
+    "address": "63 Strathmartine Rd, Dundee DD3 7RX, United Kingdom",
+    "rating": 4.7,
+    "user_ratings_total": 100,
+    "place_id": "ChIJkycBbQVdhkgR8fWt5erD6A4",
+    "location": {
+      "lat": 56.4729225,
+      "lng": -2.9777912
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Anda’s Barbershop",
+    "address": "112 Seagate, Dundee DD1 2ET, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 31,
+    "place_id": "ChIJwRrvgtldhkgRFNdf75RUi1k",
+    "location": {
+      "lat": 56.4632325,
+      "lng": -2.9667297
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "dundee barbers",
+    "address": "292 Perth Rd, Dundee DD2 1AN, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 1,
+    "place_id": "ChIJr8ucebZchkgRPuNNedNRzgY",
+    "location": {
+      "lat": 56.4561151,
+      "lng": -2.9935514
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "The Private Lounge",
+    "address": "Tayside, 166 Blackness Rd, Dundee DD1 5PQ, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 188,
+    "place_id": "ChIJRUsulMlchkgRoX4mTCPEj4I",
+    "location": {
+      "lat": 56.4601037,
+      "lng": -2.9928284
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Marta's Barbershop",
+    "address": "15 Mains Rd, Dundee DD3 7RH, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 90,
+    "place_id": "ChIJjbagsr5dhkgRliZ9eDS7VKA",
+    "location": {
+      "lat": 56.4714186,
+      "lng": -2.9756541
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "FADE ASYLUM",
+    "address": "106 Dura St, Dundee DD4 6TE, United Kingdom",
+    "rating": 4.4,
+    "user_ratings_total": 71,
+    "place_id": "ChIJLfAZn6NdhkgRTcPUygLls-w",
+    "location": {
+      "lat": 56.47270200000001,
+      "lng": -2.9567635
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "A CLASS Barbers",
+    "address": "27 Union St, Dundee DD1 4BS, United Kingdom",
+    "rating": 4.5,
+    "user_ratings_total": 159,
+    "place_id": "ChIJR0HfTJVchkgRSG0PG2og9bk",
+    "location": {
+      "lat": 56.458895,
+      "lng": -2.9710465
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Lovett's Barber Shop",
+    "address": "17 Exchange St, Dundee DD1 3DJ, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 86,
+    "place_id": "ChIJM3vQF-tchkgR8hZ-HEEJnjU",
+    "location": {
+      "lat": 56.4604328,
+      "lng": -2.9671754
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "dundee barbers & skinfade",
+    "address": "53 Reform St, Dundee DD1 1SL, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 56,
+    "place_id": "ChIJNXCa9qRdhkgRyjJ9B3wlw2I",
+    "location": {
+      "lat": 56.46169579999999,
+      "lng": -2.9713021
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Barber's Chair",
+    "address": "98 Clepington Rd, Dundee DD3 7SX, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 11,
+    "place_id": "ChIJ_XSCFuFchkgRLdeu_ggcEKg",
+    "location": {
+      "lat": 56.4773437,
+      "lng": -2.9690314
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Miss Barberette's",
+    "address": "39-41 Cleghorn St, Dundee DD2 2PF, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 78,
+    "place_id": "ChIJTZfIqM5chkgRJFWnCXfIOCk",
+    "location": {
+      "lat": 56.4644448,
+      "lng": -2.9947933
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Menz Zone Barbers",
+    "address": "174 Clepington Rd, Dundee DD3 8BE, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 45,
+    "place_id": "ChIJh_EmZuFchkgRZkELu2ltuvQ",
+    "location": {
+      "lat": 56.477536,
+      "lng": -2.9760047
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "The Jungle Collective Barber Shop Dundee",
+    "address": "310 Perth Rd, Dundee DD2 1AU, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 53,
+    "place_id": "ChIJwQ9CSFVdhkgRKJjXVTfav5Q",
+    "location": {
+      "lat": 56.4562183,
+      "lng": -2.9946049
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Patterson & Ross West end barbers",
+    "address": "131 Nethergate, Dundee DD1 4DP, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 21,
+    "place_id": "ChIJtf8vJ2NdhkgRx7OfUNsGphM",
+    "location": {
+      "lat": 56.4573574,
+      "lng": -2.9759475
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Brown & Sons Barber Co.",
+    "address": "29 Strathmartine Rd, Dundee DD3 7RL, United Kingdom",
+    "rating": 4.7,
+    "user_ratings_total": 36,
+    "place_id": "ChIJR_lTG91chkgRBqZOegld9As",
+    "location": {
+      "lat": 56.4721246,
+      "lng": -2.9767031
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "R+R Studios",
+    "address": "12 Union St, Dundee DD1 4BH, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 24,
+    "place_id": "ChIJpyHvTgBdhkgRyv6Nm_P80aQ",
+    "location": {
+      "lat": 56.4592239,
+      "lng": -2.9711906
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Benjamin Barker Barber & Shop Dundee",
+    "address": "212a Perth Rd, Dundee DD1 4JY, United Kingdom",
+    "rating": 4.7,
+    "user_ratings_total": 108,
+    "place_id": "ChIJZ950obdchkgR51gPZweLimU",
+    "location": {
+      "lat": 56.4559416,
+      "lng": -2.9886164
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Traditional Turkish Barber",
+    "address": "Ogilvie St, Dundee DD3 7PZ, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 1,
+    "place_id": "ChIJMf3VoOVchkgRX67fn5QX1S4",
+    "location": {
+      "lat": 56.4720496,
+      "lng": -2.9626865
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "smart fade",
+    "address": "187 Turnberry Ave, Dundee DD2 3WN, United Kingdom",
+    "rating": 4.7,
+    "user_ratings_total": 18,
+    "place_id": "ChIJ9UlSJ0RDhkgRKS6nYqEVCrk",
+    "location": {
+      "lat": 56.4875549,
+      "lng": -3.0156423
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Fades & Blades Barber",
+    "address": "6 Blackness Ave, Dundee DD2 1EH, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 14,
+    "place_id": "ChIJMTRqgYVdhkgRGz7j479SqSY",
+    "location": {
+      "lat": 56.4570729,
+      "lng": -2.9957885
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Classic Turkish Barbers",
+    "address": "198 Blackness Rd, Dundee DD1 5PL, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 76,
+    "place_id": "ChIJL4b93y1dhkgRx34vrl1ctK8",
+    "location": {
+      "lat": 56.4602812,
+      "lng": -2.9941012
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Sommervilles Barbers",
+    "address": "60a Finlarig Terrace, Dundee DD4 9JD, United Kingdom",
+    "rating": 4.7,
+    "user_ratings_total": 69,
+    "place_id": "ChIJexOfcrJdhkgRVSqUr3cjNcs",
+    "location": {
+      "lat": 56.4890079,
+      "lng": -2.9390485
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "The Barber Man Studio",
+    "address": "292 Perth Rd, Dundee DD2 1AN, United Kingdom",
+    "rating": 4.6,
+    "user_ratings_total": 119,
+    "place_id": "ChIJr1OZebZchkgRaQ_AONZLy0g",
+    "location": {
+      "lat": 56.4561151,
+      "lng": -2.9935514
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Discovery Barbers",
+    "address": "8, Mathew Court, Milne's East Wynd, Dundee DD1 5BA, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 70,
+    "place_id": "ChIJWbArNMZchkgReIvdDQ1Mntk",
+    "location": {
+      "lat": 56.461731,
+      "lng": -2.9855621
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Trimology Hilltown",
+    "address": "288 Hilltown, Dundee DD3 7AR, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 54,
+    "place_id": "ChIJmdaEKzpdhkgRuwhrDdv55Q8",
+    "location": {
+      "lat": 56.4704132,
+      "lng": -2.9759931
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Barber Stop",
+    "address": "96 Fintry Rd, Dundee DD4 9EZ, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 38,
+    "place_id": "ChIJnXx0QKldhkgRtemiShDz3J0",
+    "location": {
+      "lat": 56.4890908,
+      "lng": -2.9401456
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "The Metal Barber",
+    "address": "6 St Andrew's St, Dundee DD1 2EX, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 3,
+    "place_id": "ChIJSyD1jLFfhkgR2i_uCCYO0JE",
+    "location": {
+      "lat": 56.46386560000001,
+      "lng": -2.9672821
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Craigie Cutz",
+    "address": "148 Arbroath Rd, Dundee DD4 7PU, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 193,
+    "place_id": "ChIJCY3-KVBchkgRECf0Uq6be-g",
+    "location": {
+      "lat": 56.4733224,
+      "lng": -2.9283721
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Fresh Fadez Barber",
+    "address": "22 Beauly Ave, Dundee DD3 0DP, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 27,
+    "place_id": "ChIJk9e8A39dhkgRS8QmXBlCP3k",
+    "location": {
+      "lat": 56.4894535,
+      "lng": -2.98074
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Oscars Barbers",
+    "address": "152 Hilltown, Dundee DD3 7BJ, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 36,
+    "place_id": "ChIJDbUOG7NdhkgRyMVDDymgNu0",
+    "location": {
+      "lat": 56.4675756,
+      "lng": -2.9733223
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Creative Kutz",
+    "address": "116 Hilltown, Dundee DD3 7BG, United Kingdom",
+    "rating": 4.6,
+    "user_ratings_total": 42,
+    "place_id": "ChIJ2wRb1ulchkgRFvWKFtJBmM0",
+    "location": {
+      "lat": 56.46673029999999,
+      "lng": -2.9725897
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Voi Studio Barber",
+    "address": "6A Panmure St, Dundee DD1 2BW, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 30,
+    "place_id": "ChIJCSqDhjpdhkgRLkh1aTzHTZI",
+    "location": {
+      "lat": 56.4633426,
+      "lng": -2.969676
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Roe' Bucks",
+    "address": "16 St Andrew's St, Dundee DD1 2EX, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 79,
+    "place_id": "ChIJK_jQ6etchkgR-JJWx_cPgVA",
+    "location": {
+      "lat": 56.4637196,
+      "lng": -2.9670043
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "J&B Barbers",
+    "address": "125aClepington Rd, Dundee DD3 7PA, United Kingdom",
+    "rating": 4.5,
+    "user_ratings_total": 8,
+    "place_id": "ChIJ2VXCvONchkgR9c0mRmHXKCs",
+    "location": {
+      "lat": 56.4775573,
+      "lng": -2.964072
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Kinfolk barbershop",
+    "address": "Kinfolk Barbershop, 59 Perth Rd, Dundee DD1 4HY, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 14,
+    "place_id": "ChIJkz5SO4hdhkgRRIaoDXLa3ZE",
+    "location": {
+      "lat": 56.4562495,
+      "lng": -2.9871292
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Fadez Lsh Barbers",
+    "address": "Dundee DD3 7RW, United Kingdom",
+    "rating": 4.5,
+    "user_ratings_total": 13,
+    "place_id": "ChIJNT0UA91chkgRuSpkl_gjQtA",
+    "location": {
+      "lat": 56.472203,
+      "lng": -2.9769227
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "124 City Road Barber CRB",
+    "address": "124 City Rd, Dundee DD2 2PW, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 79,
+    "place_id": "ChIJCy4CvuFdhkgRxXd45SzGIQ4",
+    "location": {
+      "lat": 56.4666557,
+      "lng": -3.0009845
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Dads And Lads Gents Barber",
+    "address": "231 Strathmore Ave, Dundee DD3 6SN, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 56,
+    "place_id": "ChIJE0z9RdFchkgR_o-mRmCkFCU",
+    "location": {
+      "lat": 56.474408,
+      "lng": -2.9946456
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "The Prince Barbers",
+    "address": "144 Hilltown, Dundee DD3 7BJ, United Kingdom",
+    "rating": 4.6,
+    "user_ratings_total": 64,
+    "place_id": "ChIJE5w3gMJchkgRDjhVhOi4uEA",
+    "location": {
+      "lat": 56.4674306,
+      "lng": -2.973164
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Diamond Scissors",
+    "address": "98 Nethergate, Dundee DD1 4EL, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 13,
+    "place_id": "ChIJpUBJZ5xdhkgRePjmg2sZc2Q",
+    "location": {
+      "lat": 56.4586805,
+      "lng": -2.972776
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Archs",
+    "address": "38 Constitution St, Dundee DD3 6ND, United Kingdom",
+    "rating": 4.2,
+    "user_ratings_total": 5,
+    "place_id": "ChIJrxVbX85dhkgRd-476lqZZ48",
+    "location": {
+      "lat": 56.4678468,
+      "lng": -2.9757965
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Gentry",
+    "address": "282 Perth Rd, Dundee DD2 1AN, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 44,
+    "place_id": "ChIJITQBe7ZchkgR3oRYvLZ3vBc",
+    "location": {
+      "lat": 56.45608069999999,
+      "lng": -2.9932798
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Trimology",
+    "address": "69b Fintry Rd, Dundee DD4 9EY, United Kingdom",
+    "rating": 4.6,
+    "user_ratings_total": 85,
+    "place_id": "ChIJH_J8dRFdhkgRh9AEZkMU4wQ",
+    "location": {
+      "lat": 56.489167,
+      "lng": -2.93935
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Pour Homme",
+    "address": "12 West Port, Dundee DD1 5EP, United Kingdom",
+    "rating": 4.5,
+    "user_ratings_total": 66,
+    "place_id": "ChIJM9RAo8BchkgRvVrG7GKwzWI",
+    "location": {
+      "lat": 56.4593473,
+      "lng": -2.9780116
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Angela James",
+    "address": "81 Peddie St, Dundee DD1 5LX, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 61,
+    "place_id": "ChIJaXJjyXtdhkgRCW18y3lq-b0",
+    "location": {
+      "lat": 56.45948509999999,
+      "lng": -2.9940845
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Lou's cutting Corner",
+    "address": "183 Strathmartine Rd, Dundee DD3 8BL, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 90,
+    "place_id": "ChIJb8qOGNlchkgR4ks4gFkGG4A",
+    "location": {
+      "lat": 56.4777338,
+      "lng": -2.9835175
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Golden Scissor Trim",
+    "address": "1 Gillburn Rd, Dundee DD3 0AA, United Kingdom",
+    "rating": 4.7,
+    "user_ratings_total": 97,
+    "place_id": "ChIJBVaEd-5dhkgR0QKnJzeFASc",
+    "location": {
+      "lat": 56.4870826,
+      "lng": -2.9921776
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Gents hairdresser",
+    "address": "53 Strathmartine Rd, Dundee DD3 7RX, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 32,
+    "place_id": "ChIJby10_9xchkgRkmrLp9q22xM",
+    "location": {
+      "lat": 56.47275759999999,
+      "lng": -2.9775875
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Urban Cuts Dundee",
+    "address": "Unit 15, Happyhillock Rd, Dundee DD4 8LS, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 32,
+    "place_id": "ChIJqyjmUU1chkgR0PLL3Aj8-n4",
+    "location": {
+      "lat": 56.4819626,
+      "lng": -2.9293964
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "THE BARBER CLUB",
+    "address": "Dundee DD4 6NS, United Kingdom",
+    "rating": 4.6,
+    "user_ratings_total": 11,
+    "place_id": "ChIJVXxiL_BchkgRMjL3Ji25w8A",
+    "location": {
+      "lat": 56.4683408,
+      "lng": -2.9577211
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barber shop"
+  },
+  {
+    "name": "Lovett's Barbershop",
+    "address": "37 Gray St, Broughty Ferry, Dundee DD5 2BJ, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 35,
+    "place_id": "ChIJ24Y8Y7NfhkgRa6i9VpqNHpg",
+    "location": {
+      "lat": 56.4658159,
+      "lng": -2.8738443
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barber shop"
+  },
+  {
+    "name": "Turkish Barber Broughty Ferry",
+    "address": "94 Gray St, Broughty Ferry, Dundee DD5 2DN, United Kingdom",
+    "rating": 4.7,
+    "user_ratings_total": 101,
+    "place_id": "ChIJhSK-K5pehkgRIczY4EQlwQE",
+    "location": {
+      "lat": 56.4671083,
+      "lng": -2.8729383
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barber shop"
+  },
+  {
+    "name": "V Hair Studio",
+    "address": "35 Lyon St, Dundee DD4 6RD, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 3,
+    "place_id": "ChIJE8sVxtldhkgR2JMqIJhX4m0",
+    "location": {
+      "lat": 56.4685126,
+      "lng": -2.9602461
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair salon"
+  },
+  {
+    "name": "Sutherlands Hair & Beauty",
+    "address": "9 & 11 High St, Dundee, Newport-on-Tay DD6 8AB, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 135,
+    "place_id": "ChIJaToHZIBchkgR2-04MgONCpc",
+    "location": {
+      "lat": 56.4396778,
+      "lng": -2.9418955
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair salon"
+  },
+  {
+    "name": "Niamh tierney hair and beauty",
+    "address": "173 Strathmartine Rd, Dundee DD3 8BU, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 1,
+    "place_id": "ChIJxb3Fe41dhkgRMYmEhM61KPI",
+    "location": {
+      "lat": 56.47708,
+      "lng": -2.9827491
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair salon"
+  },
+  {
+    "name": "Alex's Hair and Beauty",
+    "address": "Happyhillock Shopping Centre, Unit 16 Happyhillock Rd, Dundee DD4 8LS, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 45,
+    "place_id": "ChIJE3bnNU1chkgRLzdEazh_whs",
+    "location": {
+      "lat": 56.481804,
+      "lng": -2.929352
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair salon"
+  },
+  {
+    "name": "Guild Aesthetics",
+    "address": "191 Strathmartine Rd, Dundee DD3 8PH, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 8,
+    "place_id": "ChIJx5VS935dhkgR_v0yhYxucbY",
+    "location": {
+      "lat": 56.4781497,
+      "lng": -2.9838228
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair salon"
+  },
+  {
+    "name": "Forsyths Hair",
+    "address": "2A Commercial St, Dundee DD1 3EH, United Kingdom",
+    "rating": 4.7,
+    "user_ratings_total": 10,
+    "place_id": "ChIJaQVUNJVchkgR4bwop8_JUgg",
+    "location": {
+      "lat": 56.4607732,
+      "lng": -2.9661948
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair salon"
+  },
+  {
+    "name": "Vol Studio",
+    "address": "41 Meadowside, Dundee DD1 1EQ, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 2,
+    "place_id": "ChIJP-ZhR-pchkgROnAV1EacA8w",
+    "location": {
+      "lat": 56.4635311,
+      "lng": -2.9703678
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair studio"
+  },
+  {
+    "name": "J L Hair Design",
+    "address": "11, Campfield Square, Broughty Ferry, Dundee DD5 2PU, United Kingdom",
+    "rating": 4.6,
+    "user_ratings_total": 28,
+    "place_id": "ChIJ8Z3hkY1ehkgRnxlLPsgqoKo",
+    "location": {
+      "lat": 56.4743872,
+      "lng": -2.8584541
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair studio"
+  },
+  {
+    "name": "Infinity Hair Design",
+    "address": "60 Craigmount Rd, Dundee DD2 4QF, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 11,
+    "place_id": "ChIJlzNnEyJDhkgRf9hEOCBkiFc",
+    "location": {
+      "lat": 56.47275939999999,
+      "lng": -3.0319803
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair studio"
+  },
+  {
+    "name": "Studio Lou Hairdressing - Louise Lawson",
+    "address": "68 Helmsdale Ave, Dundee DD3 0HJ, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 1,
+    "place_id": "ChIJr7zaUNFdhkgRrT7c9mYfk4o",
+    "location": {
+      "lat": 56.4921371,
+      "lng": -2.9822733
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair studio"
+  },
+  {
+    "name": "Studio Hair Stylist",
+    "address": "156 King St, Broughty Ferry, Dundee DD5 2AY, United Kingdom",
+    "rating": 4.6,
+    "user_ratings_total": 8,
+    "place_id": "ChIJD2HSCUpfhkgR6U84ZQKtJ2Q",
+    "location": {
+      "lat": 56.4659366,
+      "lng": -2.8766282
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair studio"
+  },
+  {
+    "name": "Maggie Style Hair Dressing Salon",
+    "address": "19 Logan Cres, Dundee DD3 0SR, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 1,
+    "place_id": "ChIJG1aRrFtDhkgRmIJn4wD9T5c",
+    "location": {
+      "lat": 56.50077,
+      "lng": -3.011411
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair studio"
+  },
+  {
+    "name": "love hair",
+    "address": "68 Logie St, Dundee DD2 2QE, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 5,
+    "place_id": "ChIJE_cJMwtdhkgRxgH0kUftnKQ",
+    "location": {
+      "lat": 56.4680063,
+      "lng": -3.0016943
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair studio"
+  },
+  {
+    "name": "RS Hair",
+    "address": "19 Benvie Rd, Dundee DD2 2LG, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 1,
+    "place_id": "ChIJ_1cyzmtdhkgRvXu_jcBPJw8",
+    "location": {
+      "lat": 56.4643527,
+      "lng": -2.9946729
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair studio"
+  },
+  {
+    "name": "Nico hair salon",
+    "address": "169 Blackness Rd, Dundee DD1 5PH, United Kingdom",
+    "rating": 0,
+    "user_ratings_total": 0,
+    "place_id": "ChIJtyRkOUtDhkgRFNRmBBpyt-8",
+    "location": {
+      "lat": 56.4601457,
+      "lng": -2.9921582
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair studio"
+  },
+  {
+    "name": "Pryde Hair And Beauty",
+    "address": "100 Clepington Rd, Dundee DD3 7SX, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 1,
+    "place_id": "ChIJMc2yF-FchkgRhbCD-aEnjSc",
+    "location": {
+      "lat": 56.4773045,
+      "lng": -2.9692784
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair studio"
+  },
+  {
+    "name": "Croppers",
+    "address": "449 Strathmartine Rd, Dundee DD3 9DQ, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 29,
+    "place_id": "ChIJT333Hi5dhkgRSjYoHRDfVJ0",
+    "location": {
+      "lat": 56.49174619999999,
+      "lng": -2.996365
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair studio"
+  },
+  {
+    "name": "be.Hairdressing",
+    "address": "48 Dudhope Cres Rd, Dundee DD1 5RR, United Kingdom",
+    "rating": 0,
+    "user_ratings_total": 0,
+    "place_id": "ChIJw-MLCGFdhkgRpRKA2EpIkzg",
+    "location": {
+      "lat": 56.4639317,
+      "lng": -2.9775277
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair studio"
+  },
+  {
+    "name": "Hair Salon",
+    "address": "Albert St, Dundee DD4 6NY, United Kingdom",
+    "rating": 0,
+    "user_ratings_total": 0,
+    "place_id": "ChIJkyOiIvBchkgRWaAraPsMuVg",
+    "location": {
+      "lat": 56.46901039999999,
+      "lng": -2.9575668
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair studio"
+  },
+  {
+    "name": "O’Hair By Jodie",
+    "address": "218 Blackness Rd, Dundee DD2 1RG, United Kingdom",
+    "rating": 0,
+    "user_ratings_total": 0,
+    "place_id": "ChIJ2zfIOwpdhkgRX-CZLK_ENro",
+    "location": {
+      "lat": 56.4603768,
+      "lng": -2.9951093
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair studio"
+  },
+  {
+    "name": "Something About Hair",
+    "address": "21 Melrose Gdns, Dundee DD3 7BT, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 1,
+    "place_id": "ChIJwQQjdEZdhkgRe5m1Gu7P2lk",
+    "location": {
+      "lat": 56.4742657,
+      "lng": -2.9608135
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair"
+  },
+  {
+    "name": "Blu Hair & Beauty",
+    "address": "7 Dudhope Terrace, Dundee DD3 6HG, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 12,
+    "place_id": "ChIJqWn0sPpdhkgR3zbmSPvDGRQ",
+    "location": {
+      "lat": 56.4663488,
+      "lng": -2.9835046
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair"
+  }
+]

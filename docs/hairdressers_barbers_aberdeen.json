@@ -1,0 +1,2056 @@
+[
+  {
+    "name": "Ellee's Hair Design",
+    "address": "44 Union Terrace, Aberdeen AB10 1NP, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 208,
+    "place_id": "ChIJETQwUSYOhEgRUI2inWxJQ7M",
+    "location": {
+      "lat": 57.14748609999999,
+      "lng": -2.1061123
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Linton & Mac",
+    "address": "18 Netherkirkgate, Aberdeen AB10 1AU, United Kingdom",
+    "rating": 4.7,
+    "user_ratings_total": 206,
+    "place_id": "ChIJvdFkRzwOhEgR372I75TCMH8",
+    "location": {
+      "lat": 57.1477228,
+      "lng": -2.0959853
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Studio 54 aberdeen",
+    "address": "54 Claremont St, Aberdeen AB10 6RA, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 52,
+    "place_id": "ChIJ0eumJHIRhEgRbnz2v2ceqEs",
+    "location": {
+      "lat": 57.1385909,
+      "lng": -2.121488
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "James Dun on Belmont Salon & Spa",
+    "address": "13, The Academy, Aberdeen AB10 1LB, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 1048,
+    "place_id": "ChIJWy7GMSMOhEgRavgyi-JUmZU",
+    "location": {
+      "lat": 57.1476303,
+      "lng": -2.1015109
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "House of Hair",
+    "address": "Rovein House, 43 Dee St, Aberdeen AB11 6DY, United Kingdom",
+    "rating": 4.7,
+    "user_ratings_total": 72,
+    "place_id": "ChIJt2WUuREOhEgR7myYrs7zQLk",
+    "location": {
+      "lat": 57.1432434,
+      "lng": -2.1029513
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Harris & Fox",
+    "address": "81 Rosemount Viaduct, Aberdeen AB25 1NS, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 67,
+    "place_id": "ChIJbW5NQtAPhEgROJhS51j9TaU",
+    "location": {
+      "lat": 57.1483692,
+      "lng": -2.1093691
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Bloom Lifestyle Salon Aberdeen",
+    "address": "Anderson House, 24 Rose St, Aberdeen AB10 1UA, United Kingdom",
+    "rating": 4.7,
+    "user_ratings_total": 94,
+    "place_id": "ChIJ7UnCK4APhEgROYSUslht-HU",
+    "location": {
+      "lat": 57.14397659999999,
+      "lng": -2.1110282
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Utopia Hair Studio Ltd",
+    "address": "42 Mid Stocket Rd, Aberdeen AB15 5JD, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 49,
+    "place_id": "ChIJVSBxld0RhEgR3HE5rkgWRl0",
+    "location": {
+      "lat": 57.1497551,
+      "lng": -2.1264088
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Saks Hair & Beauty Union Square",
+    "address": "31 Guild St, Aberdeen AB11 5RG, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 241,
+    "place_id": "ChIJF5H9rjsOhEgRBxDC3FwpCoA",
+    "location": {
+      "lat": 57.14429579999999,
+      "lng": -2.0981134
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Allure Hair & Beauty",
+    "address": "1 Craigiebuckler Ave, Aberdeen AB15 8SH, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 73,
+    "place_id": "ChIJY5gTxLARhEgRIYa0E7Smk60",
+    "location": {
+      "lat": 57.1373403,
+      "lng": -2.1544118
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Pink Lily",
+    "address": "13 Carden Pl, Aberdeen AB10 1UR, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 54,
+    "place_id": "ChIJDXVq2ScOhEgRTJ5a6CL10Sk",
+    "location": {
+      "lat": 57.14500839999999,
+      "lng": -2.1190402
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Hatstand Nelly - Nelly & Co",
+    "address": "250 Holburn St, Aberdeen AB10 6DB, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 46,
+    "place_id": "ChIJjU_BOygOhEgRnirvyioTQkA",
+    "location": {
+      "lat": 57.13769569999999,
+      "lng": -2.1146367
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Pimp My Hair",
+    "address": "1 Claremont St, Aberdeen AB10 6QP, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 73,
+    "place_id": "ChIJsdfqk98RhEgRaMZrBKlUeLE",
+    "location": {
+      "lat": 57.13934459999999,
+      "lng": -2.1174547
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Ishoka",
+    "address": "11 Albyn Terrace, Aberdeen AB10 1YP, United Kingdom",
+    "rating": 4.6,
+    "user_ratings_total": 68,
+    "place_id": "ChIJS-isZNkRhEgRSo902RZWQLU",
+    "location": {
+      "lat": 57.1432381,
+      "lng": -2.12324
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Revive Aberdeen Limited",
+    "address": "9 Diamond St, Aberdeen AB10 1QU, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 62,
+    "place_id": "ChIJ-e0aoSQOhEgRAAH33YO1q5c",
+    "location": {
+      "lat": 57.14571129999999,
+      "lng": -2.1036762
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Cach-ca Hair by Carrie",
+    "address": "Suite 2, Braehead Shopping Centre, Braehead Way, Bridge of Don, Aberdeen AB22 8RR, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 87,
+    "place_id": "ChIJ839JS94RhEgRKQOpgno_e8g",
+    "location": {
+      "lat": 57.1853457,
+      "lng": -2.1123998
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Avant-garde Studio Hair & Beauty",
+    "address": "7 Anderson Ave, Woodside, Aberdeen AB24 4LR, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 47,
+    "place_id": "ChIJe7gORvYRhEgRitF7m1eY2W0",
+    "location": {
+      "lat": 57.1686833,
+      "lng": -2.12671
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Embrace Hair & Beauty",
+    "address": "25 Carden Pl, Aberdeen AB10 1UQ, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 55,
+    "place_id": "ChIJ4WtPByEOhEgRdxWszjXlXNc",
+    "location": {
+      "lat": 57.1444102,
+      "lng": -2.1216263
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Hendrix Hair",
+    "address": "108 Rosemount Pl, Aberdeen AB25 2YW, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 23,
+    "place_id": "ChIJR6tdFykPhEgR2Qfv8VPDlho",
+    "location": {
+      "lat": 57.1499849,
+      "lng": -2.1153132
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Trendy Hair Studio",
+    "address": "17 S Mount St, Aberdeen AB25 2TN, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 65,
+    "place_id": "ChIJEQkqzyEOhEgRT7k9yz3w9M0",
+    "location": {
+      "lat": 57.150112,
+      "lng": -2.1122393
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "J F M Ladies & Gentlemen Hairdresser's",
+    "address": "689 George St, Aberdeen AB25 3XP, United Kingdom",
+    "rating": 4.6,
+    "user_ratings_total": 51,
+    "place_id": "ChIJzcCRDhwOhEgReIIMFkWO-0w",
+    "location": {
+      "lat": 57.1578981,
+      "lng": -2.1106024
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Empire Hairdresser Beauty",
+    "address": "48 John St, Aberdeen AB25 1LL, United Kingdom",
+    "rating": 4.7,
+    "user_ratings_total": 66,
+    "place_id": "ChIJvZgppCIOhEgR_ix5-dPDqGM",
+    "location": {
+      "lat": 57.1510443,
+      "lng": -2.1031759
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "The Cherry Tree Hair Salon",
+    "address": "39-41 Jamaica St, Aberdeen AB25 3UX, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 19,
+    "place_id": "ChIJWTx3qB4OhEgRgReEFSfDQ5s",
+    "location": {
+      "lat": 57.156788,
+      "lng": -2.1107644
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Oxygen For Hairdressing",
+    "address": "180 Rosemount Pl, Aberdeen AB25 2XQ, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 33,
+    "place_id": "ChIJf4Tekt8RhEgRCTrcyhg-2n4",
+    "location": {
+      "lat": 57.1496659,
+      "lng": -2.1179184
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Saks Hair & Beauty, David Lloyd Club",
+    "address": "David Lloyd Aberdeen, Garthdee Rd, Aberdeen AB10 7AY, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 94,
+    "place_id": "ChIJUSWd9kgQhEgRtmqnfzlYFr4",
+    "location": {
+      "lat": 57.1195568,
+      "lng": -2.1266201
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "H20",
+    "address": "86 Great Northern Rd, Aberdeen AB24 3QB, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 30,
+    "place_id": "ChIJWVHk8QIOhEgR-HKIsfgzMdk",
+    "location": {
+      "lat": 57.1645,
+      "lng": -2.1155397
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Komao Hair Design",
+    "address": "3 Perwinnes Rise, Bridge of Don, Aberdeen AB23 8LJ, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 40,
+    "place_id": "ChIJO6Fj_tRshEgR6Nr4QRym7XA",
+    "location": {
+      "lat": 57.2030717,
+      "lng": -2.1036559
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Urban West",
+    "address": "366 Great Western Rd, Aberdeen AB10 6PH, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 11,
+    "place_id": "ChIJHQT3BygOhEgRoxbuFUFi3N0",
+    "location": {
+      "lat": 57.1345502,
+      "lng": -2.1284547
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "20Twenty",
+    "address": "20 Great Western Rd, Aberdeen AB10 6PY, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 15,
+    "place_id": "ChIJGz81ka4PhEgRIkBFjQE6o48",
+    "location": {
+      "lat": 57.1400569,
+      "lng": -2.1144118
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Essence hair Studio",
+    "address": "suite 2 Breaheadway shopping centre, Aberdeen AB22 8RR, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 38,
+    "place_id": "ChIJU8083PkNhEgRiTGZTd4amAA",
+    "location": {
+      "lat": 57.1845629,
+      "lng": -2.1136541
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Area 51 Hair",
+    "address": "Bon-Accord St, Aberdeen AB11 6EB, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 13,
+    "place_id": "ChIJF-ga4eAPhEgRPeqBno-_p8g",
+    "location": {
+      "lat": 57.1429686,
+      "lng": -2.1053269
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Salon 70",
+    "address": "70 Great Western Rd, Aberdeen AB10 6PY, United Kingdom",
+    "rating": 4.2,
+    "user_ratings_total": 30,
+    "place_id": "ChIJjUYP-tcRhEgRvCYdmrRRA1Q",
+    "location": {
+      "lat": 57.1394594,
+      "lng": -2.1168637
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Mayrees Salon",
+    "address": "330 King St, Aberdeen AB24 5BJ, United Kingdom",
+    "rating": 4.6,
+    "user_ratings_total": 59,
+    "place_id": "ChIJFUBtghYOhEgRqdjfNqg_4Ew",
+    "location": {
+      "lat": 57.1547765,
+      "lng": -2.0947565
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Salon 131",
+    "address": "131 Holburn St, Aberdeen AB10 6BP, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 10,
+    "place_id": "ChIJRTZedigOhEgR8r6DoA9CGJ8",
+    "location": {
+      "lat": 57.139781,
+      "lng": -2.1135149
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Blossom",
+    "address": "2 Wallfield Pl, Aberdeen AB25 2JN, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 6,
+    "place_id": "ChIJEWfuK3UPhEgRUSIAFH0Vs7k",
+    "location": {
+      "lat": 57.14928,
+      "lng": -2.1200793
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Happy Hair Salon",
+    "address": "62 Rosemount Pl, Aberdeen AB25 2XJ, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 43,
+    "place_id": "ChIJpc5gzSEOhEgR6Uah-WonK4c",
+    "location": {
+      "lat": 57.1505437,
+      "lng": -2.1128702
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "The Mens Emporium",
+    "address": "12 Colonsay Cres, Aberdeen AB16 6FA, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 488,
+    "place_id": "ChIJf-NbGScOhEgRi52HxfQwb_M",
+    "location": {
+      "lat": 57.1521984,
+      "lng": -2.1766907
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Smoke & Mirrors",
+    "address": "25 Huntly St, Aberdeen AB10 1TJ, United Kingdom",
+    "rating": 4.6,
+    "user_ratings_total": 16,
+    "place_id": "ChIJKw07ciQOhEgRcGSBvr1sLxk",
+    "location": {
+      "lat": 57.1451169,
+      "lng": -2.106619
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Pout Hair & Beauty",
+    "address": "1A Links Rd, Bridge of Don, Aberdeen AB23 8DD, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 70,
+    "place_id": "ChIJbzB8PN4NhEgRbstlsUrrzzk",
+    "location": {
+      "lat": 57.1775788,
+      "lng": -2.089713
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "NU-VOU",
+    "address": "Nu-Vou, 208 Holburn St, Aberdeen AB10 6DA, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 10,
+    "place_id": "ChIJ7TJZm1wPhEgRMO9Cb_wxk_w",
+    "location": {
+      "lat": 57.1383397,
+      "lng": -2.1144911
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Classic Cuts Aberdeen",
+    "address": "309 George St, Aberdeen AB25 1EP, United Kingdom",
+    "rating": 4.4,
+    "user_ratings_total": 83,
+    "place_id": "ChIJw7mhchgOhEgR1R5fW6ikaB8",
+    "location": {
+      "lat": 57.1521547,
+      "lng": -2.1040604
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Heritage Quay",
+    "address": "Merchant Exchange, 25 Exchange St, Aberdeen AB11 6PH, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 426,
+    "place_id": "ChIJE89TFicOhEgRV75nNiSk-x8",
+    "location": {
+      "lat": 57.1454769,
+      "lng": -2.0968646
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Hairdresser Agnieszka",
+    "address": "423 George St, Aberdeen AB25 1ER, United Kingdom",
+    "rating": 4.6,
+    "user_ratings_total": 41,
+    "place_id": "ChIJsaO3VxgOhEgR2gn9Hjlr0kA",
+    "location": {
+      "lat": 57.1536248,
+      "lng": -2.1057421
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Salon 107",
+    "address": "107 Rousay Dr, Aberdeen AB15 6LT, United Kingdom",
+    "rating": 4.5,
+    "user_ratings_total": 43,
+    "place_id": "ChIJVwbt16ERhEgRRlRpBhsfZ1U",
+    "location": {
+      "lat": 57.150143,
+      "lng": -2.1723661
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "The Hair and Beauty Lounge",
+    "address": "7 Greenburn Rd, Bucksburn, Aberdeen AB21 9EL, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 28,
+    "place_id": "ChIJhWhISy0ShEgRyEkLDAluHVI",
+    "location": {
+      "lat": 57.1828024,
+      "lng": -2.1793486
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Hair in the Square",
+    "address": "Unit 9, 8 Byron Square, Aberdeen AB16 7LL, United Kingdom",
+    "rating": 4.6,
+    "user_ratings_total": 35,
+    "place_id": "ChIJAQCsQo8RhEgR8GOp1NwUVWc",
+    "location": {
+      "lat": 57.1652959,
+      "lng": -2.1622403
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Naked Pride",
+    "address": "To Go, 2 Bath St, Aberdeen AB11 6HY, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 23,
+    "place_id": "ChIJtaFlsSQOhEgRTfhf1fW8v9w",
+    "location": {
+      "lat": 57.14485879999999,
+      "lng": -2.1019378
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Eloss Hair Salon",
+    "address": "200 George St, Aberdeen AB25 1BS, United Kingdom",
+    "rating": 4.2,
+    "user_ratings_total": 99,
+    "place_id": "ChIJU0GU4RUOhEgRRa5POjRdVZc",
+    "location": {
+      "lat": 57.1508277,
+      "lng": -2.1020752
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "The Pavilion Hair & Beauty",
+    "address": "136 Queen's Rd, Aberdeen AB15 8BR, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 8,
+    "place_id": "ChIJnd-s8LcRhEgR1znq8jLAiE4",
+    "location": {
+      "lat": 57.1392231,
+      "lng": -2.1473106
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Scott Holliman Hair",
+    "address": "79-81 Leadside Rd, Aberdeen AB25 1RX, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 13,
+    "place_id": "ChIJBdrEVyAOhEgREun3Q3-Fv8E",
+    "location": {
+      "lat": 57.1485347,
+      "lng": -2.1135374
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Mirrors",
+    "address": "110 Rosemount Pl, Aberdeen AB25 2YW, United Kingdom",
+    "rating": 4.5,
+    "user_ratings_total": 11,
+    "place_id": "ChIJUYh2EyAOhEgRj94A4k57ekY",
+    "location": {
+      "lat": 57.1499599,
+      "lng": -2.1154476
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Wickedly Wild Hair & Beauty",
+    "address": "6 Hilton Dr, Aberdeen AB24 4NU, United Kingdom",
+    "rating": 4.5,
+    "user_ratings_total": 16,
+    "place_id": "ChIJs0Ya1egRhEgR0Sj20NLFdLg",
+    "location": {
+      "lat": 57.1613652,
+      "lng": -2.1271595
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Findlays Ladies Gentlemens Hairdressers",
+    "address": "361 Holburn St, Aberdeen AB10 7FQ, United Kingdom",
+    "rating": 4.5,
+    "user_ratings_total": 43,
+    "place_id": "ChIJ5Y0m_9URhEgR3WW0XOnlw-A",
+    "location": {
+      "lat": 57.1340314,
+      "lng": -2.1155172
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Just a Cut",
+    "address": "18 Market St, Aberdeen AB11 5PL, United Kingdom",
+    "rating": 4.7,
+    "user_ratings_total": 31,
+    "place_id": "ChIJO8LXWT4OhEgR_lwuTztmErk",
+    "location": {
+      "lat": 57.1462807,
+      "lng": -2.0968835
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "I - Candy Hair & Beauty",
+    "address": "93 Charleston Rd N, Cove Bay, Aberdeen AB12 3SZ, United Kingdom",
+    "rating": 4.4,
+    "user_ratings_total": 57,
+    "place_id": "ChIJXdZLse8PhEgRsTZAL2EGzVo",
+    "location": {
+      "lat": 57.1048905,
+      "lng": -2.0938859
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Purdey",
+    "address": "70 The Grn, Aberdeen AB11 6PE, United Kingdom",
+    "rating": 4.7,
+    "user_ratings_total": 27,
+    "place_id": "ChIJaeIKnjwOhEgRMfu5dQwMgbM",
+    "location": {
+      "lat": 57.1459916,
+      "lng": -2.0996142
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Lintmill Hair & Beauty",
+    "address": "3 Lintmill Terrace, Aberdeen AB16 7SR, United Kingdom",
+    "rating": 4.7,
+    "user_ratings_total": 55,
+    "place_id": "ChIJBzNdOoQRhEgRAbhlko51d5U",
+    "location": {
+      "lat": 57.1662809,
+      "lng": -2.1678594
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Muse",
+    "address": "Unit 15, Dyce Shopping Centre, Riverview Dr, Dyce, Aberdeen AB21 7LW, United Kingdom",
+    "rating": 4.5,
+    "user_ratings_total": 32,
+    "place_id": "ChIJVTLZvk0ShEgRFqKBE_SaL3Q",
+    "location": {
+      "lat": 57.20453089999999,
+      "lng": -2.1764538
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Chinwags",
+    "address": "41 Summerhill Dr, Aberdeen AB15 6EQ, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 34,
+    "place_id": "ChIJj0yu15cRhEgRLT1295HWLTI",
+    "location": {
+      "lat": 57.1506153,
+      "lng": -2.1586701
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Ispiro Estetica Hair & Beauty",
+    "address": "4-6 Schoolhill, Aberdeen AB10 1JX, United Kingdom",
+    "rating": 4.4,
+    "user_ratings_total": 42,
+    "place_id": "ChIJHfHO5jwOhEgR8kAilzG54OA",
+    "location": {
+      "lat": 57.148304,
+      "lng": -2.099563
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hairdressers"
+  },
+  {
+    "name": "Mr Dun Barber Shop",
+    "address": "53 Belmont St, Aberdeen AB10 1JS, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 776,
+    "place_id": "ChIJI0KYNiMOhEgRuoO4tCvMGF4",
+    "location": {
+      "lat": 57.14746599999999,
+      "lng": -2.1021112
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "The Concept Barbers",
+    "address": "54D Chapel St, Aberdeen AB10 1SN, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 257,
+    "place_id": "ChIJPymLND4PhEgRbo21Et70v7Y",
+    "location": {
+      "lat": 57.14509460000001,
+      "lng": -2.1099781
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Bucksburn Barbers",
+    "address": "11 Old Meldrum Rd, Bucksburn, Aberdeen AB21 9AD, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 224,
+    "place_id": "ChIJ40Gn9CMThEgRMLElRtV206o",
+    "location": {
+      "lat": 57.177477,
+      "lng": -2.1703821
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Master Cut Barbers",
+    "address": "89 Holburn St, Aberdeen AB10 6BQ, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 232,
+    "place_id": "ChIJVaFexScOhEgRWZ_iVY8nc8I",
+    "location": {
+      "lat": 57.14071149999999,
+      "lng": -2.1131906
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "The Cave Barber Shop",
+    "address": "52 Victoria Rd, Torry, Aberdeen AB11 9DR, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 789,
+    "place_id": "ChIJMYEn1zYOhEgRVgeKGyjw-Bo",
+    "location": {
+      "lat": 57.1383199,
+      "lng": -2.0888965
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "VIP BARBERS",
+    "address": "54 Great Northern Rd, Aberdeen AB24 3PT, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 107,
+    "place_id": "ChIJm-xc3nAPhEgRfw7X25mj7cE",
+    "location": {
+      "lat": 57.1635219,
+      "lng": -2.115567
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Source Barbers",
+    "address": "68-70 Rosemount Viaduct, Aberdeen AB25 1NU, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 52,
+    "place_id": "ChIJu47Z1kQPhEgRsIGXiPNZP4g",
+    "location": {
+      "lat": 57.1484868,
+      "lng": -2.1089639
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Fresh Fade barber",
+    "address": "8 Rose St, Aberdeen AB10 1UA, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 65,
+    "place_id": "ChIJvaB5bSgPhEgRe0a8Cy0AEow",
+    "location": {
+      "lat": 57.1436095,
+      "lng": -2.1108218
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Union barbers Aberdeen",
+    "address": "47 Union St, Aberdeen AB11 5BN, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 44,
+    "place_id": "ChIJa_VrKQAPhEgRmnqNpv_4EP8",
+    "location": {
+      "lat": 57.1471695,
+      "lng": -2.0961205
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Seleac Barbers",
+    "address": "34 Upperkirkgate, Aberdeen AB10 1BA, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 17,
+    "place_id": "ChIJGd0ORQAPhEgRkV7rTyDpYJo",
+    "location": {
+      "lat": 57.1487432,
+      "lng": -2.0986884
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Native Barbers",
+    "address": "25 St Andrew St, Aberdeen AB25 1BQ, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 29,
+    "place_id": "ChIJoyzAxBsPhEgRr0r_UZSZREs",
+    "location": {
+      "lat": 57.1504632,
+      "lng": -2.1014933
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Chop Barber Shop",
+    "address": "202 Rosemount Pl, Aberdeen AB25 2XQ, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 206,
+    "place_id": "ChIJb2DVN4sRhEgREl160K8QqcM",
+    "location": {
+      "lat": 57.1496339,
+      "lng": -2.1185821
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Below Decks Co",
+    "address": "Altens Hotel, Souter Head Rd, The, Aberdeen AB12 3LF, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 48,
+    "place_id": "ChIJ7UKnOwAPhEgRYkm5NoEcWJI",
+    "location": {
+      "lat": 57.1089157,
+      "lng": -2.0892297
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Hometown Barbers",
+    "address": "28-30 Claremont St, Aberdeen AB10 6RA, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 107,
+    "place_id": "ChIJHfbZg9cRhEgRDaM3VDJDY-U",
+    "location": {
+      "lat": 57.1396952,
+      "lng": -2.1191223
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "KC BARBERS SHOP",
+    "address": "14A Abbotswell Crescent, Aberdeen AB12 5AR, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 27,
+    "place_id": "ChIJM32naAcPhEgRDjpQ7CfdnvY",
+    "location": {
+      "lat": 57.12439389999999,
+      "lng": -2.1042581
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Expert Barbers",
+    "address": "127 Holburn St, Aberdeen AB10 6BP, United Kingdom",
+    "rating": 4.7,
+    "user_ratings_total": 222,
+    "place_id": "ChIJIbxT8KcPhEgR2eBsStqUTMw",
+    "location": {
+      "lat": 57.1398544,
+      "lng": -2.1134955
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Cuts Well Turkish Barber Shop",
+    "address": "2 Deer Park Pl, Aberdeen AB15 8FX, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 43,
+    "place_id": "ChIJe_qiaFsRhEgRRPzWIvYFyI8",
+    "location": {
+      "lat": 57.1331863,
+      "lng": -2.2094854
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Linzi's Barbers",
+    "address": "7 Lintmill Terrace, Aberdeen AB16 7SR, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 49,
+    "place_id": "ChIJt_-aTtRshEgR1IJR4ZnWan0",
+    "location": {
+      "lat": 57.1662903,
+      "lng": -2.1679638
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Hombre Gents Barbers",
+    "address": "66 Beechgrove Terrace, Aberdeen AB15 5HH, United Kingdom",
+    "rating": 4.7,
+    "user_ratings_total": 196,
+    "place_id": "ChIJTfE7At0RhEgRAyPHmJEAzsw",
+    "location": {
+      "lat": 57.1482831,
+      "lng": -2.1284062
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "TOP FADES",
+    "address": "16 Holburn St, Aberdeen AB10 6BT, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 70,
+    "place_id": "ChIJAVtL2x0PhEgRVpUPb4rIFHM",
+    "location": {
+      "lat": 57.1425101,
+      "lng": -2.1122623
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "JR Creations the barber",
+    "address": "94 King St, Aberdeen AB24 5BA, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 30,
+    "place_id": "ChIJPxvJ4bMPhEgRreaoZWIZ38E",
+    "location": {
+      "lat": 57.1502493,
+      "lng": -2.0936977
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "The Ironstone Barber",
+    "address": "20 Great Western Rd, Aberdeen AB10 6PY, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 69,
+    "place_id": "ChIJlWkW9dgPhEgR5DAqt_y61MY",
+    "location": {
+      "lat": 57.14003839999999,
+      "lng": -2.1145313
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "*Prestige Cutz Limited* by Brendan (All haircuts) Barbershop",
+    "address": "611 George St, Aberdeen AB25 3YH, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 43,
+    "place_id": "ChIJOyH6ywwPhEgRxW_z7L5JQpo",
+    "location": {
+      "lat": 57.1565093,
+      "lng": -2.1089678
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "HaZa BarBer",
+    "address": "482 George St, Aberdeen AB25 3XH, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 75,
+    "place_id": "ChIJhVZNAXgPhEgR5Jgn_bkms3c",
+    "location": {
+      "lat": 57.154658,
+      "lng": -2.1065191
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Silver City Turkish Barber",
+    "address": "74 Skene St, Aberdeen AB10 1QE, United Kingdom",
+    "rating": 4.6,
+    "user_ratings_total": 109,
+    "place_id": "ChIJlyaZ2iMOhEgRhMyBCjhNqiM",
+    "location": {
+      "lat": 57.1477136,
+      "lng": -2.1083825
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Victoria’s Barber Shop",
+    "address": "518 George St, Aberdeen AB25 3XJ, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 29,
+    "place_id": "ChIJiU1yxBEPhEgRVFpSpoEAhE0",
+    "location": {
+      "lat": 57.1551385,
+      "lng": -2.1070635
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Bridge St Barber",
+    "address": "11A Bridge St, Aberdeen AB11 6JL, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 112,
+    "place_id": "ChIJ8WAkMxcPhEgRfECl9-JAypU",
+    "location": {
+      "lat": 57.1449772,
+      "lng": -2.101418
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Guild Barber",
+    "address": "26 Guild St, Aberdeen AB11 6NB, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 165,
+    "place_id": "ChIJVaJtMGEPhEgRwwntLXCCJ18",
+    "location": {
+      "lat": 57.14512939999999,
+      "lng": -2.0973168
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "NewMan Barber Shop",
+    "address": "281 Holburn St, Aberdeen AB10 7FN, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 37,
+    "place_id": "ChIJ51d7b5IPhEgRQSNgf01S8PA",
+    "location": {
+      "lat": 57.1363746,
+      "lng": -2.1146409
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Harrietts of Holburn Street",
+    "address": "202 Holburn St, Aberdeen AB10 6DA, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 248,
+    "place_id": "ChIJmTrEe38PhEgRwLPqmwKAju0",
+    "location": {
+      "lat": 57.13842229999999,
+      "lng": -2.1143337
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "The Happy Barber",
+    "address": "535 Great Western Rd, Aberdeen AB10 6PE, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 235,
+    "place_id": "ChIJsb2jeMsRhEgR6QP0mAJ7SrI",
+    "location": {
+      "lat": 57.1312561,
+      "lng": -2.1378268
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Lovett's Barbershop Aberdeen",
+    "address": "9 St Andrew St, Aberdeen AB25 1BQ, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 21,
+    "place_id": "ChIJ3R-gIaoPhEgR5Q2bw7rPeMQ",
+    "location": {
+      "lat": 57.1505796,
+      "lng": -2.101108
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Apo's Turkish Barber Aberdeen",
+    "address": "19 Back Wynd, Aberdeen AB10 1JP, United Kingdom",
+    "rating": 4.4,
+    "user_ratings_total": 132,
+    "place_id": "ChIJ2VJ3xjwOhEgRG-PDg8-Ldpo",
+    "location": {
+      "lat": 57.14753959999999,
+      "lng": -2.1003976
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Blurred Modern Barbering",
+    "address": "498 King St, Aberdeen AB24 5ST, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 13,
+    "place_id": "ChIJ78guZcUPhEgR5a4pUAahBZo",
+    "location": {
+      "lat": 57.16239419999999,
+      "lng": -2.0964461
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Kirkhill Barbers",
+    "address": "17 Old Meldrum Rd, Bucksburn, Aberdeen AB21 9AD, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 86,
+    "place_id": "ChIJs5wDapgThEgRkIepIEm6Nmo",
+    "location": {
+      "lat": 57.17751029999999,
+      "lng": -2.170523
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "TURKISH CROWN BARBER",
+    "address": "16 Crown St, Aberdeen AB11 6HB, United Kingdom",
+    "rating": 4.6,
+    "user_ratings_total": 66,
+    "place_id": "ChIJqd30kyQOhEgR0XxzcDGmLQg",
+    "location": {
+      "lat": 57.144533,
+      "lng": -2.1037485
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Cutting Edge",
+    "address": "306 George St, Aberdeen AB25 1HL, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 141,
+    "place_id": "ChIJFznHEhgOhEgRp7XwS-w5WpA",
+    "location": {
+      "lat": 57.1521893,
+      "lng": -2.1037254
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Samir’s Barber Shop",
+    "address": "270 George St, Aberdeen AB25 1HN, United Kingdom",
+    "rating": 4.6,
+    "user_ratings_total": 129,
+    "place_id": "ChIJKxz7yMAPhEgR3nudwC3fHIc",
+    "location": {
+      "lat": 57.1517642,
+      "lng": -2.103244
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "The Barber Shop",
+    "address": "155 Holburn St, Aberdeen AB10 6BL, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 50,
+    "place_id": "ChIJmaSmOCgOhEgRstBPVH-c-NM",
+    "location": {
+      "lat": 57.13909210000001,
+      "lng": -2.1137502
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Ambition Barbershop",
+    "address": "141 Holburn St, Aberdeen AB10 6BN, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 54,
+    "place_id": "ChIJZ2g98uUPhEgRIel36vYG71k",
+    "location": {
+      "lat": 57.139471,
+      "lng": -2.1136203
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "The Don Barber",
+    "address": "8 Scotstown Rd, Bridge of Don, Aberdeen AB23 8HS, United Kingdom",
+    "rating": 4.5,
+    "user_ratings_total": 150,
+    "place_id": "ChIJM-JydOQNhEgRgsBSOA-cqOw",
+    "location": {
+      "lat": 57.1800153,
+      "lng": -2.0989434
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Kurd barber",
+    "address": "16 Holburn St, Aberdeen AB10 6BT, United Kingdom",
+    "rating": 4.4,
+    "user_ratings_total": 27,
+    "place_id": "ChIJ5TYSkA4PhEgRQeBtsBwyX6s",
+    "location": {
+      "lat": 57.1425057,
+      "lng": -2.1122446
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Marmaris Hair Salon & Turkish Barber Aberdeen",
+    "address": "180 George St, Aberdeen AB25 1HX, United Kingdom",
+    "rating": 4.6,
+    "user_ratings_total": 147,
+    "place_id": "ChIJ3y4qTT0OhEgRuvLWERJ_wiQ",
+    "location": {
+      "lat": 57.1505578,
+      "lng": -2.1018484
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "The Demon Barbers",
+    "address": "159 Victoria St, Dyce, Aberdeen AB21 7DL, United Kingdom",
+    "rating": 4.7,
+    "user_ratings_total": 47,
+    "place_id": "ChIJ31yC160ThEgRRy2YKZ2o7uk",
+    "location": {
+      "lat": 57.2085768,
+      "lng": -2.1888683
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Dylan Barber",
+    "address": "127 Rosemount Pl, Aberdeen AB25 2YH, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 78,
+    "place_id": "ChIJFQgy5mYPhEgRQxzf_sZHUAU",
+    "location": {
+      "lat": 57.14966039999999,
+      "lng": -2.1164238
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Aberdeen City Barber",
+    "address": "30 Union Terrace, Aberdeen AB10 1NN, United Kingdom",
+    "rating": 4.5,
+    "user_ratings_total": 111,
+    "place_id": "ChIJQ-WBCiMOhEgRF4wgTbk0R7s",
+    "location": {
+      "lat": 57.1472451,
+      "lng": -2.1053284
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "OSKAR´S BARBER SHOP",
+    "address": "577 George St, Aberdeen AB25 3XR, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 17,
+    "place_id": "ChIJ6wNZNQAPhEgRx2X7Nyv5Pjo",
+    "location": {
+      "lat": 57.1559754,
+      "lng": -2.1083595
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "The Barbers Pole",
+    "address": "142 Rosemount Pl, Aberdeen AB25 2YU, United Kingdom",
+    "rating": 4.3,
+    "user_ratings_total": 64,
+    "place_id": "ChIJKSXEjN8RhEgRczUkBi3Xg-8",
+    "location": {
+      "lat": 57.1497542,
+      "lng": -2.1171651
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "The 33rd",
+    "address": "398 George St, Aberdeen AB25 1HD, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 54,
+    "place_id": "ChIJjS3ZQhgOhEgR4-LZgxAAm18",
+    "location": {
+      "lat": 57.1533561,
+      "lng": -2.1050776
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Alfa Cuts Rodrigues",
+    "address": "39 Union Terrace, Aberdeen AB10 1NP, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 35,
+    "place_id": "ChIJ_6XQpLMPhEgR6F0D-xWqaVg",
+    "location": {
+      "lat": 57.1474791,
+      "lng": -2.1057285
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Ace Barber",
+    "address": "541 George St, Aberdeen AB25 3XX, United Kingdom",
+    "rating": 4.6,
+    "user_ratings_total": 120,
+    "place_id": "ChIJJbEUFRkOhEgRohJxNBGADVQ",
+    "location": {
+      "lat": 57.1553617,
+      "lng": -2.1076652
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Baba G Turkish Barber",
+    "address": "23 Balnagask Road, Torry, Aberdeen AB11 8HU, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 15,
+    "place_id": "ChIJCZNmArYPhEgRvz9o-xgL0Gs",
+    "location": {
+      "lat": 57.130864,
+      "lng": -2.0892305
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Urban Cutz Ltd",
+    "address": "558 George St, Aberdeen AB25 3XU, United Kingdom",
+    "rating": 4.3,
+    "user_ratings_total": 60,
+    "place_id": "ChIJsS3sURMPhEgRecisd3ah4UE",
+    "location": {
+      "lat": 57.155779,
+      "lng": -2.1077867
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Seaton Barber Shop",
+    "address": "9 School Rd, Aberdeen AB24 1TX, United Kingdom",
+    "rating": 4.7,
+    "user_ratings_total": 37,
+    "place_id": "ChIJU9tk9sAPhEgR_LuSw9AswTs",
+    "location": {
+      "lat": 57.1669896,
+      "lng": -2.0962273
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Rebel lounge",
+    "address": "67 Thistle St, Aberdeen AB10 1UY, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 10,
+    "place_id": "ChIJc38jGn4PhEgR0R_45PLC7Wo",
+    "location": {
+      "lat": 57.1437915,
+      "lng": -2.1132171
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Eclipz Traditional Scottish Barber",
+    "address": "605A King St, Aberdeen AB24 1SA, United Kingdom",
+    "rating": 4.4,
+    "user_ratings_total": 134,
+    "place_id": "ChIJXdeWvQ4OhEgRWay-9pQZtcw",
+    "location": {
+      "lat": 57.1671753,
+      "lng": -2.0970757
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "King Bee Barbers",
+    "address": "27 Clifton Rd, Kittybrewster, Aberdeen AB24 4RZ, United Kingdom",
+    "rating": 4.7,
+    "user_ratings_total": 142,
+    "place_id": "ChIJuTCdUx0OhEgRlG7xNBJcLAc",
+    "location": {
+      "lat": 57.1622577,
+      "lng": -2.1171055
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Pompador",
+    "address": "162 Union Grove, Aberdeen AB10 6SR, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 8,
+    "place_id": "ChIJPfwuC0wRhEgReKqtbA7fjCY",
+    "location": {
+      "lat": 57.1408366,
+      "lng": -2.1199059
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "Vibe Barbers",
+    "address": "365 George St, Aberdeen AB25 1EQ, United Kingdom",
+    "rating": 4.3,
+    "user_ratings_total": 45,
+    "place_id": "ChIJUXNNAf8PhEgRiOrtsdRCXvs",
+    "location": {
+      "lat": 57.1530193,
+      "lng": -2.1050474
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barbers"
+  },
+  {
+    "name": "HQ Barbers",
+    "address": "512 King St, Aberdeen AB24 5ST, United Kingdom",
+    "rating": 4.2,
+    "user_ratings_total": 68,
+    "place_id": "ChIJB9qQ5BEOhEgRvuEpNRsmuMU",
+    "location": {
+      "lat": 57.16286729999999,
+      "lng": -2.0966055
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barber shop"
+  },
+  {
+    "name": "The Barber Shop",
+    "address": "63 Rosemount Viaduct, Aberdeen AB25 1NR, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 27,
+    "place_id": "ChIJhxjP1SMOhEgROiuz01aCiy8",
+    "location": {
+      "lat": 57.14819139999999,
+      "lng": -2.1089931
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barber shop"
+  },
+  {
+    "name": "The barber stop",
+    "address": "Wellington Rd, Aberdeen AB12 3BJ, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 32,
+    "place_id": "ChIJqfE3dx8PhEgRb9gniOCUgrE",
+    "location": {
+      "lat": 57.1177223,
+      "lng": -2.0892222
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barber shop"
+  },
+  {
+    "name": "Supreme Cutz",
+    "address": "208 W Bel Air Ave, Aberdeen, MD 21001, United States",
+    "rating": 4.7,
+    "user_ratings_total": 157,
+    "place_id": "ChIJKxVmRYXBx4kRV8ohO4vZS_M",
+    "location": {
+      "lat": 39.5105716,
+      "lng": -76.1674069
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barber shop"
+  },
+  {
+    "name": "El clasico barber Aberdeen",
+    "address": "27 Union St, Aberdeen AB11 5BP, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 5,
+    "place_id": "ChIJgS-83U4PhEgRIbyBIUdngT8",
+    "location": {
+      "lat": 57.1473618,
+      "lng": -2.0951511
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barber shop"
+  },
+  {
+    "name": "Ace Of Blades",
+    "address": "104 Holburn St, Aberdeen AB10 6BY, United Kingdom",
+    "rating": 4.5,
+    "user_ratings_total": 153,
+    "place_id": "ChIJm0JQ2ycOhEgRRYObOQaGe-Y",
+    "location": {
+      "lat": 57.1403402,
+      "lng": -2.1136783
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barber shop"
+  },
+  {
+    "name": "Route 66 Hair salon",
+    "address": "62 Esslemont Ave, Aberdeen AB25 1SR, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 14,
+    "place_id": "ChIJsXIWdiAOhEgR27Q5r8XVyBk",
+    "location": {
+      "lat": 57.1494087,
+      "lng": -2.1166423
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair salon"
+  },
+  {
+    "name": "Elegance Hair and beauty Salon",
+    "address": "Unit W4, St Nicholas Centre, Bonaccord, Aberdeen AB10 1HZ, United Kingdom",
+    "rating": 4.7,
+    "user_ratings_total": 493,
+    "place_id": "ChIJ6SaDFMEPhEgREcHnl8a1U9g",
+    "location": {
+      "lat": 57.1478425,
+      "lng": -2.0985022
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair salon"
+  },
+  {
+    "name": "Hair by Sheryl",
+    "address": "Fonthill Gardens E, Aberdeen AB11 7US, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 3,
+    "place_id": "ChIJ6_S3tQwPhEgR4hus-MmBgrE",
+    "location": {
+      "lat": 57.1353551,
+      "lng": -2.109518
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair salon"
+  },
+  {
+    "name": "Hair by Aaran at Florescence",
+    "address": "24, 26 Claremont St, Aberdeen AB10 6QS, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 22,
+    "place_id": "ChIJ6_Kb6KYRhEgRxHo8Vwth7e0",
+    "location": {
+      "lat": 57.13984559999999,
+      "lng": -2.1188117
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair salon"
+  },
+  {
+    "name": "The Guest House",
+    "address": "1 Beechgrove Terrace, Rosemount Pl, Aberdeen AB15 5DR, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 9,
+    "place_id": "ChIJFfaNCfYRhEgRtRMtgQ7ecb4",
+    "location": {
+      "lat": 57.1492051,
+      "lng": -2.1234882
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair salon"
+  },
+  {
+    "name": "SEVEN by Tiffany Hair Salon",
+    "address": "5-7 Claremont St, Aberdeen AB10 6QP, United Kingdom",
+    "rating": 4.3,
+    "user_ratings_total": 6,
+    "place_id": "ChIJk9gdvy8RhEgRA2_YXhcnAQ4",
+    "location": {
+      "lat": 57.1399076,
+      "lng": -2.1180302
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair salon"
+  },
+  {
+    "name": "Crystals Hair & Beauty",
+    "address": "288 George St, Aberdeen AB25 1HL, United Kingdom",
+    "rating": 4.7,
+    "user_ratings_total": 13,
+    "place_id": "ChIJTQCt-fsPhEgRKG6HJiqT-v0",
+    "location": {
+      "lat": 57.1519986,
+      "lng": -2.1034689
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair salon"
+  },
+  {
+    "name": "Clifton Salon",
+    "address": "42 Clifton Rd, Aberdeen AB24 4RP, United Kingdom",
+    "rating": 4.6,
+    "user_ratings_total": 32,
+    "place_id": "ChIJg2cWX_0RhEgRJreIkO9UmoA",
+    "location": {
+      "lat": 57.1632352,
+      "lng": -2.1177153
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair salon"
+  },
+  {
+    "name": "Sanchas Hair Studio",
+    "address": "Cornhill Shopping Arcade, 1, Aberdeen AB16 5UT, United Kingdom",
+    "rating": 4.6,
+    "user_ratings_total": 25,
+    "place_id": "ChIJET66tO0RhEgR6-kt7OaQn44",
+    "location": {
+      "lat": 57.1591582,
+      "lng": -2.1421601
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair salon"
+  },
+  {
+    "name": "A & G Hair Design",
+    "address": "31 Ramsay Cres, Aberdeen AB10 7BL, United Kingdom",
+    "rating": 4.6,
+    "user_ratings_total": 14,
+    "place_id": "ChIJJ8Oc9jMQhEgRWkNZuXFcywo",
+    "location": {
+      "lat": 57.1233495,
+      "lng": -2.1365731
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair salon"
+  },
+  {
+    "name": "Kerry Chambers Studio",
+    "address": "Rosemount West End, 30 Hamilton Pl, Aberdeen AB15 4BH, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 19,
+    "place_id": "ChIJdyBUkHkRhEgRw7Uj3cvfxy8",
+    "location": {
+      "lat": 57.1482095,
+      "lng": -2.1245433
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair studio"
+  },
+  {
+    "name": "TAYM Salon",
+    "address": "1 Raeburn Pl, Aberdeen AB25 1PP, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 2,
+    "place_id": "ChIJ1TCRMX4PhEgRKV-rRJbvDmA",
+    "location": {
+      "lat": 57.1493845,
+      "lng": -2.1085528
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair studio"
+  },
+  {
+    "name": "Athena Hair Studio",
+    "address": "3 St Devenicks place, Aberdeen AB15 9LN, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 16,
+    "place_id": "ChIJneM8E1URhEgRwlpcTjwK-yU",
+    "location": {
+      "lat": 57.117731,
+      "lng": -2.1754751
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair studio"
+  },
+  {
+    "name": "Wilks Hair Studio",
+    "address": "13 Huntly St, Aberdeen AB10 1TJ, United Kingdom",
+    "rating": 4.3,
+    "user_ratings_total": 3,
+    "place_id": "ChIJlSEvcCQOhEgRZyyi343ydJk",
+    "location": {
+      "lat": 57.1449981,
+      "lng": -2.1063056
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair studio"
+  },
+  {
+    "name": "Hairdresser Aberdeen - Radoslaw Olas",
+    "address": "76 Rosemount Viaduct, Aberdeen AB25 1NU, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 22,
+    "place_id": "ChIJz-ULk98RhEgR1RQ-JSTol-k",
+    "location": {
+      "lat": 57.1484979,
+      "lng": -2.1091146
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair studio"
+  },
+  {
+    "name": "Sharrons Hair Studio",
+    "address": "unit 3 kincorth shopping arcade, Provost Watt Dr, Aberdeen AB12 5BT, United Kingdom",
+    "rating": 4.8,
+    "user_ratings_total": 23,
+    "place_id": "ChIJjz7artEPhEgREuPTEKgquxA",
+    "location": {
+      "lat": 57.1208093,
+      "lng": -2.1027989
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair studio"
+  },
+  {
+    "name": "Keratin Studio by Eve",
+    "address": "117 Victoria Rd, Torry, Aberdeen AB11 9LX, United Kingdom",
+    "rating": 4,
+    "user_ratings_total": 12,
+    "place_id": "ChIJFQ9WLjYOhEgR5zU43Z9G4BA",
+    "location": {
+      "lat": 57.1370673,
+      "lng": -2.0865274
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair studio"
+  },
+  {
+    "name": "M2 hair aberdeen",
+    "address": "105 Rosemount Pl, Rosemount, Aberdeen AB25 2YG, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 3,
+    "place_id": "ChIJmzZsvzwPhEgRMZcQeQa6EN0",
+    "location": {
+      "lat": 57.1498615,
+      "lng": -2.1152386
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair studio"
+  },
+  {
+    "name": "Desire Hair Company",
+    "address": "81 Rosemount Viaduct, Aberdeen AB25 1NS, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 5,
+    "place_id": "ChIJAZXX2u8PhEgRVYx_yHc3QYc",
+    "location": {
+      "lat": 57.1483776,
+      "lng": -2.1093872
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair studio"
+  },
+  {
+    "name": "Carlanne Meraki",
+    "address": "The Gym, 39 Huntly St, Aberdeen AB10 1TJ, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 8,
+    "place_id": "ChIJoyMZX1oThEgRZQQLWbjAiug",
+    "location": {
+      "lat": 57.14535120000001,
+      "lng": -2.1073153
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair studio"
+  },
+  {
+    "name": "Brilliance Hair Styling",
+    "address": "29 Justice St, Aberdeen AB11 5HS, United Kingdom",
+    "rating": 4.6,
+    "user_ratings_total": 9,
+    "place_id": "ChIJ_yUbMo4PhEgR6PQoZN3EkFs",
+    "location": {
+      "lat": 57.1489223,
+      "lng": -2.0914408
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair studio"
+  },
+  {
+    "name": "Fletts Hair Salon",
+    "address": "53A Huntly St, Aberdeen AB10 1TH, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 1,
+    "place_id": "ChIJVfKJ-CMOhEgR_8DKYwIZ38o",
+    "location": {
+      "lat": 57.1457126,
+      "lng": -2.1082725
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair studio"
+  },
+  {
+    "name": "Cheveux Salon",
+    "address": "19 Diamond St, Aberdeen AB10 1QU, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 4,
+    "place_id": "ChIJ1UG8YyMOhEgRaqK1QszBnB8",
+    "location": {
+      "lat": 57.1460051,
+      "lng": -2.1039178
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair studio"
+  },
+  {
+    "name": "Clover Studio",
+    "address": "Cloverfield Ct, Bucksburn, Aberdeen AB21 9RH, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 2,
+    "place_id": "ChIJieavNdcThEgROXsX3kfz5fU",
+    "location": {
+      "lat": 57.1778397,
+      "lng": -2.1919025
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair studio"
+  },
+  {
+    "name": "The Duchess",
+    "address": "197 Rosemount Pl, Aberdeen AB25 2XP, United Kingdom",
+    "rating": 4.9,
+    "user_ratings_total": 10,
+    "place_id": "ChIJm7vRBLERhEgRWJSp1ereQmM",
+    "location": {
+      "lat": 57.1494569,
+      "lng": -2.1184033
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair studio"
+  },
+  {
+    "name": "Nineteen-seventy-nine",
+    "address": "21a Chattan Pl, Aberdeen AB10 6RB, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 1,
+    "place_id": "ChIJz6xpocERhEgR8dkwr-1zA6s",
+    "location": {
+      "lat": 57.1379309,
+      "lng": -2.1207364
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair studio"
+  },
+  {
+    "name": "Dark fade",
+    "address": "Union St, Aberdeen AB11 6BA, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 10,
+    "place_id": "ChIJNcnavmUPhEgRgpoHaXbKR-8",
+    "location": {
+      "lat": 57.1450026,
+      "lng": -2.1042729
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barber"
+  },
+  {
+    "name": "The fade factory by Alex Aberdeen",
+    "address": "166 Union St, Aberdeen AB10 1QT, United Kingdom",
+    "rating": 4.5,
+    "user_ratings_total": 8,
+    "place_id": "ChIJM7h4DBwPhEgRD_6fnFHEi0g",
+    "location": {
+      "lat": 57.1452293,
+      "lng": -2.1040663
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barber"
+  },
+  {
+    "name": "Barber King",
+    "address": "King St, Aberdeen AB24 5AH, United Kingdom",
+    "rating": 4.5,
+    "user_ratings_total": 12,
+    "place_id": "ChIJ2Z57_RUOhEgRhEyEuZEDUQc",
+    "location": {
+      "lat": 57.152096,
+      "lng": -2.0944979
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barber"
+  },
+  {
+    "name": "pozo Barber 3",
+    "address": "288 George St, Aberdeen AB25 1HL, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 37,
+    "place_id": "ChIJyR2EC-APhEgRNjqQjHWxPrg",
+    "location": {
+      "lat": 57.1519986,
+      "lng": -2.1034689
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barber"
+  },
+  {
+    "name": "The Harbour Barber",
+    "address": "11 Sinclair Rd, Torry, Aberdeen AB11 9PL, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 9,
+    "place_id": "ChIJFU2auTcOhEgRLtN87uo6lNE",
+    "location": {
+      "lat": 57.13839309999999,
+      "lng": -2.0881939
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barber"
+  },
+  {
+    "name": "Santana Barber",
+    "address": "46 Bedford Rd, Aberdeen AB24 3LH, United Kingdom",
+    "rating": 4.7,
+    "user_ratings_total": 33,
+    "place_id": "ChIJQW7qlVcPhEgRX6PpO-lTeGw",
+    "location": {
+      "lat": 57.1612265,
+      "lng": -2.1100834
+    },
+    "business_status": "OPERATIONAL",
+    "type": "barber"
+  },
+  {
+    "name": "Hygge Hair by Ann",
+    "address": "Flat 7, Ladeside, Aberdeen AB22 8BF, United Kingdom",
+    "rating": 5,
+    "user_ratings_total": 4,
+    "place_id": "ChIJoaMuG6gThEgRRjopQ8maxTk",
+    "location": {
+      "lat": 57.1774407,
+      "lng": -2.1223574
+    },
+    "business_status": "OPERATIONAL",
+    "type": "hair"
+  }
+]
