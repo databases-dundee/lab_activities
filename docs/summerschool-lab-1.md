@@ -1,53 +1,40 @@
-# Lab 1 - Desigining an E-R Diagram
+# Lab 1 - Getting started with HTML
 
-This lab is to give you practice in understanding what HTML elements to use to structure the content of an example website.
-
-<img src="erinnit.png" class="first-of-type">
+This lab is to give you practice in understanding what HTML elements to use to structure the content of an example website. As we talked about earlier, your web browser doesn't know what to do with text that isn't wrapped in the right elements!
 
 ## What you need to do
 
-<a href="https://codepen.io/Dan_Rough/pen/RNPdpev">Here's a link</a>
+First, <a href="https://codepen.io/Dan_Rough/pen/QwbopZy" target="_blank">open this CodePen link</a>.
 
-<img src="carpark.jpg" class="floaters">
-Create an E-R model to encompass the following situation:
-- A large organisation has several parking areas, which are used by staff
-- Each parking area has a unique name, location, capacity and number of floors
-- Each parking area has parking spaces, which are uniquely identified by a space number
-- Members of staff can request the use of a parking space; each member of staff has a unique staff number, name and phone extension number
+<img src ="summerschool/codepen.PNG" class="aws">
 
+On the left, in the 'HTML' window, you'll see some text I've written for a blog website with a post. On the right, you can see what this would look like in a web browser - it's a bit of a mess! All the text is clumped together and really doesn't have any structure.
 
-You'll need to think about the following:
-1. What are the **entities** in this scenario?
-2. What **attributes** will these entities have, and what are their types?
-3. Which of these attributes will make a good **Primary Key**?
-4. What kinds of **relationships** will exist between the entities (e.g., one-to-many, many-to-many, one-to-one)
+I'd like you to use the HTML elements I just talked about to give this some correct structure. 
 
-*Note that this description leaves out a lot of details, so you should make your own assumptions about how it should be modelled. These can later be clarified with the client*
+### Headings
+Headings can go from h1 to h6, and are mostly used for introducing new sections of text.
+For example, website titles should usually be in an h1 element, big sections of the site in h2 elements, and any subsections in h3 elements, and so on.
 
-## Tools you can use
+Here's a <a href="https://codepen.io/Dan_Rough/pen/qBQMKeV" target="_blank">link to show how to use headings</a>.
 
-You are not limited to any specific tool, but here are some that I like:
+### Paragraphs
+Text that could be considered 'content' (rather than a heading) should usually be in paragraph elements. Because the browser ignores any spaces in your HTML document, putting text in paragraph elements will give it the correct structure.
 
-- [Microsoft Visio](https://www.microsoft.com/en-gb/microsoft-365/visio/flowchart-software) - Visio is a diagramming application that you should be able to access through your university credentials
-- [diagrams.net](https://app.diagrams.net/) - diagrams.net is similar to Viso - it allows you to create diagrams and flowcharts, and export them in different file formats
-- [Visual Paradigm](https://www.visual-paradigm.com/) - Visual Paradigm is a more advanced tool that you should be able to access through Apps Anywhere (the university has a subscription so you don't have to pay for it yourself)
-- [Miro](https://www.miro.com) - Miro is an online workspace application that includes tools for diagramming and flowcharts.
-- [MySQL Workbench](https://www.mysql.com/products/workbench/) - this is the application we'll be using over the next couple of weeks so it's a good idea to get familiar with it anyway.
+Here's a <a href="https://codepen.io/Dan_Rough/pen/dPoreOJ" target="_blank">link to a couple of example paragraphs</a>.
 
-You're also free to use anything else such as PowerPoint or pen and paper!
+### Lists
+Remember that lists can be ordered (with numbers) or unordered (with bullet points).
+
+Here's a <a href="https://codepen.io/Dan_Rough/pen/YPXBBjy" target="_blank">link to my lists example</a>.
+
+### Quotes
+To include quotes in a document, the 'blockquote' element is used, along with the 'cite' element to indicate who wrote it and where it was written.
+
+Here's the <a href="https://codepen.io/Dan_Rough/pen/YPXgWgE" target="_blank">link to the CodePen showing how quotes work</a>.
 
 ## Anything to submit?
-There's no mandatory submission here, but since we're not actually together for this lab today (:frowning_face:), please do email your diagram to me at drough001@dundee.ac.uk if you want some feedback!
+There's no mandatory submission here, but I'll be going around the lab and checking in on everyone. If you would like some feedback that I didn't give during the lab, please email me at drough001@dundee.ac.uk!
 
 ## Anything else?
-<img src="uni.jpg" class="floaters">
-
 If you're done with that and want some more practice (it's all helpful for your first assignment!), try the following:
-
-
-Create an E-R model to encompass the following situation:
-- A university requires a database to store information about its applicants, current students and graduates; this will be accessible to both staff and students
-- Students are associated with a single programme of study which consists of a number of modules
-- The modules may form part of multiple programmes
-- The modules are taught by one (or multiple) members of staff
-- Timetabling and room allocation is being done separately so does not need to be included
