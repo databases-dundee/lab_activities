@@ -10,7 +10,7 @@ First, <a href="https://codepen.io/Dan_Rough/pen/QwbopZy" target="_blank">open t
 
 On the left, in the 'HTML' window, you'll see some text I've written for a blog website with a post. On the right, you can see what this would look like in a web browser - it's a bit of a mess! All the text is clumped together and really doesn't have any structure.
 
-I'd like you to use the HTML elements I just talked about to give this some correct structure. 
+I'd like you to use the HTML elements I just talked about to give this some correct structure. There is no **absolutely correct** way of doing this, but you should think about which of the elements I talked about earlier would be best for the different bits of text.
 
 ### Headings
 Headings can go from h1 to h6, and are mostly used for introducing new sections of text.
@@ -36,5 +36,11 @@ Here's the <a href="https://codepen.io/Dan_Rough/pen/YPXgWgE" target="_blank">li
 ## Anything to submit?
 There's no mandatory submission here, but I'll be going around the lab and checking in on everyone. If you would like some feedback that I didn't give during the lab, please email me at drough001@dundee.ac.uk!
 
-## Anything else?
-If you're done with that and want some more practice (it's all helpful for your first assignment!), try the following:
+## What else?
+If you're done with that and want some more practice, try the following:
+
+1. Add a link to a different page into the blog post. The 'Hyper Text' part of HTML refers to the fact that we can have links one from web page to another. Look at <a href="https://codepen.io/Dan_Rough/pen/YPXgLBR" target="_blank">this Codepen</a> to see how this might work. What does the 'target="_blank" do?
+
+2. Add an image to the page! Without images, the web would be a bit boring. Have a look at <a href="https://codepen.io/Dan_Rough/pen/gbpEKXa" target="_blank">this Codepen</a> to see how an image can be included in a web page using HTML. The 'src' attribute should be the address of an image on the web (next time we'll look at setting up a structure where images can be stored in the same place as our HTML)
+
+3. Add your own post that is about you, not me! This can take any form you like - it doesn't have to mirror mine.
