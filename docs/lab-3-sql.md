@@ -80,3 +80,31 @@ it's just to practise your ability to work with SQL! The questions are as follow
 7. Name one of any two of the countries with the most official languages (according to the dataset, anyway). You'll likely need a very similar query to the previous question.
 
 8. What is the most populated city in a country with Arabic as an official language (this is a difficult one that requires all three tables and possibly a nested subquery!)
+
+db.advertisement.aggregate([
+ {
+ $match: { platform: "TikTok" }
+ },
+ {$lookup: {
+ from: "Products",
+ localField: "product_ID",
+ foreignField: "product_ID",
+ as: "product_details"
+ }
+ },
+ {
+ $unwind: "$product_details"
+ },
+ {
+ $project: {
+ _id: 0,
+ "product_details.name": 1,
+ "product_details.type": 1,
+ "product_details.price_per_g": 1,
+ "product_details.thc%": 1,
+ platform: 1
+ }
+ }
+])
+
+db.posts.findOne({postID:"0acc3bc2-d156-4497-8c3f-24d1c320e416"}).comments.length

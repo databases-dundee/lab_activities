@@ -64,6 +64,13 @@ img.awssmallest {
     margin-left: auto;
     margin-right: auto;
 }
+img.awstiny {
+    display:block;
+    float: none;
+    width:30%;
+    margin-left: auto;
+    margin-right: auto;
+}
 img.left{
     margin-left:10px;
 }

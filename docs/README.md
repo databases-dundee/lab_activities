@@ -7,3 +7,4 @@ These are the lab activities for the Database Systems module. More will be added
 
 [Week 4 Lab](lab-4-injection.md) - An overview of how SQL injection can be done and how to avoid it
 
+[Week 6 Lab](lab-5-mongodb.md) - An introduction to MongoDB and writing basic queries

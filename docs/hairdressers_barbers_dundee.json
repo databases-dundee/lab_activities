@@ -302,6 +302,7 @@
     "name": "Dhair Salon",
     "address": "4 St Andrew's St, Dundee DD1 2EX, United Kingdom",
     "rating": 5,
+    "wordplay": true,
     "user_ratings_total": 13,
     "place_id": "ChIJCdTVwutchkgRobOiGgfp4iE",
     "location": {
@@ -484,6 +485,7 @@
     "name": "One Cut Above",
     "address": "74 Albert St, Dundee DD4 6QH, United Kingdom",
     "rating": 5,
+    "wordplay": true,
     "user_ratings_total": 3,
     "place_id": "ChIJY0t1EPBchkgRdk35Dio-2rI",
     "location": {
@@ -874,6 +876,7 @@
     "name": "Hair Force Barber",
     "address": "28 Ogilvie St, Dundee DD4 6SE, United Kingdom",
     "rating": 5,
+    "wordplay": true,
     "user_ratings_total": 52,
     "place_id": "ChIJ5RgVuFBdhkgR18PqSTBoGcs",
     "location": {
@@ -1836,6 +1839,7 @@
     "name": "O’Hair By Jodie",
     "address": "218 Blackness Rd, Dundee DD2 1RG, United Kingdom",
     "rating": 0,
+    "wordplay": true,
     "user_ratings_total": 0,
     "place_id": "ChIJ2zfIOwpdhkgRX-CZLK_ENro",
     "location": {
