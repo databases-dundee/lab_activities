@@ -6,7 +6,7 @@ When we are creating web pages it is good practice to use semantic web elements 
 
 ## What you need to do
 
-First, <a href="https://codepen.io/Dan_Rough/pen/QwbopZy" target="_blank">open this CodePen link</a>.
+First, <a href="https://codepen.io/Dan_Rough/pen/xbGNVrW" target="_blank">open this CodePen link</a>.
 
 In this activity, I would like you to attempt to add semantic tags to a pre-existing webpage. Have a look at the CSS window, you will see that I have set up style rules for the different semantic element types. These rules (which we'll cover very soon) are there to give colour to the different sections. I've also changed the font to Arial for all the elements.
 
