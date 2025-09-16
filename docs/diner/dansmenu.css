@@ -1,0 +1,59 @@
+/*
+F1DAC4 - light
+A69CAC
+474973
+161B33
+0D0C1D - Dark
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&family=Urbanist:ital,wght@0,100..900;1,100..900&display=swap');
+
+body{
+  background-color: #474973;
+}
+
+#menu{
+  background-color: #F1DAC4;
+  width: 50%;
+  margin: auto;
+  padding: 20px;
+}
+
+h1,h2{
+  font-family: "Luckiest Guy",cursive;
+  color: #2d3c83;
+  text-align: center;
+}
+h2{
+  border-bottom-style:dashed;
+  border-width: 4px;
+  border-color: #474973;
+
+}
+h1{
+  font-size: 50px;
+  margin-bottom: 0px;
+}
+
+/*Pushing the dish title/description together*/
+.dish-title, .dish-description{
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.dish-description{
+  font-style:italic;
+}
+section {
+  font-family: "Urbanist",cursive;
+  color: #2d3c83;
+  background-color: #efe3f7;
+  padding: 10px;
+  text-align: center;
+  margin-bottom: 30px;
+  border-radius: 30px;
+}
+/* Styling the food icons*/
+.fa-solid{
+  padding: 10px;
+}
