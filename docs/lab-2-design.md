@@ -35,7 +35,7 @@ You are not limited to any specific tool, but here are some that I like:
 You're also free to use anything else such as PowerPoint or pen and paper!
 
 ## Anything to submit?
-There's no mandatory submission here, but since we're not actually together for this lab today (:frowning_face:), please do email your diagram to me at drough001@dundee.ac.uk if you want some feedback!
+There's no mandatory submission here, but please do email your diagram to me at drough001@dundee.ac.uk if you want some feedback!
 
 ## Anything else?
 <img src="uni.jpg" class="floaters">
