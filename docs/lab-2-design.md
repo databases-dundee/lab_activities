@@ -28,7 +28,6 @@ You are not limited to any specific tool, but here are some that I like:
 
 - [Microsoft Visio](https://www.microsoft.com/en-gb/microsoft-365/visio/flowchart-software) - Visio is a diagramming application that you should be able to access through your university credentials
 - [diagrams.net](https://app.diagrams.net/) - diagrams.net is similar to Viso - it allows you to create diagrams and flowcharts, and export them in different file formats
-- [Visual Paradigm](https://www.visual-paradigm.com/) - Visual Paradigm is a more advanced tool that you should be able to access through Apps Anywhere (the university has a subscription so you don't have to pay for it yourself)
 - [Miro](https://www.miro.com) - Miro is an online workspace application that includes tools for diagramming and flowcharts.
 - [MySQL Workbench](https://www.mysql.com/products/workbench/) - this is the application we'll be using over the next couple of weeks so it's a good idea to get familiar with it anyway.
 
