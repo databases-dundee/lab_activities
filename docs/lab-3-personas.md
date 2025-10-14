@@ -3,7 +3,7 @@ Good morning!
 
 While I've mentioned that the usefulness of personas depend on doing user research to base these personas on 'real users', we can also develop [ad-hoc personas](https://jnd.org/ad-hoc-personas-empathetic-focus/), also known as [proto-personas](https://www.nngroup.com/articles/persona-types/), without any new user research. These are based on your own existing knowledge and assumptions.
 
-<img src="persona.png" class="awssmaller">
+<img src="persona.PNG" class="awssmaller">
 
 The purpose of a persona is to build **empathy** with potential users. By focusing on archetypes of typical user groups, rather than just the amorphous concept of "users", the intention is that personas will give your group a focus in deciding on important design decisions, rather than just a wish-list of features that **you** think are important.
 
@@ -17,7 +17,7 @@ The purpose of a persona is to build **empathy** with potential users. By focusi
 
 It doesn't have to be an 'app' as such - just any website or application that different people are likely to use in different ways. For example, YouTube, a shopping site (Amazon, Tesco, Vinted, etc), a social media app, even something like Grammarly, which currently appears on every second YouTube ad shoving its new "AI to improve your grades" crap in my face.
 
-<img src="grammarly.png" class="awssmaller">
+<img src="grammarly.PNG" class="awssmaller">
 
 3. Now consider the types of users that your application attracts. You can think of yourself, friends, family members, or just make assumptions - at this stage, assumptions are fine. These can always be challenged later after talking to real people (not that you aren't real, I'm sure you are, but **other** real people).
 
@@ -37,7 +37,7 @@ What about Facebook? You have the regular poster, the scroller, the person const
 ## Once you're done
 5. Please [share your personas here!](https://miro.com/app/board/uXjVJ6Zd46Y=/?share_link_id=273380783271) It's not a competition - I just think it's good for everyone to share ideas at this early stage of the project. 
 
-<img src="protomiro.png" class="awssmaller">
+<img src="protomiro.PNG" class="awssmaller">
 
 
 ## Anything else?
