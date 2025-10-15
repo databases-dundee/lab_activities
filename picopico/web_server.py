@@ -10,7 +10,16 @@ ssid = 'Galaxy A20e5604'
 password = 'ndja1086'
 
 led = Pin(13,Pin.OUT)
+temp =ADC(Pin(26))
 temp_sensor = ADC(4)
+
+def readTemp():
+    value = temp.read_u16()
+    print("Potentiometer Value:", value)
+    volts = value * (3.3/65536)
+    degC = (100*volts)-50
+    print("Celsius is: ",degC)
+    #[(Vout in mV) - 500] / 10
 
 def read_internal_temperature():
     # Read the raw ADC value
@@ -91,6 +100,7 @@ def serve(connection):
         request = client.recv(1024)
         request = str(request)
         print(request)
+        readTemp()
         temperature = read_internal_temperature()
         html = webpage(temperature,state)
         try:
@@ -109,6 +119,7 @@ def serve(connection):
             sys.exit()
         html = webpage(temperature,state)
         client.send(html)
+        
         client.close()
 
 ip = connect()
