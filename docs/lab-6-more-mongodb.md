@@ -56,7 +56,7 @@ Okay, it's updated 30 documents, which is reassuring, because that's how many th
 Oh good. You can check the rest if you want, but if tells you that 30 were updated then all should be well! 
 
 ## Working with arrays
-You might have noticed that both of the collections' documents now have an array field - the documents in 'modules' have a 'teaching_staff' array, and the documents in 'students' have a 'modules' array.
+You might have noticed that both of the collections' documents now have an array (list) field - the documents in 'modules' have a 'teaching_staff' array, and the documents in 'students' have a 'modules' array.
 
 <img src="mongo/mungo9.PNG" class="aws left">
 
@@ -76,7 +76,7 @@ of teaching staff to find.
 Similarly, if we want to find the modules taught by **either** Bob Miller **or** Isaac Miller, we can use `$in` for that in the same way. Try this, and check that it returns three modules where either Bob Miller or Isaac Miller are listed as teaching staff.
 
 ## Back to aggregations
-I gave a bit of info about the aggregation pipeline on Wednesday - basically it's a sequence of data manipulations that allows for some more complex query potential than with the 'find()' function. Let's have a look at this with our existing dataset.
+I gave a bit of info about the aggregation pipeline on Monday - basically it's a sequence of data manipulations that allows for some more complex query potential than with the 'find()' function. Let's have a look at this with our existing dataset.
 
 ### $match
 
