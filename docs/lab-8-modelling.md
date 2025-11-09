@@ -153,7 +153,7 @@ db.posts.aggregate([{
 If you run this, you should now have a 'recentComments' array in your post with the three most recent comments in order of recentness. Congratulations! This is the Subset Pattern, where we keep a subset of the most important things from another collection, to prevent us having to embed all of them. Have a look at the extra stages in the pipeline - the `$sort` sorts the comments by date in descending order, and the `$limit` limits it to the most three recent comments.
 
 ## The Polymorphic Pattern
-One of the nice things about MongoDB is what we call **polymorphic data**. You might have come across polymorphism in your previous modules - it basically means that we can treat things that are slightly different in the same way. Because we don't need the same fields in every document in our collection, this means we can store things together if we have more similarities than differences.
+One of the nice things about MongoDB is what we call **polymorphic data** - it basically means that we can treat things that are slightly different in the same way. Because we don't need the same fields in every document in our collection, this means we can store things together if we have more similarities than differences.
 
 Let's create a **likes** collection to store the likes of each of our posts (actually there's only one, but that'll do for now).
 
@@ -208,18 +208,16 @@ db.posts.aggregate( [
 This will find the total number of likes, loves, celebrations, etc. of our post, and merge it into the post document! Notice that the 'likes' attribute I originally had is now a bit redundant, so it can be removed. 
 
 ## Over to you
-There isn't a quiz this week, because schema design isn't an exact science and largely depends on what the use case of your database is and the queries you will want to run <sub><sup>(and because it's Friday 3am and I really need to sleep)</sup></sub> but here are some things I'd like you to think about + suggestions for your assignment.
+There isn't a quiz this week, because schema design isn't an exact science and largely depends on what the use case of your database is and the queries you will want to run, but here are some things I'd like you to think about + suggestions for your assignment.
 
 1. How big is your database potentially going to be? Whether it's a social media app, an e-commerce app, an IoT system, a content management system, a gaming app, a logistics/supply chain app, or anything else you can think of, how many of each thing will you need to store, and how will this affect your design? If you're expecting 100s vs 1,000,000s of users, this will change whether things should be embedded or referenced, or a hybrid of the two. 
 
-2. What kind of indexes will be best for your app? For example, if we're frequently returning a user's most recent posts, what index would we need on the `posts` collection? What if posts had hashtags and we wanted to see trending topics? This will all be based on the most frequent queries you expect to run.
+2. What values should be pre-computed? This could be the number of friends/followers, average product ratings, remaining seats for an event, max/min/average temperature at a location, the total revenue of a product, or any other value that would be useful to know without having to constantly run a query on it every time.
 
-3. What values should be pre-computed? This could be the number of friends/followers, average product ratings, remaining seats for an event, max/min/average temperature at a location, the total revenue of a product, or any other value that would be useful to know without having to constantly run a query on it every time.
+3. I would strongly suggest having a read of the [MongoDB Schema Design Documentation]{https://www.mongodb.com/docs/manual/data-modeling/schema-design-process/}. This is where I've learned much of what I've included in this lab! It includes design patterns, anti-patterns, and general best practices.
 
-4. I would strongly suggest having a read of the [MongoDB Schema Design Documentation]{https://www.mongodb.com/docs/manual/data-modeling/schema-design-process/}. This is where I've learned much of what I've included in this lab! It includes design patterns, anti-patterns, and general best practices.
+4. Much as I am sceptical about Generative AI (and you should be too), it's really useful for generating data once you've decided on your schema design! I don't want you to generate thousands of documents for your collections, but you should populate them with enough documents to showcase the type of queries that you'll be running.
 
-5. Much as I am sceptical about Generative AI (and you should be too), it's really useful for generating data once you've decided on your schema design! I don't want you to generate thousands of documents for your collections, but you should populate them with enough documents to showcase the type of queries that you'll be running.
+5. Whatever you decide upon, the most important thing is that you can justify it in your report. If you're embedding stuff, tell me why. If you're referencing stuff, tell me why. If you've made a collection for something, tell me why. You get the idea.
 
-6. Whatever you decide upon, the most important thing is that you can justify it in your report. If you're embedding stuff, tell me why. If you're referencing stuff, tell me why. If you've made a collection for something, tell me why. You get the idea.
-
-7. Although we're going against the idea of a relational model, it can still be very useful to sketch out an ER diagram of your entities, attributes, and the relationship types (1-to-1, 1-to-many, many-to-many) that you'll need (like the one I included at the top of this lab - it helped me quite a bit!)
+6. Although we're going against the idea of a relational model, it can still be very useful to sketch out an ER diagram of your entities, attributes, and the relationship types (1-to-1, 1-to-many, many-to-many) that you'll need (like the one I included at the top of this lab - it helped me quite a bit!)
