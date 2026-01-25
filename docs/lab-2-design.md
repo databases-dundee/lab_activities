@@ -29,7 +29,7 @@ You are not limited to any specific tool, but here are some that I like:
 
 - [draw.io](https://app.diagrams.net/) - draw.io is a lovely tool that allows you to create diagrams and flowcharts, and export them in different file formats
 - [Miro](https://www.miro.com) - Miro is an online workspace application that includes tools for diagramming and flowcharts.
-- **PowerPoint** - It's surprisingly good for doing this sort of thing! I made all the lecture diagrams with it, so you could do far worse.
+- [PowerPoint](https://powerpoint.cloud.microsoft/) - It's surprisingly good for doing this sort of thing! I made all the lecture diagrams with it, so you could do far worse.
 - [MySQL Workbench](https://www.mysql.com/products/workbench/) - this is the application we'll be using over the next couple of weeks. Bit of a pain to get working so probably don't bother. tbh I don't know why I even put it in this list. We'll use it next week so honestly don't bother.
 
 Pen and paper is really good too! Icing/ketchup/blood/cheddar are poor choices and should only be used in an emergency.
