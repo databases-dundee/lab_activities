@@ -26,12 +26,13 @@ You'll need to think about the following:
 
 You are not limited to any specific tool, but here are some that I like:
 
-- [Microsoft Visio](https://www.microsoft.com/en-gb/microsoft-365/visio/flowchart-software) - Visio is a diagramming application that you should be able to access through your university credentials
-- [diagrams.net](https://app.diagrams.net/) - diagrams.net is similar to Viso - it allows you to create diagrams and flowcharts, and export them in different file formats
-- [Miro](https://www.miro.com) - Miro is an online workspace application that includes tools for diagramming and flowcharts.
-- [MySQL Workbench](https://www.mysql.com/products/workbench/) - this is the application we'll be using over the next couple of weeks so it's a good idea to get familiar with it anyway.
 
-You're also free to use anything else such as PowerPoint or pen and paper!
+- [draw.io](https://app.diagrams.net/) - draw.io is a lovely tool that allows you to create diagrams and flowcharts, and export them in different file formats
+- [Miro](https://www.miro.com) - Miro is an online workspace application that includes tools for diagramming and flowcharts.
+- **PowerPoint** - It's surprisingly good for doing this sort of thing! I made all the lecture diagrams with it, so you could do far worse.
+- [MySQL Workbench](https://www.mysql.com/products/workbench/) - this is the application we'll be using over the next couple of weeks. Bit of a pain to get working so probably don't bother. tbh I don't know why I even put it in this list. We'll use it next week so honestly don't bother.
+
+Pen and paper is really good too! Icing/ketchup/blood/cheddar are poor choices and should only be used in an emergency.
 
 ## Anything to submit?
 There's no mandatory submission here, but please do email your diagram to me at drough001@dundee.ac.uk if you want some feedback!
