@@ -1,6 +1,6 @@
 # Lab 1 - Desigining an E-R Diagram
 
-Good morning*! This lab is to give you practice in designing a relational database, and drawing an entity-relationship (E-R) diagram to represent this design. It's not much fun but it isn't that hard either, and it's important I promise.
+Good morning*! This lab is to give you practice in designing a relational database, and drawing an entity-relationship (E-R) diagram to represent this design. It's not much fun but it isn't that hard either, and it's important I promise :heart:.
 
 <img src="erinnit.png" class="first-of-type">
 
