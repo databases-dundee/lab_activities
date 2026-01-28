@@ -1,16 +1,15 @@
 # Lab 1 - Desigining an E-R Diagram
 
-This lab is to give you practice in designing a relational database, and drawing an entity-relationship (E-R) diagram to represent this design.
+Good morning*! This lab is to give you practice in designing a relational database, and drawing an entity-relationship (E-R) diagram to represent this design. It's not much fun but it isn't that hard either, and it's important I promise.
 
 <img src="erinnit.png" class="first-of-type">
 
 ## What you need to do
-
 <img src="carpark.jpg" class="floaters">
-Create an E-R model to encompass the following situation:
-- A large organisation has several parking areas, which are used by staff
-- Each parking area has a unique name, location, capacity and number of floors
-- Each parking area has parking spaces, which are uniquely identified by a space number
+Design an E-R diagram to model the following situation:
+- A large organisation has several car parks, which are used by staff
+- Each car park has a unique name, location, capacity and number of floors
+- Each car park has parking spaces, which are uniquely identified by a space number
 - Members of staff can request the use of a parking space; each member of staff has a unique staff number, name and phone extension number
 
 
@@ -20,19 +19,19 @@ You'll need to think about the following:
 3. Which of these attributes will make a good **Primary Key**?
 4. What kinds of **relationships** will exist between the entities (e.g., one-to-many, many-to-many, one-to-one)
 
-*Note that this description leaves out a lot of details, so you should make your own assumptions about how it should be modelled. These can later be clarified with the client*
+*This description leaves out quite a bit of detail, so you should make your own assumptions about how it should be modelled.*
 
-## Tools you can use
+## Things you can use to make the diagram
 
-You are not limited to any specific tool, but here are some that I like:
+You can use whatever you like really, but here are some good things:
 
 
 - [draw.io](https://app.diagrams.net/) - draw.io is a lovely tool that allows you to create diagrams and flowcharts, and export them in different file formats
 - [Miro](https://www.miro.com) - Miro is an online workspace application that includes tools for diagramming and flowcharts.
-- [PowerPoint](https://powerpoint.cloud.microsoft/) - It's surprisingly good for doing this sort of thing! I made all the lecture diagrams with it, so you could do far worse.
-- [MySQL Workbench](https://www.mysql.com/products/workbench/) - this is the application we'll be using over the next couple of weeks. Bit of a pain to get working so probably don't bother. tbh I don't know why I even put it in this list. We'll use it next week so honestly don't bother.
+- [PowerPoint](https://powerpoint.cloud.microsoft/) - I made all the lecture diagrams with it, so you could do far worse, although draw.io and Miro are probably better.
+- [Pen and paper](https://www.amazon.co.uk/paper-pens/s?k=paper+and+pens) - Pen and paper is really good! Don't make it too scribbly though or I won't be able to read it.
 
-Pen and paper is really good too! Icing/ketchup/blood/cheddar are poor choices and should only be used in an emergency.
+Icing/ketchup/blood/cheddar are poor choices and should only be used in an emergency. If that sounds like a weird thing to say it's because you weren't at the lecture on Monday. To be fair it's a weird thing to say anyway.
 
 ## Anything to submit?
 There's no mandatory submission here, but please do email your diagram to me at drough001@dundee.ac.uk if you want some feedback!
@@ -49,3 +48,8 @@ Create an E-R model to encompass the following situation:
 - The modules may form part of multiple programmes
 - The modules are taught by one (or multiple) members of staff
 - Timetabling and room allocation is being done separately so does not need to be included
+
+---
+<div style="font-size:11px">
+*There is actually no such thing as a good morning. All classes before noon are inherently bad and I am sorry it has to be this way.
+</div>
