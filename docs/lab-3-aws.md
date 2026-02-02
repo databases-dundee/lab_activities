@@ -1,8 +1,6 @@
 # Lab 2 - Setting up an SQL database with AWS
 
-This is a guide to setting up a database on AWS that can store your MySQL database in the cloud! You should have received an email with instructions on creating your AWS Learner Lab account. Once you've logged in and connected to the Learner Lab, there are quite a few steps to go through, but hopefully this step-by-step guide helps you along! I've made this video where I walk through it too, which might be helpful.
-
-<iframe src="https://dundee.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=a0d4537d-2a4b-4b86-b5d3-b271016fa506&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&start=0&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Setting up an AWS Database - Made with Clipchamp" ></iframe>
+This is a guide to setting up a database on AWS that can store your MySQL database in the cloud! You should have received an email with instructions on creating your AWS Learner Lab account. Once you've logged in and connected to the Learner Lab, there are quite a few steps to go through, but hopefully this step-by-step guide helps you along!
 
 ## Step 1 - Launch the AWS Learner Lab
 <hr/>
