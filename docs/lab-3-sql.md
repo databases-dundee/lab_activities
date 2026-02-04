@@ -76,15 +76,15 @@ I've written a quiz in MyDundee that I'd like you to try and answe<span style="c
 8. What is the most populated city in a country with Arabic as an official language (this is a difficult one that requires all three tables and possibly a ne<span style="color:red">s</span>ted subquery!)
 
 ---
-<div style="font-size:11px">
+<div style="font-size:13px">
 *Fun Fact! Switzerland's country code is CHE (and CH on number plates) because it stands for Confoederatio Helvetica, the Latin name for the Swiss Confederation!
 </div>
 
-<div style="font-size:11px">
+<div style="font-size:13px">
 **Another Fun Fact! The most linguistically diverse country in the world is Papua New Guinea, with approximately 840 living languages! Papua New Guinea is not the answer though - this dataset says it has 2 official languages but that is a big wrong. 
 </div>
 
-&nbsp
+---
 <div style="font-size:8px;">
 A puzzle with a prize that once again I haven't figured out and haven't given to last week's winner. Svaq gur erq punenpgref naq erneenatr gurz gb znxr n pnxr (gjb jbeqf - rvtug naq svir punenpgref rnpu). Jurer qbrf guvf pnxr bevtvangr sebz? Svefg pbeerpg erfcbafr jvaf na hafcrpvsvrq cevmr!
 </div>
