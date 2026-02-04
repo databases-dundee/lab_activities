@@ -1,6 +1,6 @@
 # Lab 2 - SQL Practice
 
-Goooood morning! This lab is to give you <span style="color:red">p</span>ractice in connecting to a sample SQL database and running some basic SQL queries on it
+Goooood morning! This lab is to give you <span style="color:red">p</span>ractice in connecting to a sample SQL database and running some basic SQL queries on it.
 ![The data model for the 'world database' from MySQL](countriesdb.PNG)
 
 ## What you need to do
@@ -21,7 +21,7 @@ Learner Lab Database Setup Instructions](lab-3-aws.md)
 World.SQL that you downloaded. This is a database populated with all the world's countries, their cities,
 and languages spoken.
 4. Now run the script by clicking the lightning flash icon on the toolbar to populate your
-database (i<span style="color:red">t</span> might take a bit of time - there are a **lot** of cities in the world!)
+database (i<span style="color:red">t</span> might take a good few minutes - I was shocked to find that there are actually a lot of cities in the world)
 
 ## Let's look at the SQL!
 There are a few features to note:
@@ -34,13 +34,12 @@ these statements are executed, or **none** of them are - this is the concept of 
 cover next week.
 
 ## Try some queries
-The database design is shown in the above image - it's quite simple, consisting of <span style="color:red">o</span>nly three tables, but
-there are plenty of interesting queries we can run on it! (To be fair they're only interesting if you're a geography nerd like me and if you're not then I'm so sorry).
+The database design is shown in the above image - it's quite simple, consisting of <span style="color:red">o</span>nly three tables, but there are plenty of interesting queries we can run on it! (To be fair they're only interesting if you're a geography nerd like me and if you're not then I'm so sorry).
 
-Click the leftmost icon in the toolbar (SQL+) to open a new query window (leave the previously
+Click the leftmost icon in the toolbar (SQL+) to open a new query window (best to leave the previously
 loaded query where it is - you'll need it again).
 
-Let's start by finding out what languages are spoken in Switzerland (idk why but I'd always wondered). In this <span style="color:red">c</span>ase, the country code for Switzerland
+Let's start by finding out what languages are spoken in Switzerland (haven't you often wondered? I have). In this <span style="color:red">c</span>ase, the country code for Switzerland
 is "CHE"*, so we need to do something like this:
 
 `SELECT * FROM countrylanguage WHERE CountryCode = "CHE";`
@@ -62,26 +61,30 @@ I've written a quiz in MyDundee that I'd like you to try and answe<span style="c
 
 1. How many countries have a life expectancy of higher than 80?
 
-2. Rounding to the nearest 1,000, what is the **average** population of Scottish cities?
+2. Rounding to the nearest 1,000, what is the **average** population of Scottish cities? (You don't have to do the rounding calculation in the query, but fair play if you do).
 
-3. Which country is the most recent <span style="color:red">i</span>n the Americas to achieve independence? (YOu might want to use the **LIKE** and **ORDER BY** operators here.)
+3. Which country is the most recent <span style="color:red">i</span>n the Americas to achieve independence? (You might want to use the **LIKE** and **ORDER BY** operators here. Or you might not. I suppose it depends if you want to get the answer right.)
 
 4. How many countries have a capital city beginning with D? (Hint, you'll likely need a **JOIN** and the **LIKE** operator too).
 
 5. Which region of the world has the largest cumulativ<span style="color:red">e</span> population? (Hint, a **GROUP BY** would be useful here.)
 
-6. Which country has the highest number of cities (and how many)?
+6. Which country has the biggest number of cities (and how many)?
 
-7. Name one of any two of the countries with the most official languages (according to the dataset, anyway). You'll likely need a very similar query to the previous question.
+7. Name one of any two of the countries with the most official languages (according to the dataset, anyway**). You'll likely need a very similar query to the previous question.
 
 8. What is the most populated city in a country with Arabic as an official language (this is a difficult one that requires all three tables and possibly a ne<span style="color:red">s</span>ted subquery!)
 
 ---
 <div style="font-size:11px">
-*Fun fact! Switzerland's country code is CHE (and CH on number plates) because it stands for Confoederatio Helvetica, the Latin name for the Swiss Confederation!
+*Fun Fact! Switzerland's country code is CHE (and CH on number plates) because it stands for Confoederatio Helvetica, the Latin name for the Swiss Confederation!
+</div>
+
+<div style="font-size:11px">
+**Another Fun Fact! The most linguistically diverse country in the world is Papua New Guinea, with approximately 840 living languages! Papua New Guinea is not the answer though - this dataset says it has 2 official languages but that is a big wrong. 
 </div>
 
 &nbsp
 <div style="font-size:8px;">
-Svaq gur erq punenpgref naq erneenatr gurz gb znxr n pnxr (gjb jbeqf - rvtug naq svir punenpgref rnpu). Jurer qbrf guvf pnxr bevtvangr sebz? Svefg pbeerpg erfcbafr jvaf na hafcrpvsvrq cevmr!
+A puzzle with a prize that once again I haven't figured out and haven't given to last week's winner. Svaq gur erq punenpgref naq erneenatr gurz gb znxr n pnxr (gjb jbeqf - rvtug naq svir punenpgref rnpu). Jurer qbrf guvf pnxr bevtvangr sebz? Svefg pbeerpg erfcbafr jvaf na hafcrpvsvrq cevmr!
 </div>
