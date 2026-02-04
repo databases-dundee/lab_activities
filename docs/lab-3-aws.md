@@ -36,25 +36,31 @@ You'll then be on the RDS console. To create a new database, click the "Create d
 <img src = "aws/aws5.png" class="aws">
 <hr/>
 
-Now, there are a few options to select to make sure you don't mess things up, so pay attention!
+Now, there are a few options to select to make sure you don't mess things up, so proceed gently.
 
-1. In the "Choose a database creation method", select **Easy create**
+1. In the "Choose a database creation method", select **Full configuration**
 2. In the "Configuration" section, select **MySQL**
+3. In the "Engine version" bit, select **MySQL 8.0.40** (the default version misbehaves with MySQL Workbench)
 <hr/>
 
-<img src = "aws/aws6.png" class="aws">
+<img src = "aws/aws6new.png" class="aws">
 <hr/>
 
-3. In the "DB Instance size" section, select **Free tier**
+3. In the "Templates" section, select **Sandbox**
+<hr/>
+
+<img src = "aws/aws7new.png" class="aws">
+<hr/>
+
 4. Give your database instance a name. By default it'll be 'database-1' but you can change it to whatever you like.
 5. In the 'Master username' section, the default is 'admin'. You can change it, but **make sure you remember what you changed it to!**
 6. In the "Credentials management" section, select **Self managed**, then you can choose whether to auto-generate a password, or choose your own. 
 <hr/>
 
-<img src = "aws/aws7.png" class="aws">
+<img src = "aws/aws7new2.png" class="aws">
 
 <hr/>
-Ignore the other options, and click the "Create database" button at the bottom of the screen.
+Scroll right down to the bottom and click the "Create database" button at the bottom of the screen.
 
 <img src = "aws/aws8.png" class="aws">
 
@@ -62,7 +68,7 @@ Ignore the other options, and click the "Create database" button at the bottom o
 
 ## Step 3 - Configure the database to work with MySQL Workbench
 
-You'll be returned to the screen showing your existing databases. In the case below, I've got one database that's "Available" and the one I've just created, that says **Creating**. This will take a couple of minutes (maybe a bit longer) but eventually the "Creating" status will change to **Backing Up** and finally **Available**. Once this has happend, click on the name of your newly created database.
+You'll be returned to the screen showing your existing databases. In the case below, I've got one database that's "Available" and the one I've just created, that says **Creating**. This will take a couple of minutes (probably a bit longer) but eventually the "Creating" status will change to **Backing Up** and finally **Available**. Once this has happend, click on the name of your newly created database.
 <hr/>
 
 <img src = "aws/aws9.png" class="aws">
@@ -80,7 +86,7 @@ Scroll down to the **Connectivity** section, click **Additional Configuration** 
 <img src = "aws/aws11.png" class="aws">
 <hr/>
 
-You then need to configure the security rules so that you're able to access your database from whatever machine you're on. Click on the link under **VPC security groups**
+You then need to configure the security rules so that you're able to access your database from whatever machine you're on. Go back to the main page, select **Endpoints** and then click on the link under **VPC security groups**
 
 <hr/>
 
