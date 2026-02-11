@@ -34,7 +34,7 @@ You can also find the staff member(s) that lead each module like so:
 
 `SELECT Staff.firstname, Staff.lastname, Module.moduletitle FROM Staff JOIN Module ON Module.modulelead = Staff.employeeid`
 
-But! We're going to access the databse through a dangerously simple web app instead.
+But! We're going to access the database through a dangerously simple web app instead.
 
 ## The web app
 I've modified a little web app taken from an excellent example at https://github.com/bradtraversy/phploginapp. In this, we have the following files:
@@ -118,31 +118,31 @@ Try the SQL injection attempts that you made in the previous step, and make sure
 <div>
 *If thou hast not PHP installed on your own machine, my recommendation is to install XAMPP, which is a nice all-in-one solution for getting PHP and its necessary stuff installed - instructions for which are as follows!
 
-Click on [this XAMPP download link](https://www.apachefriends.org/download.html) as delicately as you can.
+1. Click on [this XAMPP download link](https://www.apachefriends.org/download.html) as delicately as you can.
 
-Find the relevant version for your OS of choice and download it - disclosure, I only have a Windows machine so if you're on Mac or Ubuntu the following instructions are probably not very useful, so let me know if you're not sure.
+2. Find the relevant version for your OS of choice and download it - disclosure, I only have a Windows machine so if you're on Mac or Ubuntu the following instructions are probably not very useful, so let me know if you're not sure.
 
-Anyway, go through the instructions and where it says "Select Components", you can de-select everything except 'phpMyAdmin' (and even then I'm not sure if it's really necessary)
+3. Anyway, go through the instructions and where it says "Select Components", you can de-select everything except 'phpMyAdmin' (and even then I'm not sure if it's really necessary)
 
 <img src="xampp.png" class="awssmallest">
 
-Once you've installed XAMPP (which helpfully includes PHP) you'll need to add the PHP functionality to your system's **path**. Type 'env' into the search bar at the bottom and click on "Edit the system environment variables" which should hopefully appear!
+4. Once you've installed XAMPP (which helpfully includes PHP) you'll need to add the PHP functionality to your system's **path**. Type 'env' into the search bar at the bottom and click on "Edit the system environment variables" which should hopefully appear!
 
 <img src="env.png" class="awssmallest">
 
-Then click on "Environment Variables"
+5. Then click on "Environment Variables"
 
 <img src="env2.png" class="awssmallest">
 
-In th 'User variables' section, select "Path" and then click "Edit..."
+6. In the 'User variables' section, select "Path" and then click "Edit..."
 
 <img src="xampp3.png" class="awssmallest">
 
-Copy-paste the filepath location of the PHP folder of the XAMPP installation (it should be C:\xampp\php) and add this to the variables - it should be a case of clicking the "New" button, pasting the filepath, then clicking "OK"
+7. Copy-paste the filepath location of the PHP folder of the XAMPP installation (it should be C:\xampp\php) and add this to the variables - it should be a case of clicking the "New" button, pasting the filepath, then clicking "OK"
 
 <img src="xampp4.png" class="awssmallest">
 
-Et voila! You should (hopefully) have installed PHP on your system, and can proceed! (If you've opened your command line before doing this, and it's given you an unfriendly error message about PHP not being found, please try closing and reopening your command line app and it should be okay). 
+8. Et voila! You should (hopefully) have installed PHP on your system, and can proceed! (If you've opened your command line before doing this, and it's given you an unfriendly error message about PHP not being found, please try closing and reopening your command line app and it should be okay). 
 </div>
 
 ---
