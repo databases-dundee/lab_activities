@@ -1,6 +1,6 @@
 # Lab 3 - SQL Injection 
 
-This lab aims to give you an understanding of **SQL Injection**, why it's a bad thing, how you can use it to access things you shouldn't (but don't) and what database developers can do about it!
+This lab aims to give you an understanding of **SQL Injection**, why it's a bad thing, how you can use it to access things you shouldn't (but don't) and what database developers can do about it! It's a **very** basic example of how SQL injection can happen, but it doesn't make the cures any less relevant.
 
 <img src="lab4/schema.PNG" class="aws">
 
@@ -13,7 +13,7 @@ This lab aims to give you an understanding of **SQL Injection**, why it's a bad 
 <div class="caption">Step 5. Double-click to use new schema</div>
 </div>
 
-This practical work will again require you to use MySQL Workbench to access your database. You don't have to go through all last week's steps again - so long as you have your database credentials, that's all you need!
+This practical work will again require you to use MySQL Workbench to access your database (or you can use the command line version of MySQL if that's your thing). You don't have to go through all last week's steps again - so long as you have your database credentials, that's all you need!
 
 
 Here are the steps you'll need to do to load my example database.
@@ -34,14 +34,14 @@ You can also find the staff member(s) that lead each module like so:
 
 `SELECT Staff.firstname, Staff.lastname, Module.moduletitle FROM Staff JOIN Module ON Module.modulelead = Staff.employeeid`
 
-But! We're going to access the databse through a (very) simple web app instead.
+But! We're going to access the databse through a dangerously simple web app instead.
 
 ## The web app
-I've modified a simple web app taken from an excellent example at https://github.com/bradtraversy/phploginapp. In this, we have the following files:
+I've modified a little web app taken from an excellent example at https://github.com/bradtraversy/phploginapp. In this, we have the following files:
 
 - **db.php** - This is the file where you provide your database credentials (see instructions for this below)
 - **loginbad.php** - This is my BAD login page, vulnerable to SQL injection!
-- **logingood.php** - This is a much better login page, using Prepared Statements to maximise security.
+- **logingood.php** - This is a better login page, using Prepared Statements to maximise security.
 - **index.php** - This is the page you'll see when you've logged in, showing your grades for each module in a nice table.
 - **logout.php** - This is the PHP script to log you out once you've logged in.
 
@@ -54,11 +54,11 @@ The first thing you need to do is edit the db.php file so that the app can conne
 
 Once you've done this, navigate to the folder in the command line, and launch this on localhost with the following command:
 
-`php -S localhost:8000`
+`php -S localhost:8000`*
 
 <img src="lab4/lab4prompt.PNG" class="floaterswide">
 
-This will launch the PHP web app locally. Typing `localhost:8000` into your web browser of choice will then display something that looks like the image below (if it doesn't, something's gone wrong and please catch Ramon or me during the lab!).
+This will launch the PHP web app locally. Typing `localhost:8000` into your web browser of choice (I've tested this on Google Chrome and have irresponsibly decided not to bother testing with any other browser, sorry) will then display something that looks like the image below. If it doesn't, something's gone a bit wrong and please catch me during the lab.
 
 The default login is the **loginbad.php** version, which is vulnerable to SQL injection. For example, take the following nefarious login attempt.
 
@@ -87,13 +87,14 @@ If you run this query, no worries, just re-execute the **compsci.sql** script an
 ## Trying some SQL Injection
 Now that you know a bit about SQL Injection, try some of the following:
 
-1. Login to any other student's account that isn't yours, using an incorrect password.
 
-2. Update all your grades to be 23 (i.e., A1) - you can use the `UPDATE` SQL syntax here
+1. Update all your grades to be 23 (i.e., A1) - you can use the `UPDATE` SQL syntax here
 
-3. Delete any other student from the database
+2. Delete any other student from the database
 
-4. Change the salary of your least favourite member of staff (but not me xx) to be 0 (you can check this has worked by running `SELECT * FROM Staff` in MySQL Workbench)
+3. Login to any other student's account that isn't yours - the easiest way is probably to change their password first and then login using the changed password.
+
+4. Change the salary of your least favourite member of staff (but not me pls xx) to be 0 (you can check this has worked by running `SELECT * FROM Staff` in MySQL Workbench)
 
 ## SQL Injection Prevention
 
@@ -112,3 +113,39 @@ To see this login screen in action, you need to change 'loginbad.php' to 'loging
 ![Using 'logingood.php'](lab4/logingood.png)
 
 Try the SQL injection attempts that you made in the previous step, and make sure that they don't execute properly. Prepared Statements and input sanitization are two important ways that SQL injection can be prevented.
+
+---
+<div>
+*If thou hast not PHP installed on your own machine, my recommendation is to install XAMPP, which is a nice all-in-one solution for getting PHP and its necessary stuff installed - instructions for which are as follows!
+
+Click on [this XAMPP download link](https://www.apachefriends.org/download.html) as delicately as you can.
+
+Find the relevant version for your OS of choice and download it - disclosure, I only have a Windows machine so if you're on Mac or Ubuntu the following instructions are probably not very useful, so let me know if you're not sure.
+
+Anyway, go through the instructions and where it says "Select Components", you can de-select everything except 'phpMyAdmin' (and even then I'm not sure if it's really necessary)
+
+<img src="xampp.png" class="awssmallest">
+
+Once you've installed XAMPP (which helpfully includes PHP) you'll need to add the PHP functionality to your system's **path**. Type 'env' into the search bar at the bottom and click on "Edit the system environment variables" which should hopefully appear!
+
+<img src="env.png" class="awssmallest">
+
+Then click on "Environment Variables"
+
+<img src="env2.png" class="awssmallest">
+
+In th 'User variables' section, select "Path" and then click "Edit..."
+
+<img src="xampp3.png" class="awssmallest">
+
+Copy-paste the filepath location of the PHP folder of the XAMPP installation (it should be C:\xampp\php) and add this to the variables - it should be a case of clicking the "New" button, pasting the filepath, then clicking "OK"
+
+<img src="xampp4.png" class="awssmallest">
+
+Et voila! You should (hopefully) have installed PHP on your system, and can proceed! (If you've opened your command line before doing this, and it's given you an unfriendly error message about PHP not being found, please try closing and reopening your command line app and it should be okay). 
+</div>
+
+---
+<div style="font-size:14px">
+
+</div>
