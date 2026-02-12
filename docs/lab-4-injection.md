@@ -18,7 +18,7 @@ This practical work will again require you to use MySQL Workbench to access your
 
 Here are the steps you'll need to do to load my example database.
 1. Connect to your database in MySQL Workbench like you did last week.
-2. Download the file **compsci.sql** from MyDundee. This is a database I've made up that has everyone in the class and some fake grades for some modules (please don't take the grades personally - they've been randomly generated to be between 1 and 23!). It also has some staff details, including which of the modules they teach.
+2. Download the file **compsci.sql** from MyDundee. This is a database I've made up that has some students and some fake grades for some modules (randomly generated to be between 1 and 23!). It also has some staff details, including which of the modules they teach.
 3. Create a new **schema** to hold this database by clicking the "Create New Schema" icon
 4. Give your schema a name and click the 'Apply' button.
 5. Double-click this new schema in the left pane to *use* this database schema.
@@ -88,11 +88,11 @@ If you run this query, no worries, just re-execute the **compsci.sql** script an
 Now that you know a bit about SQL Injection, try some of the following:
 
 
-1. Update all your grades to be 23 (i.e., A1) - you can use the `UPDATE` SQL syntax here
+1. Update all of someone's grades to be 23 (i.e., A1) - you can use the `UPDATE` SQL syntax here
 
-2. Delete any other student from the database
+2. Delete a student from the database
 
-3. Login to any other student's account that isn't yours - the easiest way is probably to change their password first and then login using the changed password.
+3. Login to any student's account without their valid passowrd - the easiest way is probably to change their password first and then login using the changed password.
 
 4. Change the salary of your least favourite member of staff (but not me pls xx) to be 0 (you can check this has worked by running `SELECT * FROM Staff` in MySQL Workbench)
 
