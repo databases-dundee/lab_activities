@@ -146,10 +146,10 @@ Try the SQL injection attempts that you made in the previous step, and make sure
 </div>
 
 ---
-<div style="font-size:14px">
+<div style="font-size:12px">
 Add up all the numbers in this document, **but ignore any images and equations** 
 
 (e.g., `SELECT * FROM Grades WHERE email = "2141414@dundee.ac.uk;` - ignore that 2141414)
 
-Now, having added up all the numbers, this is the atomic number of **which** element in the periodic table?
+Rsa, lezmrk ehhih yt epp xli ryqfivw, xlmw mw xli exsqmg ryqfiv sj **almgl** ipiqirx mr xli tivmshmg xefpi?
 </div>
