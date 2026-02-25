@@ -135,6 +135,8 @@ One more thing - if you don't want to return a full list of students, but just g
 **HINT**: You can figure this out by querying subjects one by one, but I'd suggest looking at the aggregate function of MongoDB that acts a lot like GROUP BY in SQL! [https://www.mongodb.com/docs/manual/aggregation/](https://www.mongodb.com/docs/manual/aggregation/)
 
 ---
+Prithee, to what end hath thee brought thineself? Thou hast stumbl'd upon ye sorest of thy labpuzzles! Answereth if't be true that thy assignment hath been accomplish'd!
+
 20/15/53/73/3/53/88/7
 <img src="nolabpics/rebus.png" class="aws left">
 
