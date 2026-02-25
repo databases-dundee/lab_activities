@@ -133,3 +133,13 @@ One more thing - if you don't want to return a full list of students, but just g
 6. The most popular degree subject is ??? with a total of ??? students.
 
 **HINT**: You can figure this out by querying subjects one by one, but I'd suggest looking at the aggregate function of MongoDB that acts a lot like GROUP BY in SQL! [https://www.mongodb.com/docs/manual/aggregation/](https://www.mongodb.com/docs/manual/aggregation/)
+
+---
+20/15/53/73/3/53/88/7
+<img src="nolabpics/rebus.png" class="aws">
+1.kääntää takaisin atomiluvuiksi
+2.προσθέστε τα
+3.Multiplica por el número de rocas en Lituania
+4.ignoruoti ankstesnį žingsnį
+5.dividu per 4 kaj poste aldonu 5
+6.To jest odpowiedź. Jakie jest pytanie?
