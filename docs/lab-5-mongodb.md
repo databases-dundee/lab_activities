@@ -137,9 +137,15 @@ One more thing - if you don't want to return a full list of students, but just g
 ---
 20/15/53/73/3/53/88/7
 <img src="nolabpics/rebus.png" class="aws left">
+
 1.kääntää takaisin atomiluvuiksi
+
 2.προσθέστε τα
+
 3.Multiplica por el número de rocas en Lituania
+
 4.ignoruoti ankstesnį žingsnį
+
 5.dividu per 4 kaj poste aldonu 5
+
 6.To jest odpowiedź. Jakie jest pytanie?
