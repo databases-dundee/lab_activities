@@ -136,7 +136,7 @@ One more thing - if you don't want to return a full list of students, but just g
 
 ---
 20/15/53/73/3/53/88/7
-<img src="nolabpics/rebus.png" class="aws">
+<img src="nolabpics/rebus.png" class="aws left">
 1.kääntää takaisin atomiluvuiksi
 2.προσθέστε τα
 3.Multiplica por el número de rocas en Lituania
