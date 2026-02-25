@@ -1,4 +1,4 @@
-# Lab 4 - Getting started with MongoDB
+# Lab 5 - Getting started with MongoDB
 
 This lab aims to give you an introduction to **document databases**, specifically MongoDB, one of the most popular
 NoSQL database platforms out there.
@@ -30,7 +30,7 @@ Okay, let's add a **document** to the collection. Remember, a document is basica
 ```
 {
     "name": "Daniel",
-    "age": 33,
+    "age": 34,
     "degree": "Computer Science"
 }
 ```
