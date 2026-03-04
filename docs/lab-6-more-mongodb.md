@@ -169,4 +169,4 @@ There are only a couple of questions here, because they require just about every
 
 >Hint: The first stage of your pipeline should be getting the year out of the date object. [Have a look at this operator's documentation](https://www.mongodb.com/docs/manual/reference/operator/aggregation/year/)
 
-<span style="color:white">Ylhyyhunl aol opkklu slaalyz puav h bupa vm tlhzbyltlua. Av doha hupths kvlz aopz tlhzbyltlua ylmly?</span>
+<span style="color:white">Ylhyyhunl aol opkklu slaalyz puav h bupa vm tlhzbyltlua. Av doha hupths kvlz aopz tlhzbyltlua ylmly?</span> 
