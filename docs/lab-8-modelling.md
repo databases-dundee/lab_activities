@@ -1,4 +1,4 @@
-# Lab 7 - Data Modelling
+# Week 8 Lab - Data Modelling
 
 In this week's lecture, we talked about data modelling, including whether its best to embed or reference, how to model one-to-one, one-to-many, one-to-VERY many, and many-to-many relationships. In this lab, we'll walk through the implementation In MongoDB of the social media app design that was covered at the end of the lecture. The ER diagram for this in MySQL would look something like this:
 
@@ -7,7 +7,7 @@ In this week's lecture, we talked about data modelling, including whether its be
 ## What you need to do
 Really the main thing you need to do is to try not to think in terms of a relational model. While we **will** likely need separate collections, and those collections **will** sometimes be joined together, there's a lot more room for manouevre, with denormalisation and duplication.
 
-As with last week, run the Mongo shell in your command line, and open MongoDB Compass. Create a new database, call it 'socialmedia' or something like that, and create a new collection called 'posts' (you can do this in the command line or Compass, whichever you prefer).
+As with last week, run the Mongo shell in your command line, and open MongoDB Compass. Create a new database, call it 'socialmedia' or something like that, and create a new collection called 'posts' (you can do this in the command line or Compass, whichever you prefer, depending on how much you like clicking your mouse).
 
 This week there aren't any ready-made JSON files to download - we'll need to figure out the structure of our data from scratch. Let's start by inserting an example post, based on what we know. A post has **content**, it has a **date**, and it has a number of **likes** (it also has an author, but we'll come to that in a bit).
 
@@ -19,7 +19,7 @@ Hopefully all should be well and you should have a new document in your posts co
 
 Notice I've also included a 'postid' field. Now, we can obviously use the built-in _id field (and adding an extra field adds a bit of overhead) but it'll make things clearer as we go through - the ObjectId("l2342jk34l2kh3234h") isn't exactly user-friendly!
 
-Anyway, since this is a social media app, we're probably going to want to have a collection that contains user documents that contain all the information about a user. Create a new collection called **users** and make a new document to store yourself using the fields in my ER diagram, or change them up if you want (my fields are from LinkedIn).
+Anyway, since this is a social media app, we're probably going to want to have a collection that contains user documents that contain all the information about a user. Create a new collection called **users** and make a new document to store yourself using the fields in my ER diagram, or change them up if you want (my fields are from the snake-pit that is LinkedIn).
 
 ```js
 db.users.insertOne({userid: 1, name: "Daniel Rough", email: "drough001@dundee.ac.uk", bio: "blahbedy blahbedy bla bla rub-a-dub dub", role: "Lecturer at the University of Dundee", profilepic: "https://media.licdn.com/dms/image/v2/D4E03AQH_n3xP4eoesw/profile-displayphoto-shrink_400_400/B4EZOZekftHAAg-/0/1733446749200?e=1747267200&v=beta&t=94ChRS1CezVT2JpSEoG4nk1gL4g4ZaEJ9x3hgP5sDmI", connections:0, birthdate: new Date("1992-01-03")})
@@ -47,7 +47,7 @@ This **will** return the author's name and role, but it's a bit clunky, and if w
 db.posts.update({postid: 1},{$set: {authorid: 1, name: "Daniel Rough", role: "Lecturer at University of Dundee"}})
 ```
 
-which screwed things up - I wanted this all as a single BSON object with 'author' as the key and the details as the values! If you ran this query before recognising my mistake, you can **unset** the fields added like so:
+which was a cock-up - I wanted this all as a single BSON object with 'author' as the key and the details as the values! If you ran this query before recognising my mistake, you can **unset** the fields added like so:
 
 ```js
 db.posts.update({postid: 1}, {$unset: {authorid:"",name:"",role:""}})
@@ -68,7 +68,7 @@ Brilliant, now we can directly find the author's name and role inside the post d
 
 In our example screenshots above, a post would show a couple of relevant comments, with the option to expand to see more. This makes sense - if you have a feed of posts and you're loading all the comments for every post on that feed, this could slow things down. In this case, the best thing to do is store the less important comments in their own collection. 
 
-Let's add a few more users into our collection. This can be a bit tedious, so you can use some external tool for document generation. I used [Mockaroo](https://www.mockaroo.com) to generate five documents as shown in the screenshot below, but feel free to use generative AI or whatever.
+Let's add a few more users into our collection. This can be a bit tedious, so you can use some external tool for document generation. I used [Mockaroo](https://www.mockaroo.com) to generate five documents on the fly as shown in the screenshot below, but feel free to use generative AI or whatever.
 
 <img src="mongo/lab7/mockaroo.PNG" class="awssmallest left">
 
@@ -79,7 +79,7 @@ db.comments.insertMany([
     {postid:1, userid: 2, text: "Bold insights!", date: new Date("2025-03-12T21:06:33")},
     {postid:1, userid: 3, text: "Thanks for sharing!", date: new Date("2025-03-12T22:55:33")},
     {postid: 1, userid: 4, text: "Congratulations!", date: new Date("2025-03-13T00:06:33")}, 
-    {postid: 1, userid: 6, text: "La la la", date: new Date("2025-03-13T03:22:11")}, 
+    {postid: 1, userid: 6, text: "Quoth the raven, 'Nevermore'", date: new Date("2025-03-13T03:22:11")}, 
     {postid: 1, userid: 6, text: "Can't think of anything else", date: new Date("2025-03-13T18:27:00")}])
 ```
 
@@ -112,7 +112,7 @@ Rather than the 'localField' and 'foreignField' attributes that you've used in l
 
 The pipeline is in itself a lot like the aggregation pipeline! It's used to add some more complex stuff to the results of our $lookup query. The first part, the $match, is used in the same way the `localField` and `foreignField` would be used in the normal lookup. The matching criteria is that the 'userid' in the collection we're looking up (users) is equal to that of the userid field in the comments collection (which, remember, we've called 'id'). Note that there are two dollar signs in front of id.
 
-The next stage (this is an important one) is that we're using $project to **only** return the name and role of the user (because these are the only fields we want to put into the comment documents) and we give it the name `user`. Let's have a look at what this returns before we do anything else.
+The next stage (this is an important one) is that we're using $project to **only** return the name and role of the user (because these are the only fields we want to put into the comment documents) and we give it the name `user`. Let's have a gander at what this returns before we do anything else.
 
 <img src="mongo/lab7/mongo2.PNG" class="awssmallest left">
 
@@ -123,7 +123,7 @@ That's quite good, but we don't really want the user's information as an array. 
 That's better. But if you then query the posts, you'll see that the user information has not been added into the posts as we would like. That's where the `$merge` comes in. This takes the output from the previous stage from the foreign documents, and basically sticks it into the local documents. Okay, now run the full query and check that it works okay!
 
 ### Embedding the last few comments
-Now, in line with the subsetting pattern, we'd like to keep a few comments embedded as duplicates directly within the post, while storing all of them in the `comments` collection. Below we have an aggregation pipeline that will match up all comments to each post in our posts collection, limit them to the three most recent, and then merge them into each post document. Again, this looks nasty, but we'll break it down.
+Now, in line with the subsetting pattern, we'd like to keep a few comments embedded as duplicates directly within the post, while storing all of them in the `comments` collection. Below we have an aggregation pipeline that will match up all comments to each post in our posts collection, limit them to the three most recent, and then merge them into each post document. Again, this looks hard to swallow, but we'll break it down.
 
 ```js
 db.posts.aggregate([{
@@ -166,7 +166,7 @@ db.likes.insertMany([
 ])
 ```
 
-That's all very well, but comments can have likes too. Do we need to store these in a separate collection? Not necessarily. We can use the Polymorphic Pattern to store all the likes together, be they for posts or comments. 
+That's fine, but comments can have likes too. Do we need to store these in a separate collection? Not necessarily. We can use the Polymorphic Pattern to store all the likes together, be they for posts or comments. 
 
 ```js
 db.likes.insertMany([
@@ -180,9 +180,9 @@ db.likes.insertMany([
 This is a simple example, but the Polymorphic design pattern can be really useful for storing different types of users (e.g., employees with different roles and responsibilities) or products. Let's say we're a book retailer - we can store physical books, e-books, and audiobooks (all of which will have different fields) in a single 'books' collection. 
 
 ## The Computed Pattern
-In fact, if we have a smaller-scale social media app, we probably don't need to worry about having a separate 'likes' collection - let's say it's a local social app to connect people in Dundee, you could probably get away with just embedding the likes inside of a post/comment. 
+In fact, if we have a smaller social media app, we probably don't need to worry about having a separate 'likes' collection - let's say it's a local social app to connect people in Dundee, you could probably get away with just embedding the likes inside of a post/comment. 
 
-But what if we get big, like **really** big? What if Taylor Swift joins our app and we can no longer keep up with the millions of likes she's receiving? (I've heard this called The Taylor Swift Problem - I didn't make it up). We might want to keep our `likes` collection, but we'll need to keep a count of how many likes a post/comment has. There are a couple of ways we can do this.
+But what if we get big, like **really** big? What if Taylor Swift joins our app and we can no longer keep up with the millions of likes she's receiving?. We might want to keep our `likes` collection, but we'll need to keep a count of how many likes a post/comment has. There are a couple of ways we can do this.
 1. Compute the value every time it is needed (probably a bad idea - this is displayed alongside the post/comment every time it is accessed)
 2. Store a pre-computed value and update it now and again.
 
@@ -216,8 +216,13 @@ There isn't a quiz this week, because schema design isn't an exact science and l
 
 3. I would strongly suggest having a read of the [MongoDB Schema Design Documentation]{https://www.mongodb.com/docs/manual/data-modeling/schema-design-process/}. This is where I've learned much of what I've included in this lab! It includes design patterns, anti-patterns, and general best practices.
 
-4. Much as I am sceptical about Generative AI (and you should be too), it's really useful for generating data once you've decided on your schema design! I don't want you to generate thousands of documents for your collections, but you should populate them with enough documents to showcase the type of queries that you'll be running.
+4. Much as I am sceptical about Generative AI (and you should be too but I won't rabbit on about it), it's really useful for generating data once you've decided on your schema design! I don't want you to generate thousands of documents for your collections, but you should populate them with enough documents to showcase the type of queries that you'll be running.
 
 5. Whatever you decide upon, the most important thing is that you can justify it in your report. If you're embedding stuff, tell me why. If you're referencing stuff, tell me why. If you've made a collection for something, tell me why. You get the idea.
 
 6. Although we're going against the idea of a relational model, it can still be very useful to sketch out an ER diagram of your entities, attributes, and the relationship types (1-to-1, 1-to-many, many-to-many) that you'll need (like the one I included at the top of this lab - it helped me quite a bit!)
+
+---
+```
+Q291bnQgdGhlIG51bWJlciBvZiBhbmltYWxzIGluIHRoaXMgZG9jdW1lbnQgKG5vbmUgYXJlIGhpZGRlbiB3aXRoaW4gd29yZHMpLiBBZGQgdGhpcyBudW1iZXIgdG8gdGhlIHRvdGFsIG51bWJlciBvZiBsZWdzIHRoZXNlIGFuaW1hbHMgaGF2ZSwgYW5kIHRoZSB0b3RhbCBudW1iZXIgb2Ygd2luZ3MuIFdoYXQgbnVtYmVyIGRvIHlvdSBnZXQ/
+```
