@@ -214,7 +214,7 @@ There isn't a quiz this week, because schema design isn't an exact science and l
 
 2. What values should be pre-computed? This could be the number of friends/followers, average product ratings, remaining seats for an event, max/min/average temperature at a location, the total revenue of a product, or any other value that would be useful to know without having to constantly run a query on it every time.
 
-3. I would strongly suggest having a read of the [MongoDB Schema Design Documentation]{https://www.mongodb.com/docs/manual/data-modeling/schema-design-process/}. This is where I've learned much of what I've included in this lab! It includes design patterns, anti-patterns, and general best practices.
+3. I would strongly suggest having a read of the [MongoDB Schema Design Documentation](https://www.mongodb.com/docs/manual/data-modeling/schema-design-process/). This is where I've learned much of what I've included in this lab! It includes design patterns, anti-patterns, and general best practices.
 
 4. Much as I am sceptical about Generative AI (and you should be too but I won't rabbit on about it), it's really useful for generating data once you've decided on your schema design! I don't want you to generate thousands of documents for your collections, but you should populate them with enough documents to showcase the type of queries that you'll be running.
 
