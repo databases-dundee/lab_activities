@@ -1,4 +1,4 @@
-# Week 8 Lab - Data Modelling
+# Week 8 Lab - Data Modelling 
 
 In this week's lecture, we talked about data modelling, including whether its best to embed or reference, how to model one-to-one, one-to-many, one-to-VERY many, and many-to-many relationships. In this lab, we'll walk through the implementation In MongoDB of the social media app design that was covered at the end of the lecture. The ER diagram for this in MySQL would look something like this:
 
