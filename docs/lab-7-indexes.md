@@ -112,5 +112,10 @@ Let's say we frequently run a query where we get all the movies of a specific ge
 
 Finally, it's worth noting that both these newly created indexes are both **compound** indexes AND **multikey** indexes, because they include an array field (genres). MongoDB will not let you have a compound index that includes more than one array field, so bear this in mind when thinking about writing indexes for your assignment!
 
+## A warning
+Indexes seem lovely, don't they? They speed up everything! **BUT** be warned - while they do improve read performance (i.e., how quickly you can get the result of a query) they also make write performance **worse**. Why? Well, every time we add a new document to our collection, our indexes also need to be updated to make sure that things are in a nice sorted order!
+
+So yeah, don't go creating indexes on every field - for collections with a high write-to-read ratio, indexes are expensive! Be selective and only create indexes on the field(s) that you're querying very often.
+
 ## Quiz
 There's a short multiple-choice quiz On My Dundee to test your understanding of indexes based on the content of this lab. No need for running any queries (since we haven't introduced any new query syntax this week!) so it should hopefully be quite straightforward.
