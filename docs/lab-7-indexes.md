@@ -1,6 +1,6 @@
-# Lab 6 - MongoDB indexes
+# Week 9 Lab - MongoDB indexes
 
-This is a shorter lab to get you introduced to **indexes** in MongoDB for optimising query performance. We'll look at single-field indexes, compound indexes, and multi-key indexes. There will be fewer screenshots and examples of the code you need to write to give you a bit of practice in figuring out exactly what needs to be done.
+The very best of mornings to you! This is a shorter lab to get you introduced to **indexes** in MongoDB for optimising query performance. We'll look at single-field indexes, compound indexes, and multi-key indexes. There will be fewer screenshots and examples of the code you need to write to give you a bit of practice in figuring out exactly what needs to be done.
 
 <img src="mongo/lab6/indexes.png" class="awssmaller">
 
@@ -41,7 +41,7 @@ You can of course have more than one index on a collection.
 
 You should see the above three indexes - the two that you've created, and a default index on the _id field that is always present.
 
->Let's try running a query that uses both the year and the runtime. I want you to write a query that finds movies **between 1922 and 1985**, with a runtime of **more than 100 minutes**.
+>Let's try running a query that uses both the year and the runtime. I want you to write a query that finds movies **between 1922 and 1985**, with a runtime of **more than 80 minutes**.
 
 We won't worry about the execution stats right now. What we can do instead is run `db.movies.explain().find(*your query goes here*)`. This will return a shorter explanation of the query details. What I want you to notice this time is that we have a `winningPlan` field and a `rejectedPlans` field. Mine look like this:
 
@@ -77,7 +77,7 @@ Much better! You should also hopefully see that the new execution strategy used 
 ### Querying on embedded fields
 If we have something we want to index that's not a direct value or an array (i.e., it's in a subdocument) we can do that too. Consider the 'awards' field of our movie documents. The value of this is a subdocument containing awards, nominations, and text. 
 
->Try this out: query to find all movies with more than 15 wins, then add a new index on the `wins` field of the `awards` object, then run the query again. How much speed-up do you get?
+>Try this out: query to find all movies with more than 15 wins, then add a new index on the `wins` field of the `awards` object (hint: you can use `awards.wins` in the query syntax), then run the query again. How much speed-up do you get?
 
 ## Compound indexes
 A compound index, as you might expect, is an index that makes use of multiple fields, as opposed to having two separate single-field indexes. Note that our multi-key indexes in the previous section were also single-field indexes (because we only indexed on the array). 
@@ -86,7 +86,7 @@ A compound index, as you might expect, is an index that makes use of multiple fi
 
 <img src="mongo/lab6/mongo14.PNG" class="awssmallest left">
 
->Now run the original query you had to find movies released between 1922 and 1985, with a runtime of over 100 minutes, and get the execution stats.
+>Now run the original query you had to find movies released between 1922 and 1985, with a runtime of over 80 minutes, and get the execution stats.
 
 <img src="mongo/lab6/mongo15.PNG" class="awssmallest left">
 
