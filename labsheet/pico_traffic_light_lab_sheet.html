@@ -1,0 +1,706 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Traffic Light Simulator — Raspberry Pi Pico Lab</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500&family=Fraunces:ital,wght@0,400;0,600;1,400&family=DM+Sans:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    font-family: 'DM Sans', sans-serif;
+    background: #faf9f6;
+    color: #1a1a18;
+    line-height: 1.7;
+  }
+
+  .lab-wrap {
+    max-width: 820px;
+    margin: 0 auto;
+    padding: 2.5rem 2rem 4rem;
+  }
+
+  .lab-header {
+    border-bottom: 2px solid #1a1a18;
+    padding-bottom: 1.5rem;
+    margin-bottom: 2.5rem;
+  }
+
+  .lab-label {
+    font-size: 11px;
+    font-weight: 500;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: #777;
+    margin-bottom: 0.5rem;
+  }
+
+  .lab-title {
+    font-family: 'Fraunces', serif;
+    font-size: 34px;
+    font-weight: 600;
+    line-height: 1.2;
+    margin-bottom: 0.6rem;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .lab-subtitle {
+    font-size: 15px;
+    color: #555;
+    line-height: 1.65;
+  }
+
+  .traffic-icon {
+    display: inline-flex;
+    flex-direction: column;
+    gap: 4px;
+    background: #222;
+    border-radius: 8px;
+    padding: 6px;
+    flex-shrink: 0;
+  }
+  .tl-dot { width: 13px; height: 13px; border-radius: 50%; }
+  .tl-r { background: #e74c3c; }
+  .tl-y { background: #f39c12; }
+  .tl-g { background: #2ecc71; }
+
+  .meta-row {
+    display: flex;
+    gap: 0.75rem;
+    flex-wrap: wrap;
+    margin-top: 1rem;
+  }
+
+  .meta-pill {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    font-size: 13px;
+    color: #555;
+    background: #f0ede6;
+    border: 0.5px solid #d8d4cc;
+    border-radius: 20px;
+    padding: 4px 12px;
+  }
+
+  .section {
+    margin-bottom: 2.5rem;
+  }
+
+  .section-heading {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 1rem;
+  }
+
+  .step-badge {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 11px;
+    font-weight: 500;
+    background: #1a1a18;
+    color: #faf9f6;
+    border-radius: 5px;
+    padding: 3px 8px;
+    white-space: nowrap;
+  }
+
+  .section-title {
+    font-family: 'Fraunces', serif;
+    font-size: 21px;
+    font-weight: 600;
+  }
+
+  .prose {
+    font-size: 15px;
+    line-height: 1.75;
+    color: #1a1a18;
+  }
+
+  .prose p { margin-bottom: 0.75rem; }
+  .prose p:last-child { margin-bottom: 0; }
+
+  .parts-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+    gap: 10px;
+    margin-top: 0.85rem;
+  }
+
+  .part-card {
+    background: #fff;
+    border: 0.5px solid #d8d4cc;
+    border-radius: 8px;
+    padding: 0.75rem 1rem;
+    font-size: 14px;
+  }
+
+  .part-qty {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 11px;
+    color: #888;
+    margin-bottom: 3px;
+  }
+
+  .part-name { font-weight: 500; }
+
+  .wiring-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 14px;
+    margin-top: 0.85rem;
+    background: #fff;
+    border: 0.5px solid #d8d4cc;
+    border-radius: 10px;
+    overflow: hidden;
+  }
+
+  .wiring-table th {
+    text-align: left;
+    font-size: 11px;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.07em;
+    color: #777;
+    background: #f5f2ec;
+    border-bottom: 0.5px solid #d8d4cc;
+    padding: 8px 12px;
+  }
+
+  .wiring-table td {
+    padding: 9px 12px;
+    border-bottom: 0.5px solid #e8e4dc;
+    vertical-align: middle;
+  }
+
+  .wiring-table tr:last-child td { border-bottom: none; }
+
+  .led-dot {
+    display: inline-block;
+    width: 10px; height: 10px;
+    border-radius: 50%;
+    margin-right: 6px;
+    vertical-align: middle;
+  }
+  .red-dot { background: #e74c3c; }
+  .yellow-dot { background: #f39c12; }
+  .green-dot { background: #2ecc71; }
+
+  .mono { font-family: 'JetBrains Mono', monospace; font-size: 13px; }
+
+  .pin-badge {
+    display: inline-block;
+    background: #f0ede6;
+    border: 0.5px solid #d0ccc4;
+    border-radius: 4px;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 12px;
+    padding: 1px 6px;
+  }
+
+  .diagram-box {
+    background: #f0ede6;
+    border: 0.5px solid #d8d4cc;
+    border-radius: 12px;
+    padding: 1.25rem;
+    margin-top: 0.85rem;
+  }
+
+  .diagram-title {
+    font-size: 11px;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.09em;
+    color: #888;
+    margin-bottom: 0.75rem;
+  }
+
+  .code-block {
+    background: #1a1a2e;
+    border-radius: 10px;
+    padding: 1.4rem 1.4rem;
+    overflow-x: auto;
+    margin-top: 0.85rem;
+  }
+
+  .code-block pre {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 13px;
+    line-height: 1.7;
+    color: #cdd6f4;
+    white-space: pre;
+  }
+
+  .kw { color: #cba6f7; }
+  .cm { color: #6c7086; font-style: italic; }
+  .fn { color: #89b4fa; }
+  .num { color: #fab387; }
+  .str { color: #a6e3a1; }
+  .var2 { color: #f38ba8; }
+
+  .callout {
+    display: flex;
+    gap: 12px;
+    padding: 0.9rem 1rem;
+    border-radius: 8px;
+    font-size: 14px;
+    line-height: 1.65;
+    margin-top: 0.85rem;
+  }
+
+  .callout-tip {
+    background: #eaf6ee;
+    border: 0.5px solid #a8d8b4;
+    color: #1a5c2a;
+  }
+
+  .callout-warn {
+    background: #fef6e4;
+    border: 0.5px solid #f0c060;
+    color: #7a4c00;
+  }
+
+  .callout-info {
+    background: #e8f1fb;
+    border: 0.5px solid #a8c8f0;
+    color: #1a3c6a;
+  }
+
+  .callout-icon { font-size: 16px; flex-shrink: 0; margin-top: 1px; }
+
+  .step-list { list-style: none; padding: 0; margin-top: 0.85rem; }
+  .step-list li {
+    display: flex;
+    gap: 12px;
+    padding: 9px 0;
+    border-bottom: 0.5px solid #e8e4dc;
+    font-size: 14px;
+    line-height: 1.65;
+  }
+  .step-list li:last-child { border-bottom: none; }
+  .step-num {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 12px;
+    font-weight: 500;
+    min-width: 20px;
+    color: #999;
+    margin-top: 2px;
+  }
+
+  code {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 12.5px;
+    background: #f0ede6;
+    border: 0.5px solid #d0ccc4;
+    border-radius: 4px;
+    padding: 1px 5px;
+  }
+
+  .challenge-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 10px;
+    margin-top: 0.85rem;
+  }
+
+  .challenge-card {
+    background: #fff;
+    border: 0.5px solid #d8d4cc;
+    border-radius: 8px;
+    padding: 0.9rem 1rem;
+  }
+
+  .challenge-level {
+    font-size: 11px;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.07em;
+    margin-bottom: 6px;
+  }
+
+  .level-easy { color: #1a9e52; }
+  .level-medium { color: #b87000; }
+  .level-hard { color: #c0392b; }
+
+  .challenge-card p { font-size: 14px; line-height: 1.55; color: #333; }
+
+  hr.divider {
+    border: none;
+    border-top: 0.5px solid #d8d4cc;
+    margin: 2.5rem 0;
+  }
+
+  @media print {
+    body { background: #fff; }
+    .lab-wrap { padding: 1rem; }
+    .code-block { border: 1px solid #ccc; }
+  }
+</style>
+</head>
+<body>
+<div class="lab-wrap">
+
+  <header class="lab-header">
+    <div class="lab-label">Raspberry Pi Pico</div>
+    <h1 class="lab-title">
+      <span class="traffic-icon">
+        <span class="tl-dot tl-r"></span>
+        <span class="tl-dot tl-y"></span>
+        <span class="tl-dot tl-g"></span>
+      </span>
+      Traffic Light Simulator
+    </h1>
+    <p class="lab-subtitle">We're going to wire up a circuit on a breadboard, then write MicroPython code to control LEDs just like a real traffic light.</p>
+  </header>
+
+  <section class="section">
+    <div class="section-heading">
+      <h2 class="section-title">Your Goal</h2>
+    </div>
+    <div class="prose">
+      <p>A lot of Computing is about programming computers to get them to do things in the 'software' world, but we also need to program systems to do stuff in the real world
+        that takes input from sensors and performs actions (like a thermostat turning on the heating when the temperature is too low, or a smoke
+        alarm making a noise when it detects...well, smoke)
+      </p>
+      <p>No previous experience with electronics or Python is needed — every step is explained from scratch.</p>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="section-heading">
+      <span class="step-badge">PARTS LIST</span>
+      <h2 class="section-title">Here's what you'll need (all of which should be in your box!)</h2>
+    </div>
+    <div class="parts-grid">
+      <div class="part-card"><div class="part-qty">× 1</div><div class="part-name">Raspberry Pi Pico</div></div>
+      <div class="part-card"><div class="part-qty">× 1</div><div class="part-name">Breadboard</div></div>
+      <div class="part-card"><div class="part-qty">× 1</div><div class="part-name">Red LED</div></div>
+      <div class="part-card"><div class="part-qty">× 1</div><div class="part-name">Yellow LED</div></div>
+      <div class="part-card"><div class="part-qty">× 1</div><div class="part-name">Green LED</div></div>
+      <div class="part-card"><div class="part-qty">× 3</div><div class="part-name">Resistor</div></div>
+      <div class="part-card"><div class="part-qty">× 6+</div><div class="part-name">Jumper wires</div></div>
+      <div class="part-card"><div class="part-qty">× 1</div><div class="part-name">Micro USB cable</div></div>
+      <div class="part-card"><div class="part-qty">× 1</div><div class="part-name">Computer with VSCode</div></div>
+    </div>
+    <div class="callout callout-info" style="margin-top:1rem;">
+      <span class="callout-icon">ℹ</span>
+      <span><strong>Resistors are important.</strong> LEDs need a resistor in series to limit current — without one they can burn out or damage the Pico's pins. Always use a 330 Ω resistor with each LED.</span>
+    </div>
+  </section>
+
+  <hr class="divider">
+
+  <section class="section">
+    <div class="section-heading">
+      <span class="step-badge">STEP 1</span>
+      <h2 class="section-title">Understand the breadboard</h2>
+    </div>
+    <div class="prose">
+      <p>A breadboard lets you build circuits without soldering. The holes are connected in rows — components placed in the same row are electrically joined. The long rails down each side (marked <strong>+</strong> and <strong>−</strong>) run the full length of the board and are used for power and ground.</p>
+    </div>
+    <img src="breadb.png" style="width: 100%; max-width: 100%; display: block;"/>
+    <div class="callout callout-tip">
+      <span class="callout-icon">✓</span>
+      <span>Each set of 5 holes in a row (a–e on one side, f–j on the other) are connected to each other. The two halves of the board across the gap are <strong>not</strong> connected.</span>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="section-heading">
+      <span class="step-badge">STEP 2</span>
+      <h2 class="section-title">Understand LEDs</h2>
+    </div>
+    <div class="prose">
+      <p>An LED (Light Emitting Diode) only allows current to flow in one direction. It has two legs: the <strong>longer leg is the anode (+)</strong> and must connect toward the positive supply (a GPIO pin), and the <strong>shorter leg is the cathode (−)</strong> and must connect toward ground (GND).</p>
+      <p>If an LED doesn't light up, try flipping it around — it's probably in the wrong way.</p>
+    </div>
+    <div class="diagram-box">
+      <div class="diagram-title">LED leg identification</div>
+      <svg viewBox="0 0 340 90" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:340px;display:block;">
+        <circle cx="100" cy="45" r="18" fill="#e74c3c" opacity="0.85" stroke="#c0392b" stroke-width="1.5"/>
+        <line x1="82" y1="45" x2="50" y2="45" stroke="#c0392b" stroke-width="2"/>
+        <line x1="118" y1="45" x2="150" y2="45" stroke="#333" stroke-width="2"/>
+        <line x1="50" y1="30" x2="50" y2="60" stroke="#c0392b" stroke-width="3"/>
+        <line x1="150" y1="35" x2="150" y2="55" stroke="#555" stroke-width="2"/>
+        <text x="44" y="75" font-family="DM Sans,sans-serif" font-size="12" fill="#666" text-anchor="middle">Anode (+)</text>
+        <text x="44" y="88" font-family="JetBrains Mono,monospace" font-size="10" fill="#888" text-anchor="middle">longer leg</text>
+        <text x="150" y="75" font-family="DM Sans,sans-serif" font-size="12" fill="#666" text-anchor="middle">Cathode (−)</text>
+        <text x="150" y="88" font-family="JetBrains Mono,monospace" font-size="10" fill="#888" text-anchor="middle">shorter leg</text>
+        <line x1="175" y1="45" x2="230" y2="45" stroke="#aaa" stroke-width="1" stroke-dasharray="3,2"/>
+        <text x="235" y="40" font-family="DM Sans,sans-serif" font-size="12" fill="#555">→ to GPIO pin</text>
+        <text x="235" y="55" font-family="DM Sans,sans-serif" font-size="12" fill="#555">← to GND (via resistor)</text>
+      </svg>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="section-heading">
+      <span class="step-badge">STEP 3</span>
+      <h2 class="section-title">Wire up the circuit</h2>
+    </div>
+    <div class="prose">
+      <p>Follow the wiring table below carefully. Place the Pico across the centre gap of the breadboard so its pins align with the rows on each side. Connect each LED with a resistor between the cathode and the GND rail.</p>
+    </div>
+
+    <table class="wiring-table">
+      <thead>
+        <tr>
+          <th>LED</th>
+          <th>LED anode (+, long leg)</th>
+          <th>Resistor connects</th>
+          <th>LED cathode (−, short leg)</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><span class="led-dot red-dot"></span>Red</td>
+          <td>→ <span class="pin-badge">GP15</span></td>
+          <td>between cathode and GND rail</td>
+          <td>→ GND rail</td>
+        </tr>
+        <tr>
+          <td><span class="led-dot yellow-dot"></span>Yellow</td>
+          <td>→ <span class="pin-badge">GP14</span></td>
+          <td>between cathode and GND rail</td>
+          <td>→ GND rail</td>
+        </tr>
+        <tr>
+          <td><span class="led-dot green-dot"></span>Green</td>
+          <td>→ <span class="pin-badge">GP13</span></td>
+          <td>between cathode and GND rail</td>
+          <td>→ GND rail</td>
+        </tr>
+        <tr>
+          <td style="font-weight:500;">GND rail</td>
+          <td colspan="3">→ Any <span class="pin-badge">GND</span> pin on the Pico (e.g. pin 38)</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <div class="callout callout-warn">
+      <span class="callout-icon">⚠</span>
+      <span><strong>Always connect the resistor.</strong> Place one leg of the resistor in the same row as the LED's short leg, and the other leg in the GND rail. The resistor protects both the LED and the Pico.</span>
+    </div>
+
+    <div class="diagram-box" style="margin-top:1rem;">
+      <div class="diagram-title">Circuit overview (schematic style)</div>
+      <svg viewBox="0 0 560 120" xmlns="http://www.w3.org/2000/svg" style="width:100%;display:block;">
+        <text x="30" y="25" font-family="JetBrains Mono,monospace" font-size="11" fill="#333" font-weight="500">PICO</text>
+        <rect x="10" y="30" width="70" height="80" rx="4" fill="#f0ede6" stroke="#b0a890" stroke-width="1"/>
+        <text x="45" y="60" font-family="JetBrains Mono,monospace" font-size="9" fill="#777" text-anchor="middle">GP15</text>
+        <text x="45" y="75" font-family="JetBrains Mono,monospace" font-size="9" fill="#777" text-anchor="middle">GP14</text>
+        <text x="45" y="90" font-family="JetBrains Mono,monospace" font-size="9" fill="#777" text-anchor="middle">GP13</text>
+        <text x="45" y="105" font-family="JetBrains Mono,monospace" font-size="9" fill="#777" text-anchor="middle">GND</text>
+        <line x1="80" y1="57" x2="130" y2="57" stroke="#e74c3c" stroke-width="1.5"/>
+        <rect x="130" y="52" width="18" height="10" rx="2" fill="none" stroke="#e74c3c" stroke-width="1.5"/>
+        <circle cx="160" cy="57" r="8" fill="#e74c3c" opacity="0.9" stroke="#c0392b" stroke-width="1"/>
+        <text x="172" y="61" font-family="DM Sans,sans-serif" font-size="10" fill="#555">Red LED</text>
+        <line x1="168" y1="57" x2="200" y2="57" stroke="#888" stroke-width="1.5"/>
+        <line x1="200" y1="57" x2="200" y2="100" stroke="#888" stroke-width="1"/>
+        <line x1="80" y1="72" x2="130" y2="72" stroke="#f39c12" stroke-width="1.5"/>
+        <rect x="130" y="67" width="18" height="10" rx="2" fill="none" stroke="#f39c12" stroke-width="1.5"/>
+        <circle cx="160" cy="72" r="8" fill="#f39c12" opacity="0.9" stroke="#d68910" stroke-width="1"/>
+        <text x="172" y="76" font-family="DM Sans,sans-serif" font-size="10" fill="#555">Yellow LED</text>
+        <line x1="168" y1="72" x2="200" y2="72" stroke="#888" stroke-width="1.5"/>
+        <line x1="200" y1="72" x2="200" y2="100" stroke="#888" stroke-width="1"/>
+        <line x1="80" y1="87" x2="130" y2="87" stroke="#2ecc71" stroke-width="1.5"/>
+        <rect x="130" y="82" width="18" height="10" rx="2" fill="none" stroke="#2ecc71" stroke-width="1.5"/>
+        <circle cx="160" cy="87" r="8" fill="#2ecc71" opacity="0.9" stroke="#1a9e52" stroke-width="1"/>
+        <text x="172" y="91" font-family="DM Sans,sans-serif" font-size="10" fill="#555">Green LED</text>
+        <line x1="168" y1="87" x2="200" y2="87" stroke="#888" stroke-width="1.5"/>
+        <line x1="200" y1="87" x2="200" y2="100" stroke="#888" stroke-width="1"/>
+        <line x1="80" y1="102" x2="200" y2="102" stroke="#555" stroke-width="2"/>
+        <line x1="200" y1="100" x2="200" y2="115" stroke="#555" stroke-width="2"/>
+        <text x="200" y="115" font-family="JetBrains Mono,monospace" font-size="10" fill="#555" text-anchor="middle">GND</text>
+        <text x="140" y="49" font-family="DM Sans,sans-serif" font-size="9" fill="#888">330Ω</text>
+        <text x="140" y="64" font-family="DM Sans,sans-serif" font-size="9" fill="#888">330Ω</text>
+        <text x="140" y="79" font-family="DM Sans,sans-serif" font-size="9" fill="#888">330Ω</text>
+      </svg>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="section-heading">
+      <span class="step-badge">STEP 4</span>
+      <h2 class="section-title">Set up Thonny</h2>
+    </div>
+    <div class="prose">
+      <p>Thonny is the code editor you'll use to write and run your program on the Pico. Follow these steps to get connected.</p>
+    </div>
+    <ul class="step-list">
+      <li><span class="step-num">1.</span><span>Plug the Pico into your computer using the micro USB cable.</span></li>
+      <li><span class="step-num">2.</span><span>Open <strong>Thonny</strong>. At the bottom of the window, click the interpreter area (it may say "Python 3") and select <strong>"MicroPython (Raspberry Pi Pico)"</strong>.</span></li>
+      <li><span class="step-num">3.</span><span>If prompted to install MicroPython firmware, click <strong>Install</strong> and wait for it to finish.</span></li>
+      <li><span class="step-num">4.</span><span>You should now see a <code>&gt;&gt;&gt;</code> prompt in the Shell panel at the bottom. The Pico is ready!</span></li>
+    </ul>
+    <div class="callout callout-tip">
+      <span class="callout-icon">✓</span>
+      <span>To run a quick test, type <code>print("Hello, Pico!")</code> in the Shell and press Enter. If you see the message printed back, everything is working.</span>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="section-heading">
+      <span class="step-badge">STEP 5</span>
+      <h2 class="section-title">Test your LEDs</h2>
+    </div>
+    <div class="prose">
+      <p>Before writing the full program, test each LED individually. Create a new file in Thonny, type the code below, and click the green Run button. Each LED should turn on briefly then off.</p>
+    </div>
+    <div class="code-block">
+      <pre><span class="cm"># Test all three LEDs one by one</span>
+<span class="kw">from</span> machine <span class="kw">import</span> Pin
+<span class="kw">import</span> utime
+
+<span class="cm"># Set up each LED pin as an output</span>
+<span class="var2">red</span>    = Pin(<span class="num">15</span>, Pin.OUT)
+<span class="var2">yellow</span> = Pin(<span class="num">14</span>, Pin.OUT)
+<span class="var2">green</span>  = Pin(<span class="num">13</span>, Pin.OUT)
+
+<span class="cm"># Test red</span>
+<span class="var2">red</span>.<span class="fn">value</span>(<span class="num">1</span>)   <span class="cm"># turn on</span>
+utime.<span class="fn">sleep</span>(<span class="num">1</span>)
+<span class="var2">red</span>.<span class="fn">value</span>(<span class="num">0</span>)   <span class="cm"># turn off</span>
+
+<span class="cm"># Test yellow</span>
+<span class="var2">yellow</span>.<span class="fn">value</span>(<span class="num">1</span>)
+utime.<span class="fn">sleep</span>(<span class="num">1</span>)
+<span class="var2">yellow</span>.<span class="fn">value</span>(<span class="num">0</span>)
+
+<span class="cm"># Test green</span>
+<span class="var2">green</span>.<span class="fn">value</span>(<span class="num">1</span>)
+utime.<span class="fn">sleep</span>(<span class="num">1</span>)
+<span class="var2">green</span>.<span class="fn">value</span>(<span class="num">0</span>)
+
+<span class="fn">print</span>(<span class="str">"LED test complete!"</span>)</pre>
+    </div>
+    <div class="callout callout-warn">
+      <span class="callout-icon">⚠</span>
+      <span>If an LED doesn't light up, check: (1) the legs are the right way around, (2) the resistor is connected in series with the cathode, (3) the correct GPIO pin number is used in your code.</span>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="section-heading">
+      <span class="step-badge">STEP 6</span>
+      <h2 class="section-title">Write the traffic light program</h2>
+    </div>
+    <div class="prose">
+      <p>Now for the main event. A UK traffic light follows this sequence: <strong>Green → Yellow → Red → Red+Yellow → Green</strong>. The code below runs this sequence in a continuous loop.</p>
+      <p>Create a new file, type (or copy) the code below, then save it as <code>traffic_light.py</code> on the Pico and click Run.</p>
+    </div>
+    <div class="code-block">
+      <pre><span class="cm"># Traffic Light Simulator — Raspberry Pi Pico
+# Controls red, yellow and green LEDs on GP15, GP14, GP13</span>
+
+<span class="kw">from</span> machine <span class="kw">import</span> Pin
+<span class="kw">import</span> utime
+
+<span class="cm"># --- Setup ---</span>
+<span class="var2">red</span>    = Pin(<span class="num">15</span>, Pin.OUT)
+<span class="var2">yellow</span> = Pin(<span class="num">14</span>, Pin.OUT)
+<span class="var2">green</span>  = Pin(<span class="num">13</span>, Pin.OUT)
+
+<span class="kw">def</span> <span class="fn">all_off</span>():
+    <span class="str">"""Turn all LEDs off."""</span>
+    <span class="var2">red</span>.<span class="fn">value</span>(<span class="num">0</span>)
+    <span class="var2">yellow</span>.<span class="fn">value</span>(<span class="num">0</span>)
+    <span class="var2">green</span>.<span class="fn">value</span>(<span class="num">0</span>)
+
+<span class="cm"># --- Main loop ---</span>
+<span class="fn">print</span>(<span class="str">"Traffic light running... press Stop to end."</span>)
+
+<span class="kw">while True</span>:
+
+    <span class="cm"># GREEN — go!</span>
+    <span class="fn">all_off</span>()
+    <span class="var2">green</span>.<span class="fn">value</span>(<span class="num">1</span>)
+    utime.<span class="fn">sleep</span>(<span class="num">3</span>)
+
+    <span class="cm"># YELLOW — get ready to stop</span>
+    <span class="fn">all_off</span>()
+    <span class="var2">yellow</span>.<span class="fn">value</span>(<span class="num">1</span>)
+    utime.<span class="fn">sleep</span>(<span class="num">1</span>)
+
+    <span class="cm"># RED — stop!</span>
+    <span class="fn">all_off</span>()
+    <span class="var2">red</span>.<span class="fn">value</span>(<span class="num">1</span>)
+    utime.<span class="fn">sleep</span>(<span class="num">3</span>)
+
+    <span class="cm"># RED + YELLOW — get ready to go</span>
+    <span class="var2">yellow</span>.<span class="fn">value</span>(<span class="num">1</span>)
+    utime.<span class="fn">sleep</span>(<span class="num">1</span>)</pre>
+    </div>
+    <div class="callout callout-tip">
+      <span class="callout-icon">✓</span>
+      <span>The <code>while True:</code> loop runs forever. To stop it, click the <strong>Stop/Restart</strong> button (red square) in Thonny, or press <strong>Ctrl + C</strong> in the Shell.</span>
+    </div>
+  </section>
+
+  <hr class="divider">
+
+  <section class="section">
+    <div class="section-heading">
+      <span class="step-badge">GOING FURTHER</span>
+      <h2 class="section-title">Extension challenges</h2>
+    </div>
+    <div class="prose" style="margin-bottom:0.85rem;">
+      <p>Finished? Try one of these challenges to go further.</p>
+    </div>
+    <div class="challenge-grid">
+      <div class="challenge-card">
+        <div class="challenge-level level-easy">Easy</div>
+        <p>Change the timing so the red phase lasts 5 seconds and the green phase only lasts 2 seconds.</p>
+      </div>
+      <div class="challenge-card">
+        <div class="challenge-level level-easy">Easy</div>
+        <p>Add a <code>print()</code> statement inside each phase so the Shell shows which light is currently on.</p>
+      </div>
+      <div class="challenge-card">
+        <div class="challenge-level level-medium">Medium</div>
+        <p>Make the yellow LED flash 3 times before switching to red, instead of staying on solid.</p>
+      </div>
+      <div class="challenge-card">
+        <div class="challenge-level level-medium">Medium</div>
+        <p>Store the timings in variables at the top of your code so they're easy to change in one place.</p>
+      </div>
+      <div class="challenge-card">
+        <div class="challenge-level level-hard">Hard</div>
+        <p>Use a push-button wired to a GPIO input to simulate a pedestrian crossing — pressing the button should trigger a red phase.</p>
+      </div>
+      <div class="challenge-card">
+        <div class="challenge-level level-hard">Hard</div>
+        <p>Wire up a second set of LEDs to represent the opposing traffic light, so when one is green the other is red.</p>
+      </div>
+    </div>
+  </section>
+
+  <hr class="divider">
+
+  <section class="section">
+    <div class="section-heading">
+      <span class="step-badge">REFERENCE</span>
+      <h2 class="section-title">Key concepts recap</h2>
+    </div>
+    <table class="wiring-table">
+      <thead>
+        <tr><th>Concept</th><th>What it means</th></tr>
+      </thead>
+      <tbody>
+        <tr><td><code>Pin(15, Pin.OUT)</code></td><td>Sets GP15 as a digital output that the code can control</td></tr>
+        <tr><td><code>.value(1)</code></td><td>Sets the pin HIGH (3.3 V) — turns the LED on</td></tr>
+        <tr><td><code>.value(0)</code></td><td>Sets the pin LOW (0 V) — turns the LED off</td></tr>
+        <tr><td><code>utime.sleep(n)</code></td><td>Pauses the program for <em>n</em> seconds</td></tr>
+        <tr><td><code>while True:</code></td><td>Loops the indented code block forever</td></tr>
+        <tr><td><code>def fn():</code></td><td>Defines a reusable function you can call by name</td></tr>
+      </tbody>
+    </table>
+  </section>
+
+</div>
+</body>
+</html>
