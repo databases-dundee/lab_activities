@@ -381,14 +381,11 @@
       <div class="part-card"><div class="part-qty">× 1</div><div class="part-name">Red LED</div></div>
       <div class="part-card"><div class="part-qty">× 1</div><div class="part-name">Yellow LED</div></div>
       <div class="part-card"><div class="part-qty">× 1</div><div class="part-name">Green LED</div></div>
-      <div class="part-card"><div class="part-qty">× 3</div><div class="part-name">Resistor</div></div>
-      <div class="part-card"><div class="part-qty">× 6+</div><div class="part-name">Jumper wires</div></div>
+      <div class="part-card"><div class="part-qty">× 1</div><div class="part-name">Resistor</div></div>
+      <div class="part-card"><div class="part-qty">× 2-5+</div><div class="part-name">Jumper wires</div></div>
+      <div class="part-card"><div class="part-qty">× 1</div><div class="part-name">Push Button</div></div>
       <div class="part-card"><div class="part-qty">× 1</div><div class="part-name">Micro USB cable</div></div>
-      <div class="part-card"><div class="part-qty">× 1</div><div class="part-name">Computer with VSCode</div></div>
-    </div>
-    <div class="callout callout-info" style="margin-top:1rem;">
-      <span class="callout-icon">ℹ</span>
-      <span><strong>Resistors are important.</strong> LEDs need a resistor in series to limit current — without one they can burn out or damage the Pico's pins. Always use a 330 Ω resistor with each LED.</span>
+      <div class="part-card"><div class="part-qty">× 1</div><div class="part-name">Computer with VS Code (the thing you're sitting in front of right now)</div></div>
     </div>
   </section>
 
@@ -420,20 +417,7 @@
     </div>
     <div class="diagram-box">
       <div class="diagram-title">LED leg identification</div>
-      <svg viewBox="0 0 340 90" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:340px;display:block;">
-        <circle cx="100" cy="45" r="18" fill="#e74c3c" opacity="0.85" stroke="#c0392b" stroke-width="1.5"/>
-        <line x1="82" y1="45" x2="50" y2="45" stroke="#c0392b" stroke-width="2"/>
-        <line x1="118" y1="45" x2="150" y2="45" stroke="#333" stroke-width="2"/>
-        <line x1="50" y1="30" x2="50" y2="60" stroke="#c0392b" stroke-width="3"/>
-        <line x1="150" y1="35" x2="150" y2="55" stroke="#555" stroke-width="2"/>
-        <text x="44" y="75" font-family="DM Sans,sans-serif" font-size="12" fill="#666" text-anchor="middle">Anode (+)</text>
-        <text x="44" y="88" font-family="JetBrains Mono,monospace" font-size="10" fill="#888" text-anchor="middle">longer leg</text>
-        <text x="150" y="75" font-family="DM Sans,sans-serif" font-size="12" fill="#666" text-anchor="middle">Cathode (−)</text>
-        <text x="150" y="88" font-family="JetBrains Mono,monospace" font-size="10" fill="#888" text-anchor="middle">shorter leg</text>
-        <line x1="175" y1="45" x2="230" y2="45" stroke="#aaa" stroke-width="1" stroke-dasharray="3,2"/>
-        <text x="235" y="40" font-family="DM Sans,sans-serif" font-size="12" fill="#555">→ to GPIO pin</text>
-        <text x="235" y="55" font-family="DM Sans,sans-serif" font-size="12" fill="#555">← to GND (via resistor)</text>
-      </svg>
+      <img src="leds.png" style="width:100%;max-width:100%;display:block"/>
     </div>
   </section>
 
@@ -443,83 +427,20 @@
       <h2 class="section-title">Wire up the circuit</h2>
     </div>
     <div class="prose">
-      <p>Follow the wiring table below carefully. Place the Pico across the centre gap of the breadboard so its pins align with the rows on each side. Connect each LED with a resistor between the cathode and the GND rail.</p>
+      <p>Wire up the circuit like so (I've taken a picture of my circuit for reference):
+      <ul class="step-list">
+      <li><span class="step-num">1.</span><span>Plug the long leg of the <strong>red</strong> LED into Pin <strong>7</strong> and the short leg into one of the power rails</span></li>
+      <li><span class="step-num">2.</span><span>Plug the long leg of the <strong>yellow</strong> LED into Pin <strong>10</strong> and the short leg into the same power rail</span></li>
+      <li><span class="step-num">3.</span><span>Plug the long leg of the <strong>green</strong> LED into Pin <strong>13</strong> and the short leg into the same power rail</span></li>
+      <li><span class="step-num">4.</span><span>Plug one end of the resistor into the power rail, and the other end into one of the <strong>G</strong> pins</span></li>
+    </ul>
+      </p>
+        <img src="wiring.png" style="width:100%;max-width:100%;display:block"/>
     </div>
-
-    <table class="wiring-table">
-      <thead>
-        <tr>
-          <th>LED</th>
-          <th>LED anode (+, long leg)</th>
-          <th>Resistor connects</th>
-          <th>LED cathode (−, short leg)</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><span class="led-dot red-dot"></span>Red</td>
-          <td>→ <span class="pin-badge">GP15</span></td>
-          <td>between cathode and GND rail</td>
-          <td>→ GND rail</td>
-        </tr>
-        <tr>
-          <td><span class="led-dot yellow-dot"></span>Yellow</td>
-          <td>→ <span class="pin-badge">GP14</span></td>
-          <td>between cathode and GND rail</td>
-          <td>→ GND rail</td>
-        </tr>
-        <tr>
-          <td><span class="led-dot green-dot"></span>Green</td>
-          <td>→ <span class="pin-badge">GP13</span></td>
-          <td>between cathode and GND rail</td>
-          <td>→ GND rail</td>
-        </tr>
-        <tr>
-          <td style="font-weight:500;">GND rail</td>
-          <td colspan="3">→ Any <span class="pin-badge">GND</span> pin on the Pico (e.g. pin 38)</td>
-        </tr>
-      </tbody>
-    </table>
 
     <div class="callout callout-warn">
       <span class="callout-icon">⚠</span>
-      <span><strong>Always connect the resistor.</strong> Place one leg of the resistor in the same row as the LED's short leg, and the other leg in the GND rail. The resistor protects both the LED and the Pico.</span>
-    </div>
-
-    <div class="diagram-box" style="margin-top:1rem;">
-      <div class="diagram-title">Circuit overview (schematic style)</div>
-      <svg viewBox="0 0 560 120" xmlns="http://www.w3.org/2000/svg" style="width:100%;display:block;">
-        <text x="30" y="25" font-family="JetBrains Mono,monospace" font-size="11" fill="#333" font-weight="500">PICO</text>
-        <rect x="10" y="30" width="70" height="80" rx="4" fill="#f0ede6" stroke="#b0a890" stroke-width="1"/>
-        <text x="45" y="60" font-family="JetBrains Mono,monospace" font-size="9" fill="#777" text-anchor="middle">GP15</text>
-        <text x="45" y="75" font-family="JetBrains Mono,monospace" font-size="9" fill="#777" text-anchor="middle">GP14</text>
-        <text x="45" y="90" font-family="JetBrains Mono,monospace" font-size="9" fill="#777" text-anchor="middle">GP13</text>
-        <text x="45" y="105" font-family="JetBrains Mono,monospace" font-size="9" fill="#777" text-anchor="middle">GND</text>
-        <line x1="80" y1="57" x2="130" y2="57" stroke="#e74c3c" stroke-width="1.5"/>
-        <rect x="130" y="52" width="18" height="10" rx="2" fill="none" stroke="#e74c3c" stroke-width="1.5"/>
-        <circle cx="160" cy="57" r="8" fill="#e74c3c" opacity="0.9" stroke="#c0392b" stroke-width="1"/>
-        <text x="172" y="61" font-family="DM Sans,sans-serif" font-size="10" fill="#555">Red LED</text>
-        <line x1="168" y1="57" x2="200" y2="57" stroke="#888" stroke-width="1.5"/>
-        <line x1="200" y1="57" x2="200" y2="100" stroke="#888" stroke-width="1"/>
-        <line x1="80" y1="72" x2="130" y2="72" stroke="#f39c12" stroke-width="1.5"/>
-        <rect x="130" y="67" width="18" height="10" rx="2" fill="none" stroke="#f39c12" stroke-width="1.5"/>
-        <circle cx="160" cy="72" r="8" fill="#f39c12" opacity="0.9" stroke="#d68910" stroke-width="1"/>
-        <text x="172" y="76" font-family="DM Sans,sans-serif" font-size="10" fill="#555">Yellow LED</text>
-        <line x1="168" y1="72" x2="200" y2="72" stroke="#888" stroke-width="1.5"/>
-        <line x1="200" y1="72" x2="200" y2="100" stroke="#888" stroke-width="1"/>
-        <line x1="80" y1="87" x2="130" y2="87" stroke="#2ecc71" stroke-width="1.5"/>
-        <rect x="130" y="82" width="18" height="10" rx="2" fill="none" stroke="#2ecc71" stroke-width="1.5"/>
-        <circle cx="160" cy="87" r="8" fill="#2ecc71" opacity="0.9" stroke="#1a9e52" stroke-width="1"/>
-        <text x="172" y="91" font-family="DM Sans,sans-serif" font-size="10" fill="#555">Green LED</text>
-        <line x1="168" y1="87" x2="200" y2="87" stroke="#888" stroke-width="1.5"/>
-        <line x1="200" y1="87" x2="200" y2="100" stroke="#888" stroke-width="1"/>
-        <line x1="80" y1="102" x2="200" y2="102" stroke="#555" stroke-width="2"/>
-        <line x1="200" y1="100" x2="200" y2="115" stroke="#555" stroke-width="2"/>
-        <text x="200" y="115" font-family="JetBrains Mono,monospace" font-size="10" fill="#555" text-anchor="middle">GND</text>
-        <text x="140" y="49" font-family="DM Sans,sans-serif" font-size="9" fill="#888">330Ω</text>
-        <text x="140" y="64" font-family="DM Sans,sans-serif" font-size="9" fill="#888">330Ω</text>
-        <text x="140" y="79" font-family="DM Sans,sans-serif" font-size="9" fill="#888">330Ω</text>
-      </svg>
+      <span>The resistor is <strong>super important</strong>. It protects both the LED and the Raspberry Pi from overheating and going up in smoke (this happens at least twice a year).</span>
     </div>
   </section>
 
@@ -529,18 +450,15 @@
       <h2 class="section-title">Set up Thonny</h2>
     </div>
     <div class="prose">
-      <p>Thonny is the code editor you'll use to write and run your program on the Pico. Follow these steps to get connected.</p>
+      <p>Visual Studio Code (VS Code) is the code editor you'll use to write and run your program on the Pico. Follow these steps to get connected.</p>
     </div>
     <ul class="step-list">
       <li><span class="step-num">1.</span><span>Plug the Pico into your computer using the micro USB cable.</span></li>
-      <li><span class="step-num">2.</span><span>Open <strong>Thonny</strong>. At the bottom of the window, click the interpreter area (it may say "Python 3") and select <strong>"MicroPython (Raspberry Pi Pico)"</strong>.</span></li>
-      <li><span class="step-num">3.</span><span>If prompted to install MicroPython firmware, click <strong>Install</strong> and wait for it to finish.</span></li>
-      <li><span class="step-num">4.</span><span>You should now see a <code>&gt;&gt;&gt;</code> prompt in the Shell panel at the bottom. The Pico is ready!</span></li>
+      <li><span class="step-num">2.</span><span>VS Code is already open for you. When you plug it in, you should see a nice confirmation message like this:</span></li>
+        <img src="connected.png" style="width:100%;max-width:100%;display:block"/>
+      <li><span class="step-num">3.</span><span>To run a quick test, type <code>print("Hello!")</code> into the code editor and press the 'Run' button at the bottom (<strong>not</strong></srong> the one up top). If you see the message printed back, everything is working.</span></li>
+        <img src="run.png" style="width:100%;max-width:100%;display:block"/>
     </ul>
-    <div class="callout callout-tip">
-      <span class="callout-icon">✓</span>
-      <span>To run a quick test, type <code>print("Hello, Pico!")</code> in the Shell and press Enter. If you see the message printed back, everything is working.</span>
-    </div>
   </section>
 
   <section class="section">
@@ -549,38 +467,38 @@
       <h2 class="section-title">Test your LEDs</h2>
     </div>
     <div class="prose">
-      <p>Before writing the full program, test each LED individually. Create a new file in Thonny, type the code below, and click the green Run button. Each LED should turn on briefly then off.</p>
+      <p>Before writing the full program, let's test each LED individually. In the code editor, type or copypaste the code below, and click the Run button. All being well, each LED should turn on briefly then off.</p>
     </div>
     <div class="code-block">
       <pre><span class="cm"># Test all three LEDs one by one</span>
 <span class="kw">from</span> machine <span class="kw">import</span> Pin
-<span class="kw">import</span> utime
+<span class="kw">from</span> time <span class="kw">import</span> sleep
 
 <span class="cm"># Set up each LED pin as an output</span>
-<span class="var2">red</span>    = Pin(<span class="num">15</span>, Pin.OUT)
-<span class="var2">yellow</span> = Pin(<span class="num">14</span>, Pin.OUT)
+<span class="var2">red</span>    = Pin(<span class="num">7</span>, Pin.OUT)
+<span class="var2">yellow</span> = Pin(<span class="num">10</span>, Pin.OUT)
 <span class="var2">green</span>  = Pin(<span class="num">13</span>, Pin.OUT)
 
 <span class="cm"># Test red</span>
-<span class="var2">red</span>.<span class="fn">value</span>(<span class="num">1</span>)   <span class="cm"># turn on</span>
-utime.<span class="fn">sleep</span>(<span class="num">1</span>)
-<span class="var2">red</span>.<span class="fn">value</span>(<span class="num">0</span>)   <span class="cm"># turn off</span>
+<span class="var2">red</span>.<span class="fn">on</span>()   <span class="cm"># turn on</span>
+<span class="fn">sleep</span>(<span class="num">1</span>)
+<span class="var2">red</span>.<span class="fn">off</span>()   <span class="cm"># turn off</span>
 
 <span class="cm"># Test yellow</span>
-<span class="var2">yellow</span>.<span class="fn">value</span>(<span class="num">1</span>)
-utime.<span class="fn">sleep</span>(<span class="num">1</span>)
-<span class="var2">yellow</span>.<span class="fn">value</span>(<span class="num">0</span>)
+<span class="var2">yellow</span>.<span class="fn">on</span>() 
+<span class="fn">sleep</span>(<span class="num">1</span>)
+<span class="var2">yellow</span>.<span class="fn">off</span>()
 
 <span class="cm"># Test green</span>
-<span class="var2">green</span>.<span class="fn">value</span>(<span class="num">1</span>)
-utime.<span class="fn">sleep</span>(<span class="num">1</span>)
-<span class="var2">green</span>.<span class="fn">value</span>(<span class="num">0</span>)
+<span class="var2">green</span>.<span class="fn">on</span>() 
+<span class="fn">sleep</span>(<span class="num">1</span>)
+<span class="var2">green</span>.<span class="fn">off</span>()
 
 <span class="fn">print</span>(<span class="str">"LED test complete!"</span>)</pre>
     </div>
     <div class="callout callout-warn">
       <span class="callout-icon">⚠</span>
-      <span>If an LED doesn't light up, check: (1) the legs are the right way around, (2) the resistor is connected in series with the cathode, (3) the correct GPIO pin number is used in your code.</span>
+      <span>If an LED doesn't light up, check: (1) the legs are the right way around, (2) the correct pin number is used in your code.</span>
     </div>
   </section>
 
@@ -590,8 +508,38 @@ utime.<span class="fn">sleep</span>(<span class="num">1</span>)
       <h2 class="section-title">Write the traffic light program</h2>
     </div>
     <div class="prose">
-      <p>Now for the main event. A UK traffic light follows this sequence: <strong>Green → Yellow → Red → Red+Yellow → Green</strong>. The code below runs this sequence in a continuous loop.</p>
-      <p>Create a new file, type (or copy) the code below, then save it as <code>traffic_light.py</code> on the Pico and click Run.</p>
+      <p>Now for the main event. A UK traffic light follows this sequence: <strong>Green → Yellow → Red → Red+Yellow → Green</strong>.</p>
+      <p>You've seen from the code above how to turn an LED on/off, and how to pause for a bit (using the <code>sleep()</code> function), so you should be able to work this out for yourself! Notice in 
+      the code below that there is now a function called <code>all_off</code> which, as the name suggests, turns all the LEDs off! You can run this function by writing <code>all_off()</code></p>
+      <p>If you get stuck, the solution is hidden below</p>
+      <div class="callout callout-warn">
+      <span class="callout-icon">⚠</span>
+      <details>
+    <summary>SPOILER ALERT</summary>
+      <div class="code-block">
+        <pre>
+        <span class="cm"># GREEN — go!</span>
+        <span class="fn">all_off</span>()
+        <span class="var2">green</span>.<span class="fn">on</span>()
+        <span class="fn">sleep</span>(<span class="num">3</span>)
+
+        <span class="cm"># YELLOW — get ready to stop</span>
+        <span class="fn">all_off</span>()
+        <span class="var2">yellow</span>.<span class="fn">on</span>()
+        <span class="fn">sleep</span>(<span class="num">1</span>)
+
+        <span class="cm"># RED — stop!</span>
+        <span class="fn">all_off</span>()
+        <span class="var2">red</span>.<span class="fn">on</span>()
+        <span class="fn">sleep</span>(<span class="num">3</span>)
+
+        <span class="cm"># RED + YELLOW — get ready to go</span>
+        <span class="var2">yellow</span>.<span class="fn">on</span>()
+        <span class="fn">sleep</span>(<span class="num">1</span>)</pre>
+      </div>
+    </details>
+    </div>
+      
     </div>
     <div class="code-block">
       <pre><span class="cm"># Traffic Light Simulator — Raspberry Pi Pico
@@ -607,37 +555,35 @@ utime.<span class="fn">sleep</span>(<span class="num">1</span>)
 
 <span class="kw">def</span> <span class="fn">all_off</span>():
     <span class="str">"""Turn all LEDs off."""</span>
-    <span class="var2">red</span>.<span class="fn">value</span>(<span class="num">0</span>)
-    <span class="var2">yellow</span>.<span class="fn">value</span>(<span class="num">0</span>)
-    <span class="var2">green</span>.<span class="fn">value</span>(<span class="num">0</span>)
+    <span class="var2">red</span>.<span class="fn">off</span>()
+    <span class="var2">yellow</span>.<span class="fn">off</span>()
+    <span class="var2">green</span>.<span class="fn">off</span>()
 
 <span class="cm"># --- Main loop ---</span>
 <span class="fn">print</span>(<span class="str">"Traffic light running... press Stop to end."</span>)
 
+<span class="cm"># "While True" means "do this stuff forever or until we manually stop it"</span>
 <span class="kw">while True</span>:
 
     <span class="cm"># GREEN — go!</span>
-    <span class="fn">all_off</span>()
-    <span class="var2">green</span>.<span class="fn">value</span>(<span class="num">1</span>)
-    utime.<span class="fn">sleep</span>(<span class="num">3</span>)
+    <span class="cm">Code for green light only (for 5-6 seconds)</span>
+
 
     <span class="cm"># YELLOW — get ready to stop</span>
-    <span class="fn">all_off</span>()
-    <span class="var2">yellow</span>.<span class="fn">value</span>(<span class="num">1</span>)
-    utime.<span class="fn">sleep</span>(<span class="num">1</span>)
+    <span class="cm">Code for yellow light only (maybe 1-2 seconds)</span>
+
 
     <span class="cm"># RED — stop!</span>
-    <span class="fn">all_off</span>()
-    <span class="var2">red</span>.<span class="fn">value</span>(<span class="num">1</span>)
-    utime.<span class="fn">sleep</span>(<span class="num">3</span>)
+    <span class="cm">Code for red light only (3-4 seconds)</span>
+
 
     <span class="cm"># RED + YELLOW — get ready to go</span>
-    <span class="var2">yellow</span>.<span class="fn">value</span>(<span class="num">1</span>)
-    utime.<span class="fn">sleep</span>(<span class="num">1</span>)</pre>
+    <span class="cm">Code for red and yellow light together (1-2 seconds)</span>
+
     </div>
     <div class="callout callout-tip">
       <span class="callout-icon">✓</span>
-      <span>The <code>while True:</code> loop runs forever. To stop it, click the <strong>Stop/Restart</strong> button (red square) in Thonny, or press <strong>Ctrl + C</strong> in the Shell.</span>
+      <span>The <code>while True:</code> loop runs forever. To stop it, click the <strong>Stop</strong> button (in case that wasn't obvious)</span>
     </div>
   </section>
 
@@ -646,60 +592,97 @@ utime.<span class="fn">sleep</span>(<span class="num">1</span>)
   <section class="section">
     <div class="section-heading">
       <span class="step-badge">GOING FURTHER</span>
-      <h2 class="section-title">Extension challenges</h2>
+      <h2 class="section-title">Pedestrian crossing</h2>
     </div>
     <div class="prose" style="margin-bottom:0.85rem;">
-      <p>Finished? Try one of these challenges to go further.</p>
+      <p>If you've done that, let's try and get the button involved! This is going to simulate a pedestrian crossing: when the pedestrian presses the button, it triggers a red light.</p>
+      <p>Here are the steps to get the button wired up:</p>
+      <ul class="step-list">
+      <li><span class="step-num">1.</span><span>Place the button on the breadboard so that it bridges the centre gap</span></li>
+      <li><span class="step-num">2.</span><span>Wire one corner to a <strong>3V</strong> pin on the Raspberry Pi</span></li>
+      <li><span class="step-num">3.</span><span>Wire the opposite corner to Pin <strong>15</strong></span></li>
+      <p>Below is a picture of my wiring</p>
+        <img src="button.png" style="width:100%;max-width:100%;display:block"/>
+    </ul>
+    
+    <div class="section-heading" style="margin-top:1.5rem;">
+      <h3 style="font-family:'Fraunces',serif;font-size:17px;font-weight:600;">How the code works differently</h3>
     </div>
-    <div class="challenge-grid">
-      <div class="challenge-card">
-        <div class="challenge-level level-easy">Easy</div>
-        <p>Change the timing so the red phase lasts 5 seconds and the green phase only lasts 2 seconds.</p>
-      </div>
-      <div class="challenge-card">
-        <div class="challenge-level level-easy">Easy</div>
-        <p>Add a <code>print()</code> statement inside each phase so the Shell shows which light is currently on.</p>
-      </div>
-      <div class="challenge-card">
-        <div class="challenge-level level-medium">Medium</div>
-        <p>Make the yellow LED flash 3 times before switching to red, instead of staying on solid.</p>
-      </div>
-      <div class="challenge-card">
-        <div class="challenge-level level-medium">Medium</div>
-        <p>Store the timings in variables at the top of your code so they're easy to change in one place.</p>
-      </div>
-      <div class="challenge-card">
-        <div class="challenge-level level-hard">Hard</div>
-        <p>Use a push-button wired to a GPIO input to simulate a pedestrian crossing — pressing the button should trigger a red phase.</p>
-      </div>
-      <div class="challenge-card">
-        <div class="challenge-level level-hard">Hard</div>
-        <p>Wire up a second set of LEDs to represent the opposing traffic light, so when one is green the other is red.</p>
-      </div>
+    <div class="prose">
+      <p>The original program uses <code>sleep()</code>, which completely pauses the code; it can't detect a button press while it's waiting. To fix this, the 'sleep' phase is replaced with a short 
+        polling loop that checks the state of the button every 100 ms. If the button is pressed, the loop ends early and triggers the red phase.</p>
     </div>
+    <div class="callout callout-tip" style="margin-top:0.5rem;">
+      <span class="callout-icon">✓</span>
+      <span><strong>Polling</strong> means repeatedly checking something at short intervals. It's a simple alternative to the "interrupt", which we introduce in 1st year!</span>
+    </div>
+    <div class="prose">
+      <p>Create a new file, type (or copy) the code below, and save it as <code>pedestrian.py</code> on the Pico. Click Run, then try pressing the button while the green light is on.</p>
+    </div>
+    <div class="code-block">
+      <pre><span class="cm"># Pedestrian Crossing — Raspberry Pi Pico
+# Button on GP15 triggers a red phase during green</span>
+
+<span class="kw">from</span> machine <span class="kw">import</span> Pin
+<span class="kw">from</span> time <span class="kw">import</span> sleep
+
+<span class="cm"># --- Setup ---</span>
+<span class="var2">red</span>    = Pin(<span class="num">7</span>, Pin.OUT)
+<span class="var2">yellow</span> = Pin(<span class="num">10</span>, Pin.OUT)
+<span class="var2">green</span>  = Pin(<span class="num">13</span>, Pin.OUT)
+<span class="var2">button</span> = Pin(<span class="num">15</span>, Pin.IN, Pin.PULL_DOWN)  <span class="cm"># reads 0 normally, 1 when pressed</span>
+
+<span class="kw">def</span> <span class="fn">all_off</span>():
+    <span class="str">"""Turn all LEDs off."""</span>
+    <span class="var2">red</span>.<span class="fn">off</span>()
+    <span class="var2">yellow</span>.<span class="fn">off</span>()
+    <span class="var2">green</span>.<span class="fn">off</span>()
+
+<span class="kw">def</span> <span class="fn">wait_or_press</span>(seconds):
+    <span class="str">"""Wait, but return True early if the button is pressed."""</span>
+    <span class="kw">for</span> _ <span class="kw">in</span> <span class="fn">range</span>(seconds * <span class="num">10</span>):    <span class="cm"># loop once per 100ms</span>
+        <span class="kw">if</span> <span class="var2">button</span>.<span class="fn">value</span>() == <span class="num">1</span>:       <span class="cm"># button pressed</span>
+            <span class="kw">return True</span>
+            <span class="fn">sleep</span>(<span class="num">0.1</span>)
+    <span class="kw">return False</span>
+
+<span class="kw">def</span> <span class="fn">go_red</span>():
+    <span class="str">"""Run yellow then red, then pause for pedestrians."""</span>
+    <span class="fn">all_off</span>()
+    <span class="var2">yellow</span>.<span class="fn">on</span>()
+    <span class="fn">sleep</span>(<span class="num">1</span>)
+    <span class="fn">all_off</span>()
+    <span class="var2">red</span>.<span class="fn">on</span>()
+    <span class="fn">sleep</span>(<span class="num">4</span>)                   <span class="cm"># time for pedestrians to cross</span>
+
+  <span class="cm"># --- Main loop ---</span>
+  <span class="fn">print</span>(<span class="str">"Running — press button for pedestrian crossing."</span>)
+
+  <span class="kw">while True</span>:
+
+    <span class="cm"># GREEN — watch for button press</span>
+    <span class="fn">all_off</span>()
+    <span class="var2">green</span>.<span class="fn">on</span>()
+    <span class="var2">pressed</span> = <span class="fn">wait_or_press</span>(<span class="num">10</span>)     <span class="cm"># green lasts up to 10 seconds</span>
+
+    <span class="kw">if</span> <span class="var2">pressed</span>:
+        <span class="fn">sleep</span>(<span class="num">2</span>)              <span class="cm"># short delay before changing</span>
+
+    <span class="fn">go_red</span>()                        <span class="cm"># red phase (automatic or triggered)</span>
+
+    <span class="cm"># RED + YELLOW — get ready to go</span>
+    <span class="var2">yellow</span>.<span class="fn">on</span>()
+    <span class="fn">sleep</span>(<span class="num">1</span>)</pre>
+    </div>
+    <div class="callout callout-warn" style="margin-top:0.85rem;">
+      <span class="callout-icon">⚠</span>
+      <span>Pressing the button during the red or yellow phases has no effect — the code only checks for presses while the green light is on. This is intentional: a real crossing won't change again until the next green phase.</span>
+    </div>
+
   </section>
 
   <hr class="divider">
 
-  <section class="section">
-    <div class="section-heading">
-      <span class="step-badge">REFERENCE</span>
-      <h2 class="section-title">Key concepts recap</h2>
-    </div>
-    <table class="wiring-table">
-      <thead>
-        <tr><th>Concept</th><th>What it means</th></tr>
-      </thead>
-      <tbody>
-        <tr><td><code>Pin(15, Pin.OUT)</code></td><td>Sets GP15 as a digital output that the code can control</td></tr>
-        <tr><td><code>.value(1)</code></td><td>Sets the pin HIGH (3.3 V) — turns the LED on</td></tr>
-        <tr><td><code>.value(0)</code></td><td>Sets the pin LOW (0 V) — turns the LED off</td></tr>
-        <tr><td><code>utime.sleep(n)</code></td><td>Pauses the program for <em>n</em> seconds</td></tr>
-        <tr><td><code>while True:</code></td><td>Loops the indented code block forever</td></tr>
-        <tr><td><code>def fn():</code></td><td>Defines a reusable function you can call by name</td></tr>
-      </tbody>
-    </table>
-  </section>
 
 </div>
 </body>
