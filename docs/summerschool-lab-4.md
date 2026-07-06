@@ -15,23 +15,23 @@ We're going to work through this in stages, starting from the header and working
 ### Styling the header
 1. The first thing we should do is pick a nice font for our website. Go to <a href="fonts.google.com">fonts.google.com</a> and choose a font you like. I've gone with Open Sans.
 
-<img src = "css/css1.png" class="aws">
+<img src = "css/css1.PNG" class="aws">
 
 Click the 'Get Font' button...
 
-<img src = "css/css2.png" class="aws">
+<img src = "css/css2.PNG" class="aws">
 
 ...and then the 'Get Embed Code' button
 
-<img src = "css/css3.png" class="aws">
+<img src = "css/css3.PNG" class="aws">
 
 In the next screen that appears, click on '@import' and copy the line of text that is in between the 'style' tags
 
-<img src = "css/css4.png" class="awssmaller">
+<img src = "css/css4.PNG" class="awssmaller">
 
 Then paste this into the 'style.css' file:
 
-<img src = "css/css5.png" class="awssmaller">
+<img src = "css/css5.PNG" class="awssmaller">
 
 Now, we'll need to make a rule that says all the text in our website should have this font. Make a rule that looks like this, changing it if you've decided on a different font:
 
@@ -108,15 +108,15 @@ Of course, this won't do anything without a CSS rule to say what the flex-contai
 ```
 This means that any element with the class 'flex-container' will display its children flexibly, like I mentioned earlier! Refresh your page, and you should probably see something that looks like this:
 
-<img src = "css/css6.png" class="awssmaller">
+<img src = "css/css6.PNG" class="awssmaller">
 
 Hm, not ideal. It's taken all three of our paragraphs, and our image, and distributed them evenly. What we'd *like* is for all the paragraphs to be considered as a single element. We can do this by wrapping them all in another element, like a ```<div>```! 
 
-<img src = "css/css7.png" class="awssmaller">
+<img src = "css/css7.PNG" class="awssmaller">
 
 Wrap your ```<p>``` elements in a ```<div>```, refresh the page, and hopefully you'll see something much better!
 
-<img src = "css/css8.png" class="awssmaller">
+<img src = "css/css8.PNG" class="awssmaller">
 
 All done (hopefully!). Now we can move onto the four articles underneath.
 
@@ -163,7 +163,7 @@ Finally, add a light gray background colour to each of the articles using a CSS 
 
 7. We've just got to style our footer now! Once again, should also be a ```class="flex-container"``` element, so that we can evenly distribute the company name, image, and list across the footer. Add this to the ```<footer>``` tag, and see what happens. You should see something like this:
 
-<img src = "css/css9.png" class="aws">
+<img src = "css/css9.PNG" class="aws">
 
 As you can see, the title, image, and list are all squished together. We don't want this, and there are various ways of spacing out content in a flex container. The one I would suggest using is ```justify-content: space-between;``` which will put the company name at the left, the list at the right, and the image in the middle.
 
