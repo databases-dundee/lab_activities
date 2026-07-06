@@ -1,6 +1,6 @@
 # Lab 4 - Styling our HTML
 
-This lab is all about taking our HTML and writing CSS to arrange it in the way we would like. We'll be working with the HTML that I made last week, which I will upload so you can work along with the video and the instructions below if you'd like.
+This lab is all about taking our HTML and writing CSS to arrange it in the way we would like. We'll be working with the HTML that I made last week, which I will upload so you can work along with the video and the instructions below if you'd like. 
 
 ## What you need to do
 
