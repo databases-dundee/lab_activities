@@ -13,7 +13,7 @@ In this lab, we'll be using Hive MQTT, which is a free MQTT Broker (unless you'r
 
 ## Step 1 – Pick your topic name
 
-Last year there was account creation and other complications, but this year there is nothing to sign up for. HiveMQ runs a public broker at broker.hivemq.com that anyone can use for free, with no account, username or password. [Click here])(https://broker.hivemq.com) to access it.
+Last year there was account creation and other complications, but this year there is nothing to sign up for. HiveMQ runs a public broker at broker.hivemq.com that anyone can use for free, with no account, username or password. [Click here](https://broker.hivemq.com) to access it.
 
 The catch: it's public. Everyone in this room, and anyone else in the world, is using the same broker. If we all publish to /button, we'll all be turning each other's LEDs on and off. So every topic you use should start with a prefix that's unique to you, like:
 
