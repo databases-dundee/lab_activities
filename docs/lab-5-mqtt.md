@@ -10,7 +10,7 @@ The aim of the lab is:
 # Getting started with AWS
 In this lab, you'll be registering your Raspberry Pi as a client on a cloud-based IoT system, managed by Amazon Web Services, which we have a partnership with in Computing.
 
-You should have received an email from AWS Academy at about 10.30pm yesterday asking you to create an account. If you don't see this in your inbox, check your junk mail folder, and if it isn't there either, please let me know. If you **have** received this email, then great! Please follow the steps to create an account.
+You should have received an email from AWS Academy about an hour ago asking you to create an account. If you don't see this in your inbox, check your junk mail folder, and if it isn't there either, please let me know. If you **have** received this email, then great! Please follow the steps to create an account.
 
 
 ## Step 1 - Launch the AWS Learner Lab
