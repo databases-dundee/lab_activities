@@ -13,7 +13,7 @@ In this lab, we'll be using Hive MQTT, which is a free MQTT Broker (unless you'r
 
 ## Step 1 – Pick your topic name
 
-Last year there was account creation and other complications, but this year there is nothing to sign up for. HiveMQ runs a public broker at broker.hivemq.com that anyone can use for free, with no account, username or password. [Click here](https://broker.hivemq.com) to access it. If you click `Connect` you'll see connection details that you'll need later, which will look something like this:
+Last year there was account creation and other complications, but this year there is nothing to sign up for. HiveMQ runs a public broker at broker.hivemq.com that anyone can use for free, with no account, username or password. [Click here](https://broker.hivemq.com) to access it. If you click `Connect` you'll see connection details, which will look something like this:
 
 <img src="hive6.png" class="awssmaller">
 
@@ -33,7 +33,7 @@ Never send anything private over the public broker. Anyone who guesses your topi
 Actually you should have done this last week. If you **didn't**, go back to last week's lab, read the instructions, install Thonny, add the umqtt.simple package, and come back.
 
 ## Step 3 - Publishing to your MQTT broker
-In this case, we'll be making two separate applications - one that *publishes*, and one that *subscribes*. Later, once you're done, you can find someone else with a Pico to see if you can publish and subscribe to one another (or just grab an extra Pico if there's one laying around and you're not into talking to other people). I found a box in my house that I forgot about with like 8 more which I've put in the room with the others.
+In this case, we'll be making two separate applications - one that *publishes*, and one that *subscribes*. Later, once you're done, you can find someone else with a Pico to see if you can publish and subscribe to one another (or just grab an extra Pico if there's one laying around and you're not into talking to other people).
 
 Anyway, here is some code to publish to a topic, that we'll be subscribing to soon. Copypaste this into a file and call it 'publish.py' or something like that.
 
