@@ -34,7 +34,7 @@ To include quotes in a document, the 'blockquote' element is used, along with th
 Here's the <a href="https://codepen.io/Dan_Rough/pen/YPXgWgE" target="_blank">link to the CodePen showing how quotes work</a>.
 
 ## Anything to submit?
-There's no mandatory submission here, but I'll be going around the lab and checking in on everyone. If you would like some feedback that I didn't give during the lab, please email me at drough001@dundee.ac.uk!
+There's no mandatory submission here, but if you'd like some feedback please email me at drough001@dundee.ac.uk!
 
 ## What else?
 If you're done with that and want some more practice, try the following:

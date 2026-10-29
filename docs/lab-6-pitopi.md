@@ -11,25 +11,19 @@ The aim of the lab is:
 # Getting started with Hive MQTT
 In this lab, we'll be using Hive MQTT, which is a free MQTT Broker (unless you're dealing with loads of devices) that is a bit easier to work with than Amazon AWS, although arguably less secure.
 
-First go to [the Hive MQTT website](https://www.hivemq.com/company/get-hivemq/) and click on the left-most option to sign up for free
+## Step 1 – Pick your topic name
 
-<img src="hive05.png" class="awssmaller">
+Last year there was account creation and other complications, but this year there is nothing to sign up for. HiveMQ runs a public broker at broker.hivemq.com that anyone can use for free, with no account, username or password. [Click here])(https://broker.hivemq.com) to access it.
 
-Create yourself an account with your uni email address (or any email address really) and then you can get started in setting it up. When it asks you what service you want, make sure you click the free one (not the one it 'recommends')
+The catch: it's public. Everyone in this room, and anyone else in the world, is using the same broker. If we all publish to /button, we'll all be turning each other's LEDs on and off. So every topic you use should start with a prefix that's unique to you, like:
 
-<img src="hive2.PNG" class="awssmaller">
+```py
+cs12001/<your-name>/button
+```
 
+For example, cs12001/drough/button. Use lowercase letters, no spaces, and write your topic down because you'll need it in every step below.
 
-## Step 1 - Managing your Cluster
-Your cluster is just the name given to your virtual MQTT Broker. There are a couple of steps to getting it up and running. When you finish creating your account, you'll see there's already a cluster created for you. Click on "Manage Cluster" first.
-
-<img src="hive3.PNG" class="awssmaller">
-
-Then in the 'Access Management' tab, click on 'Edit'. This is where you'll add your personal credentials
-
-<img src="hive4.png" class="awssmaller">
-
-Click on 'Add Credentials' and then you'll be asked to enter a username (anything you like) a password (not necessarily the same as the one you used to create an account) and 'permissions' (set this to Publish/Subscribe).
+Never send anything private over the public broker. Anyone who guesses your topic can read your messages, and anyone can publish to it too. That's fine for button presses; it's not fine for passwords, names or anything personal.
 
 <img src="hive5.PNG" class="awssmaller">
 
@@ -55,14 +49,14 @@ from umqtt.simple import MQTTClient
 #MODIFY THIS STUFF HERE
 SSID = "YOUR_NETWORK_ID"
 WIFI_PASSWORD = "YOUR_WIFI_PASSWORD"
+PUB_TOPIC = b'cs12001/YOUR-NAME/button'   # your unique topic from Step 1
 
-CLIENT_ID = b'ANYTHING_YOU_LIKE'
-HIVE_URL = b'c9523fb0f87b407f9aeefe715b86eef5.s1.eu.hivemq.cloud'
-USERNAME = b'your_credential_username'
-PASSWORD = b'your_credential_password'
+# HiveMQ public broker - no username or password needed
+BROKER = b'broker.hivemq.com'
 
-#The topic we're publishing to (in this case, a button press)
-PUB_TOPIC = b'/button'
+# Every client on the broker needs a unique ID, so we build one
+# from the Pico's own serial number
+CLIENT_ID = b'pico-' + ubinascii.hexlify(machine.unique_id())
 
 # Register Pin 8 to check for a connection completed by the button
 # Remember, the PULL_DOWN is important!
@@ -92,13 +86,11 @@ wifi_connect()
 # Set HiveMQTT connection details
 mqtt = MQTTClient(
     client_id=CLIENT_ID,
-    server=HIVE_URL,
+    server=BROKER,
     port=8883,
-    user=USERNAME,
-    password=PASSWORD,
     keepalive=5000,
     ssl=True,
-    ssl_params={'server_hostname':HIVE_URL})
+    ssl_params={'server_hostname':BROKER})
 
 # Establish connection to HiveMQTT
 mqtt.connect()
@@ -111,31 +103,17 @@ while True:
     time.sleep(1)
 ```
 
-There are four things you need to modify in addition to your Network SSID and password:
+You only need to change three things: your WiFi ```SSID```, your ```WIFI_PASSWORD```, and ```PUB_TOPIC``` (put your own name in it).
 
-```CLIENT_ID```: This can be anything you like, but I've found that if it includes a number then that screws it up, so maybe don't do that and just make it your name or something (unless your name has a number in it but it probably doesn't)
+### Check it with the HiveMQ browser client
+Before running your code, open the HiveMQ MQTT browser client in a web browser.
 
-```HIVE_URL```: This is the URL that is displayed in the "Overview" tab of your cluster.
-
-<img src="hive5.PNG" class="awssmaller">
-
-```USERNAME``` and ```PASSWORD```: These are the username and password you created when you added a new credential before. Putting these directly in the source file is bad security practice but don't worry about it for now.
-
-To make sure this is working properly, go to the "Web Client" tab, enter your username and password, and click 'Connect'.
-
-<img src="hive7.png" class="awssmaller">
-
-You'll then need to subscribe to the '/button' topic. In the Topic Subscription pane, enter "/button" and then click "Subscribe".
-
-<img src="hive75.png" class="awssmaller">
-
-Nothing should happen (unless you ran your code already in which case STOP JUMPING AHEAD and follow the instructions)
-
-Okay, **now** run your code and hopefully you'll see messages in the Web Client (and in your Thonny console) that look a bit like this!
-
-<img src="hive8.png" class="awssmaller">
-
-The next step is to get an **actual** client (i.e., another Pico W) to receive the messages and do something with them.
+1. Leave the host as broker.hivemq.com and the port as 8884 (tick SSL), then click Connect.
+2. Click Add New Topic Subscription, enter your exact topic (e.g. cs12001/jsmith/button) and click Subscribe.
+3. Nothing should happen yet (unless you already ran your code, in which case STOP JUMPING AHEAD).
+4. Now run publish.py in Thonny. You should see {"state":"off"} messages arrive once a second, switching to {"state":"on"} while you hold the button.
+The next step is to get an actual client — another Pico W — to receive the messages and do something with them.
+Step 4 – Subscribe from a seco
 
 ## Step 4 - Subscribing to your MQTT broker
 This next piece of code looks very similar, but rather than publishing messages to the '/button' topic, it's **subscribing** to them. The idea here is that when the subscriber receives a message that the publisher's button is pressed, it'll turn on the subscriber's LED. It's Pi-to-Pi through WiFi! Here is the subscriber code, with the same stuff to fill in.
@@ -243,4 +221,4 @@ If you've got this far, why not try substituting the 'sensor' on the publisher a
 Alternatively, you could try using one of the [motion detection sensors](https://thepihut.com/products/breadboard-friendly-mini-pir-motion-sensor-with-3-pin-header) connected to the publisher, with a buzzer connected to the subscriber, as a remote burglar alarm.
 
 ## Anything anything else?
-Yes! Get thinking about your first assignment. What ideas do you have? Come up with as many as possible! What sensors will you need for that idea? What actuators? What kind of network connectivity will you need? 
+Yes! Get thinking about your first assignment. What ideas do you have? Come up with as many as possible. What sensors will you need for that idea? What actuators? What kind of network connectivity will you need? 
